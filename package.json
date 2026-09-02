@@ -9,9 +9,12 @@
     "lint": "eslint",
     "audit:images": "node scripts/audit-product-images.mjs",
     "generate:palettes": "node scripts/generate-product-palettes.mjs",
-    "generate:swatches": "node scripts/generate-variant-swatches.mjs"
+    "generate:swatches": "node scripts/generate-variant-swatches.mjs",
+    "import:catalog": "node scripts/import-catalog-to-supabase.mjs"
   },
   "dependencies": {
+    "@supabase/ssr": "^0.12.5",
+    "@supabase/supabase-js": "^2.114.0",
     "framer-motion": "^13.1.1",
     "lucide-react": "^1.34.0",
     "next": "16.3.2",

@@ -11,11 +11,17 @@ import { ProductGallery } from "@/components/product/ProductGallery";
 import { QuantityCart } from "@/components/product/QuantityCart";
 import { SizeChartModal } from "@/components/product/SizeChartModal";
 import { StorefrontFooter } from "@/components/layout/StorefrontFooter";
-import { featuredProduct, relatedProductsFor, type CatalogProduct } from "@/data/catalog";
+import { featuredProduct, type CatalogProduct } from "@/data/catalog";
 import { useProductState } from "@/hooks/useProductState";
 import { formatPrice } from "@/lib/format";
 
-export function ClassicProductPage({ product = featuredProduct }: { product?: CatalogProduct }) {
+export function ClassicProductPage({
+  product = featuredProduct,
+  related = [],
+}: {
+  product?: CatalogProduct;
+  related?: CatalogProduct[];
+}) {
   const state = useProductState(product);
 
   useEffect(() => {
@@ -120,7 +126,7 @@ export function ClassicProductPage({ product = featuredProduct }: { product?: Ca
           </div>
         </section>
 
-        <ClassicRecommendations products={relatedProductsFor(product)} />
+        <ClassicRecommendations products={related} />
       </main>
       <StorefrontFooter />
       <ClassicMobileNav />

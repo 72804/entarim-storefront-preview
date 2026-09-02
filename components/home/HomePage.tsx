@@ -3,11 +3,10 @@
 import Link from "next/link";
 import { ArrowRight, Heart, Leaf, RefreshCw, Sparkles, Truck } from "lucide-react";
 import { ProductGrid } from "@/components/product/ProductGrid";
-import { homepageNewArrivalSlugs, productsBySlugs } from "@/data/catalog";
 import { homepageCategories } from "@/data/navigation";
+import type { CatalogProduct } from "@/data/types";
 
-export function HomePage() {
-  const arrivals = productsBySlugs(homepageNewArrivalSlugs);
+export function HomePage({ arrivals }: { arrivals: CatalogProduct[] }) {
 
   return (
     <main className="site-main pb-24 lg:pb-8">

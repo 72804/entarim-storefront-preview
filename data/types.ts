@@ -4,6 +4,13 @@ export type SwatchCrop = {
   y?: number;
 };
 
+export type VariantSwatchConfig = {
+  sourceImage: string;
+  x: number;
+  y: number;
+  zoom: number;
+};
+
 export type ProductColor = {
   id: string;
   name: string;
@@ -11,6 +18,7 @@ export type ProductColor = {
   images: string[];
   swatchImage?: string;
   swatchCrop?: SwatchCrop;
+  swatchConfig?: VariantSwatchConfig;
 };
 
 export type CatalogProduct = {

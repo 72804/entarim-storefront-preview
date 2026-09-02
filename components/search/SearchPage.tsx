@@ -1,9 +1,8 @@
 import Link from "next/link";
 import { ProductGrid } from "@/components/product/ProductGrid";
-import { searchProducts } from "@/data/catalog";
+import type { CatalogProduct } from "@/data/types";
 
-export function SearchPage({ query }: { query: string }) {
-  const results = searchProducts(query);
+export function SearchPage({ query, results }: { query: string; results: CatalogProduct[] }) {
 
   return (
     <main className="mx-auto w-[min(calc(100%-2rem),1360px)] pb-28 pt-8 lg:pb-16">

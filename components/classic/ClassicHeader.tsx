@@ -1,6 +1,6 @@
 "use client";
 
-import { useLayoutEffect, useMemo, useRef, useState, type FormEvent, type ReactNode } from "react";
+import { useEffect, useLayoutEffect, useMemo, useRef, useState, type FormEvent, type ReactNode } from "react";
 import Link from "next/link";
 import { useRouter } from "next/navigation";
 import {
@@ -40,7 +40,30 @@ export function StorefrontHeader({ hideOnScroll = false }: { hideOnScroll?: bool
   const [headerHeight, setHeaderHeight] = useState(0);
   const router = useRouter();
   const { cartCount, cartTotal } = useStore();
-  const results = useMemo(() => (query.trim().length >= 2 ? searchProducts(query).slice(0, 6) : []), [query]);
+  const [liveResults, setLiveResults] = useState<ReturnType<typeof searchProducts>>([]);
+  const staticResults = useMemo(
+    () => (query.trim().length >= 2 ? searchProducts(query).slice(0, 6) : []),
+    [query],
+  );
+  const results = query.trim().length < 2 ? [] : liveResults.length > 0 ? liveResults : staticResults;
+
+  useEffect(() => {
+    const q = query.trim();
+    if (q.length < 2) return;
+    const controller = new AbortController();
+    const timer = window.setTimeout(() => {
+      fetch(`/api/search?q=${encodeURIComponent(q)}`, { signal: controller.signal })
+        .then((response) => (response.ok ? response.json() : null))
+        .then((payload) => {
+          if (payload?.products) setLiveResults(payload.products.slice(0, 6));
+        })
+        .catch(() => undefined);
+    }, 180);
+    return () => {
+      window.clearTimeout(timer);
+      controller.abort();
+    };
+  }, [query]);
 
   useLayoutEffect(() => {
     const node = headerRef.current;

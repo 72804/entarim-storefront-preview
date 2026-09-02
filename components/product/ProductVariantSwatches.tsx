@@ -32,9 +32,14 @@ export function ProductVariantSwatches({
     <div className="flex flex-wrap gap-1.5 sm:gap-2" role="group" aria-label={`${productName} renk seçimi`}>
       {colors.map((color) => {
         const selected = color.id === selectedId;
-        const generated = resolveSwatchImage(productSlug, color);
-        const preview = generated ?? color.images[0];
-        const crop = generated ? null : resolveSwatchCrop(productSlug, color, productCrop);
+        const liveCrop = color.swatchConfig;
+        const generated = liveCrop ? null : resolveSwatchImage(productSlug, color);
+        const preview = liveCrop?.sourceImage ?? generated ?? color.images[0];
+        const crop = liveCrop
+          ? { x: liveCrop.x, y: liveCrop.y, scale: liveCrop.zoom }
+          : generated
+            ? null
+            : resolveSwatchCrop(productSlug, color, productCrop);
 
         return (
           <button
