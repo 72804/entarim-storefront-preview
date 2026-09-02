@@ -1,8 +1,15 @@
+export type SwatchCrop = {
+  scale?: number;
+  x?: number;
+  y?: number;
+};
+
 export type ProductColor = {
   id: string;
   name: string;
   hex: string;
   images: string[];
+  swatchCrop?: SwatchCrop;
 };
 
 export type CatalogProduct = {
@@ -19,6 +26,7 @@ export type CatalogProduct = {
   relatedSlugs: string[];
   generatedPalette?: string[];
   paletteOverride?: string[];
+  swatchCrop?: SwatchCrop;
 };
 
 export type InfoPage = {

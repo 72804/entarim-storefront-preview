@@ -73,6 +73,8 @@ export function ProductCard({ product }: { product: CatalogProduct }) {
               colors={variantColors}
               selectedId={selectedColor.id}
               productName={product.name}
+              productSlug={product.slug}
+              productCrop={product.swatchCrop}
               onSelect={setSelectedId}
             />
           </div>
