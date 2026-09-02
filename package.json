@@ -8,7 +8,8 @@
     "start": "next start",
     "lint": "eslint",
     "audit:images": "node scripts/audit-product-images.mjs",
-    "generate:palettes": "node scripts/generate-product-palettes.mjs"
+    "generate:palettes": "node scripts/generate-product-palettes.mjs",
+    "generate:swatches": "node scripts/generate-variant-swatches.mjs"
   },
   "dependencies": {
     "framer-motion": "^13.1.1",

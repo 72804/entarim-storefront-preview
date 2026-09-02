@@ -9,6 +9,7 @@ export type ProductColor = {
   name: string;
   hex: string;
   images: string[];
+  swatchImage?: string;
   swatchCrop?: SwatchCrop;
 };
 

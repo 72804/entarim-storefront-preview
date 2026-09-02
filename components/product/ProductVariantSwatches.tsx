@@ -2,7 +2,7 @@
 
 import type { MouseEvent } from "react";
 import { cn } from "@/lib/cn";
-import { resolveSwatchCrop } from "@/data/swatch-crops";
+import { resolveSwatchCrop, resolveSwatchImage } from "@/data/swatch-crops";
 import type { ProductColor, SwatchCrop } from "@/data/types";
 
 type ProductVariantSwatchesProps = {
@@ -32,8 +32,9 @@ export function ProductVariantSwatches({
     <div className="flex flex-wrap gap-1.5 sm:gap-2" role="group" aria-label={`${productName} renk seçimi`}>
       {colors.map((color) => {
         const selected = color.id === selectedId;
-        const preview = color.images[0];
-        const crop = resolveSwatchCrop(productSlug, color, productCrop);
+        const generated = resolveSwatchImage(productSlug, color);
+        const preview = generated ?? color.images[0];
+        const crop = generated ? null : resolveSwatchCrop(productSlug, color, productCrop);
 
         return (
           <button
@@ -56,11 +57,15 @@ export function ProductVariantSwatches({
               alt=""
               draggable={false}
               className="pointer-events-none size-full max-w-none object-cover"
-              style={{
-                objectPosition: `${crop.x}% ${crop.y}%`,
-                transform: `scale(${crop.scale})`,
-                transformOrigin: `${crop.x}% ${crop.y}%`,
-              }}
+              style={
+                crop
+                  ? {
+                      objectPosition: `${crop.x}% ${crop.y}%`,
+                      transform: `scale(${crop.scale})`,
+                      transformOrigin: `${crop.x}% ${crop.y}%`,
+                    }
+                  : undefined
+              }
             />
           </button>
         );
