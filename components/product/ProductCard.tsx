@@ -1,20 +1,27 @@
 "use client";
 
+import { useMemo, useState } from "react";
 import Link from "next/link";
 import { Heart } from "lucide-react";
 import { cn } from "@/lib/cn";
 import { formatPrice } from "@/lib/format";
-import { cardPalette } from "@/data/catalog";
 import type { CatalogProduct } from "@/data/types";
 import { useStore } from "@/store/StoreProvider";
+import { ProductVariantSwatches } from "@/components/product/ProductVariantSwatches";
 
 export function ProductCard({ product }: { product: CatalogProduct }) {
   const { isFavorite, toggleFavorite } = useStore();
   const favorited = isFavorite(product.slug);
-  const primaryColor = product.colors.find((item) => item.images[0]);
-  const image = primaryColor?.images[0];
-  const hoverImage = primaryColor?.images[1] ?? image;
-  const palette = cardPalette(product).slice(0, 5);
+  const variantColors = useMemo(
+    () => product.colors.filter((color) => Boolean(color.images[0])),
+    [product.colors],
+  );
+  const defaultColor = variantColors[0];
+  const [selectedId, setSelectedId] = useState(defaultColor?.id ?? "");
+  const selectedColor = variantColors.find((color) => color.id === selectedId) ?? defaultColor;
+  const image = selectedColor?.images[0];
+  const hoverImage = selectedColor?.images[1] ?? image;
+  const showSwatches = variantColors.length > 1;
 
   return (
     <article className="group">
@@ -60,27 +67,24 @@ export function ProductCard({ product }: { product: CatalogProduct }) {
         </Link>
       </div>
       <div className="px-1 pt-4">
-        <div className="flex items-start justify-between gap-3">
-          <div>
-            <Link
-              className="text-sm font-bold text-slate-800 transition hover:text-rose-800 sm:text-[15px]"
-              href={`/${product.slug}`}
-            >
-              {product.name}
-            </Link>
-            <p className="mt-1 text-xs text-slate-500">{product.category}</p>
+        {showSwatches && selectedColor ? (
+          <div className="mb-3">
+            <ProductVariantSwatches
+              colors={variantColors}
+              selectedId={selectedColor.id}
+              productName={product.name}
+              onSelect={setSelectedId}
+            />
           </div>
-          {palette.length > 0 ? (
-            <div className="flex shrink-0 flex-nowrap gap-1.5 pt-1" aria-label="Ürün görselindeki renkler">
-              {palette.map((swatch) => (
-                <span
-                  key={swatch}
-                  className="inline-block size-[15px] shrink-0 rounded-full border border-black/15 sm:size-4"
-                  style={{ backgroundColor: swatch }}
-                />
-              ))}
-            </div>
-          ) : null}
+        ) : null}
+        <div>
+          <Link
+            className="text-sm font-bold text-slate-800 transition hover:text-rose-800 sm:text-[15px]"
+            href={`/${product.slug}`}
+          >
+            {product.name}
+          </Link>
+          <p className="mt-1 text-xs text-slate-500">{product.category}</p>
         </div>
         <div className="mt-3 flex items-center gap-2">
           <strong className="text-base font-extrabold text-rose-900">{formatPrice(product.price)}</strong>
