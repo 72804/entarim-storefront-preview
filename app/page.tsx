@@ -3,7 +3,7 @@ import { StorefrontShell } from "@/components/layout/StorefrontShell";
 
 export default function Home() {
   return (
-    <StorefrontShell>
+    <StorefrontShell hideHeaderOnScroll>
       <HomePage />
     </StorefrontShell>
   );
