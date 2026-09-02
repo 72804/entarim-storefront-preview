@@ -27,7 +27,7 @@ export function EditorialAccordion({ items, openId, onChange }: EditorialAccordi
           <div key={item.title} className="border-b border-neutral-200">
             <button
               type="button"
-              className="flex w-full items-center justify-between gap-4 py-4 text-left text-[12px] font-medium uppercase tracking-[0.18em] text-neutral-800 transition duration-200 hover:text-[#e21f27] focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-[#e21f27]"
+              className="flex w-full items-center justify-between gap-4 py-4 text-left text-[12px] font-medium uppercase tracking-[0.18em] text-neutral-800 transition duration-200 hover:text-brand-red focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-brand-red"
               aria-expanded={open}
               onClick={() => onChange(open ? null : item.title)}
             >

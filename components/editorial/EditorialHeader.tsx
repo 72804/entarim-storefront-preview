@@ -52,7 +52,7 @@ export function EditorialHeader() {
         <div className="flex items-center gap-4">
           <button
             type="button"
-            className="text-[11px] font-medium uppercase tracking-[0.22em] focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-[#e21f27]"
+            className="text-[11px] font-medium uppercase tracking-[0.22em] focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-brand-red"
             aria-expanded={open}
             aria-label="Menü"
             onClick={() => setOpen((value) => !value)}
@@ -75,7 +75,7 @@ export function EditorialHeader() {
         <div className="flex items-center justify-end gap-4 sm:gap-6">
           <button
             type="button"
-            className="text-[11px] font-medium uppercase tracking-[0.22em] focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-[#e21f27]"
+            className="text-[11px] font-medium uppercase tracking-[0.22em] focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-brand-red"
             aria-label="Ara"
             onClick={() => setSearchOpen((value) => !value)}
           >
@@ -121,7 +121,7 @@ export function EditorialHeader() {
           <input
             id="editorial-search"
             name="q"
-            className="h-10 w-full border-b border-neutral-300 bg-transparent text-sm outline-none placeholder:text-neutral-400 focus:border-[#e21f27]"
+            className="h-10 w-full border-b border-neutral-300 bg-transparent text-sm outline-none placeholder:text-neutral-400 focus:border-brand-red"
             placeholder="Ara"
             autoFocus
           />
@@ -138,7 +138,7 @@ export function EditorialHeader() {
               <li key={item.label}>
                 <Link
                   href={item.href}
-                  className="font-display text-3xl text-neutral-900 transition duration-200 hover:text-[#e21f27]"
+                  className="font-display text-3xl text-neutral-900 transition duration-200 hover:text-brand-red"
                   onClick={() => setOpen(false)}
                 >
                   {item.label}

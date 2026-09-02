@@ -75,7 +75,7 @@ export function ProductGallery({
               <button
                 type="button"
                 className={cn(
-                  "absolute left-3 top-1/2 z-30 grid size-10 -translate-y-1/2 place-items-center rounded-full bg-white/90 text-[#2f2430] shadow-sm ring-1 ring-[#eadfd5] transition duration-200 hover:bg-white focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-[#e21f27]",
+                  "absolute left-3 top-1/2 z-30 grid size-10 -translate-y-1/2 place-items-center rounded-full bg-white/90 text-[#2f2430] shadow-sm ring-1 ring-[#eadfd5] transition duration-200 hover:bg-white focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-brand-red",
                   editorial && "left-4 bg-white/80",
                 )}
                 aria-label="Önceki ürün görseli"
@@ -86,7 +86,7 @@ export function ProductGallery({
               <button
                 type="button"
                 className={cn(
-                  "absolute right-3 top-1/2 z-30 grid size-10 -translate-y-1/2 place-items-center rounded-full bg-white/90 text-[#2f2430] shadow-sm ring-1 ring-[#eadfd5] transition duration-200 hover:bg-white focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-[#e21f27]",
+                  "absolute right-3 top-1/2 z-30 grid size-10 -translate-y-1/2 place-items-center rounded-full bg-white/90 text-[#2f2430] shadow-sm ring-1 ring-[#eadfd5] transition duration-200 hover:bg-white focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-brand-red",
                   editorial && "right-4 bg-white/80",
                 )}
                 aria-label="Sonraki ürün görseli"
@@ -124,9 +124,9 @@ export function ProductGallery({
                 aria-selected={active}
                 aria-label={`${productName} görsel ${index + 1}`}
                 className={cn(
-                  "overflow-hidden bg-white p-1 ring-1 transition duration-200 focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-[#e21f27]",
+                  "overflow-hidden bg-white p-1 ring-1 transition duration-200 focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-brand-red",
                   editorial ? "rounded-none" : "rounded-2xl",
-                  active ? "ring-[#e21f27]" : "ring-[#eadfd5] hover:ring-[#d5c6bb]",
+                  active ? "ring-brand-red" : "ring-[#eadfd5] hover:ring-[#d5c6bb]",
                 )}
                 onClick={() => onImageIndexChange(index)}
               >

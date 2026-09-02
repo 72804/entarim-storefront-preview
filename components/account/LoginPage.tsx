@@ -38,7 +38,7 @@ export function LoginPage() {
           />
         </label>
         <button
-          className="mt-2 h-12 rounded-full bg-rose-800 text-sm font-bold text-white"
+          className="mt-2 h-12 rounded-full bg-brand-red text-sm font-bold text-white"
           type="submit"
         >
           Giriş Yap

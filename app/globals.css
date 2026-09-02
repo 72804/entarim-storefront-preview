@@ -1,8 +1,8 @@
 @import "tailwindcss";
 
 :root {
-  --brand-red: #e21f27;
-  --brand-red-dark: #b9141b;
+  --brand-red: #e21e28;
+  --brand-red-dark: #c91822;
   --brand-cream: #fbf7f1;
   --brand-cream-strong: #f5ede4;
   --brand-border: #eadfd5;
@@ -15,6 +15,7 @@
   --color-background: var(--background);
   --color-foreground: var(--foreground);
   --color-brand-red: var(--brand-red);
+  --color-brand-red-dark: var(--brand-red-dark);
   --color-brand-cream: var(--brand-cream);
   --color-brand-ink: var(--brand-ink);
   --font-sans: var(--font-nunito), "Segoe UI", sans-serif;

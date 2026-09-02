@@ -54,14 +54,14 @@ export function ColorSwatches({
                   : color.name
               }
               className={cn(
-                "group cursor-pointer text-left transition duration-200 focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-[#e21f27]",
+                "group cursor-pointer text-left transition duration-200 focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-brand-red",
                 editorial
                   ? "rounded-none"
                   : "rounded-2xl hover:-translate-y-0.5 hover:shadow-sm",
                 selected
                   ? editorial
-                    ? "ring-1 ring-[#e21f27]"
-                    : "ring-2 ring-[#e21f27]"
+                    ? "ring-1 ring-brand-red"
+                    : "ring-2 ring-brand-red"
                   : compared
                     ? editorial
                       ? "ring-1 ring-neutral-400"

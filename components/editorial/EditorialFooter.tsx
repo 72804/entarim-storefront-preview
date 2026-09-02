@@ -13,24 +13,24 @@ export function EditorialFooter() {
         </div>
         <div className="grid grid-cols-2 gap-8 text-sm text-neutral-600 sm:grid-cols-3">
           <div className="grid gap-2">
-            <Link href="/hamile-elbise" className="hover:text-[#e21f27]">
+            <Link href="/hamile-elbise" className="hover:text-brand-red">
               Hamile Elbise
             </Link>
-            <Link href="/yeni-sezon" className="hover:text-[#e21f27]">
+            <Link href="/yeni-sezon" className="hover:text-brand-red">
               Yeni Sezon
             </Link>
-            <Link href="/lohusa" className="hover:text-[#e21f27]">
+            <Link href="/lohusa" className="hover:text-brand-red">
               Lohusa
             </Link>
           </div>
           <div className="grid gap-2">
-            <Link href="/iletisim" className="hover:text-[#e21f27]">
+            <Link href="/iletisim" className="hover:text-brand-red">
               İletişim
             </Link>
-            <Link href="/kargo-teslimat" className="hover:text-[#e21f27]">
+            <Link href="/kargo-teslimat" className="hover:text-brand-red">
               Kargo
             </Link>
-            <Link href="/iade-politikasi" className="hover:text-[#e21f27]">
+            <Link href="/iade-politikasi" className="hover:text-brand-red">
               İade
             </Link>
           </div>

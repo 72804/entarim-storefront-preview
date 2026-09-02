@@ -23,20 +23,20 @@ export function HomePage() {
                 alt="Hamilelik stilinizi, konforla buluşturan zarif giysiler"
               />
             </div>
-            <div className="absolute -bottom-4 left-1/2 flex -translate-x-1/2 items-center gap-2 rounded-full bg-white px-4 py-2 text-xs font-bold text-rose-800 ring-1 ring-[#eadfd5]">
+            <div className="absolute -bottom-4 left-1/2 flex -translate-x-1/2 items-center gap-2 rounded-full bg-white px-4 py-2 text-xs font-bold text-brand-red ring-1 ring-[#eadfd5]">
               <Truck size={16} />
               Ücretsiz kargo fırsatı
             </div>
           </div>
           <div className="mt-10 grid gap-3">
             <Link
-              className="inline-flex items-center justify-center gap-2 rounded-full bg-rose-800 px-6 py-3 text-sm font-bold text-white"
+              className="inline-flex items-center justify-center gap-2 rounded-full bg-brand-red px-6 py-3 text-sm font-bold text-white"
               href="/yeni-sezon"
             >
               Koleksiyonu İncele <ArrowRight size={16} />
             </Link>
             <Link
-              className="inline-flex items-center justify-center gap-2 rounded-full bg-white px-6 py-3 text-sm font-bold text-rose-900 ring-1 ring-rose-100"
+              className="inline-flex items-center justify-center gap-2 rounded-full bg-white px-6 py-3 text-sm font-bold text-brand-red ring-1 ring-rose-100"
               href="/hamile-elbise"
             >
               Hamile Elbiseleri <Heart size={16} />
@@ -48,8 +48,8 @@ export function HomePage() {
       <section className="hero-full-bleed relative hidden overflow-hidden bg-gradient-to-br from-white via-[#fbf7f1] to-white pb-12 pt-8 sm:pb-16 sm:pt-12 lg:block lg:pb-20 lg:pt-16">
         <div className="relative mx-auto grid w-full max-w-[1360px] items-center gap-9 px-4 sm:gap-12 sm:px-6 lg:grid-cols-[1.05fr_0.95fr] lg:px-8">
           <div className="mx-auto max-w-2xl text-center lg:mx-0 lg:text-left">
-            <span className="inline-flex max-w-full items-center gap-2 rounded-full bg-white/90 px-4 py-2 text-[10px] font-bold uppercase tracking-[0.16em] text-rose-700 ring-1 ring-[#eadfd5] sm:text-xs sm:tracking-[0.2em]">
-              <Sparkles size={16} className="text-[#e21f27]" />
+            <span className="inline-flex max-w-full items-center gap-2 rounded-full bg-white/90 px-4 py-2 text-[10px] font-bold uppercase tracking-[0.16em] text-brand-red ring-1 ring-[#eadfd5] sm:text-xs sm:tracking-[0.2em]">
+              <Sparkles size={16} className="text-brand-red" />
               Yeni Sezon -Anne Adaylarının Koleksiyonu!..
             </span>
             <p className="font-display mt-6 text-4xl italic text-slate-800">
@@ -64,13 +64,13 @@ export function HomePage() {
             </p>
             <div className="mt-8 flex flex-col gap-3 sm:flex-row">
               <Link
-                className="inline-flex items-center justify-center gap-2 rounded-full bg-rose-800 px-6 py-3 text-sm font-bold text-white transition hover:-translate-y-0.5 hover:bg-rose-700"
+                className="inline-flex items-center justify-center gap-2 rounded-full bg-brand-red px-6 py-3 text-sm font-bold text-white transition hover:-translate-y-0.5 hover:bg-brand-red-dark"
                 href="/yeni-sezon"
               >
                 Koleksiyonu İncele <ArrowRight size={16} />
               </Link>
               <Link
-                className="inline-flex items-center justify-center gap-2 rounded-full bg-white px-6 py-3 text-sm font-bold text-rose-900 ring-1 ring-rose-100 transition hover:-translate-y-0.5"
+                className="inline-flex items-center justify-center gap-2 rounded-full bg-white px-6 py-3 text-sm font-bold text-brand-red ring-1 ring-rose-100 transition hover:-translate-y-0.5"
                 href="/hamile-elbise"
               >
                 Hamile Elbiseleri <Heart size={16} />
@@ -99,7 +99,7 @@ export function HomePage() {
       <section className="mx-auto w-[min(calc(100%-2rem),1360px)] py-16 sm:py-20" aria-labelledby="new-products-title">
         <div className="mb-8 flex flex-col gap-5 sm:mb-10 sm:flex-row sm:items-end sm:justify-between">
           <div>
-            <p className="text-xs font-extrabold uppercase tracking-[0.18em] text-rose-600">İlk sen keşfet</p>
+            <p className="text-xs font-extrabold uppercase tracking-[0.18em] text-brand-red">İlk sen keşfet</p>
             <h2 className="font-display mt-2 text-3xl font-semibold leading-none text-rose-950 sm:text-4xl" id="new-products-title">
               Yeni Gelenler:
             </h2>
@@ -108,7 +108,7 @@ export function HomePage() {
             </p>
           </div>
           <Link
-            className="inline-flex w-fit items-center gap-2 rounded-full bg-white px-5 py-2.5 text-sm font-bold text-rose-900 shadow-sm ring-1 ring-rose-100 transition hover:-translate-y-0.5"
+            className="inline-flex w-fit items-center gap-2 rounded-full bg-white px-5 py-2.5 text-sm font-bold text-brand-red shadow-sm ring-1 ring-rose-100 transition hover:-translate-y-0.5"
             href="/yeni-sezon"
           >
             Tümünü Gör <ArrowRight size={16} />
@@ -120,7 +120,7 @@ export function HomePage() {
       <section className="mx-auto w-[min(calc(100%-2rem),1360px)] pb-16 sm:pb-20" aria-labelledby="categories-title">
         <div className="mb-8 flex flex-col gap-5 sm:mb-10 sm:flex-row sm:items-end sm:justify-between">
           <div>
-            <p className="text-xs font-extrabold uppercase tracking-[0.18em] text-rose-600">Tarzına göre seç,</p>
+            <p className="text-xs font-extrabold uppercase tracking-[0.18em] text-brand-red">Tarzına göre seç,</p>
             <h2 className="font-display mt-2 text-3xl font-semibold leading-none text-rose-950 sm:text-4xl" id="categories-title">
               Tarzına Göre Keşfet.
             </h2>
@@ -129,7 +129,7 @@ export function HomePage() {
             </p>
           </div>
           <Link
-            className="inline-flex w-fit items-center gap-2 rounded-full bg-white px-5 py-2.5 text-sm font-bold text-rose-900 shadow-sm ring-1 ring-rose-100"
+            className="inline-flex w-fit items-center gap-2 rounded-full bg-white px-5 py-2.5 text-sm font-bold text-brand-red shadow-sm ring-1 ring-rose-100"
             href="/kategoriler"
           >
             Kategoriler <ArrowRight size={16} />
@@ -155,7 +155,7 @@ export function HomePage() {
                 />
               </span>
               <span className="absolute inset-0 bg-gradient-to-r from-[#2f2430]/72 via-[#2f2430]/30 to-transparent" />
-              <span className="relative z-10 inline-flex rounded-full bg-white/90 px-3 py-2 text-xs font-extrabold uppercase tracking-[0.12em] text-rose-800">
+              <span className="relative z-10 inline-flex rounded-full bg-white/90 px-3 py-2 text-xs font-extrabold uppercase tracking-[0.12em] text-brand-red">
                 {category.badge}
               </span>
               <span className="absolute bottom-5 left-5 right-5 z-10">
@@ -163,7 +163,7 @@ export function HomePage() {
                   {category.title}
                 </strong>
                 <small className="mt-3 block max-w-xs text-sm leading-6 text-white/85">{category.description}</small>
-                <span className="mt-5 inline-flex items-center gap-2 rounded-full bg-white px-4 py-2 text-xs font-extrabold text-rose-900">
+                <span className="mt-5 inline-flex items-center gap-2 rounded-full bg-white px-4 py-2 text-xs font-extrabold text-brand-red">
                   Keşfet <ArrowRight size={14} />
                 </span>
               </span>
@@ -172,7 +172,7 @@ export function HomePage() {
         </div>
       </section>
 
-      <section className="bg-rose-900 py-10 text-white sm:py-12">
+      <section className="bg-brand-red py-10 text-white sm:py-12">
         <div className="mx-auto w-[min(calc(100%-2rem),1360px)] text-center">
           <p className="text-xs font-extrabold uppercase tracking-[0.18em] text-white/70">Haftanın fırsatı</p>
           <h2 className="font-display mt-3 text-3xl font-semibold sm:text-4xl">
@@ -182,7 +182,7 @@ export function HomePage() {
             Yeni sezon! Hamile giyim koleksiyonunda zarif ve konforlu giysileri keşfet!
           </p>
           <Link
-            className="mt-6 inline-flex items-center gap-2 rounded-full bg-white px-5 py-2.5 text-sm font-bold text-rose-900"
+            className="mt-6 inline-flex items-center gap-2 rounded-full bg-white px-5 py-2.5 text-sm font-bold text-brand-red"
             href="/yeni-sezon"
           >
             Koleksiyonu İncele <ArrowRight size={16} />
@@ -196,7 +196,7 @@ export function HomePage() {
 function HeroPerk({ icon, label }: { icon: React.ReactNode; label: string }) {
   return (
     <div className="flex items-center gap-2 rounded-2xl bg-white/75 p-3 ring-1 ring-white/80">
-      <span className="grid size-9 shrink-0 place-items-center rounded-full bg-rose-50 text-rose-700">{icon}</span>
+      <span className="grid size-9 shrink-0 place-items-center rounded-full bg-rose-50 text-brand-red">{icon}</span>
       {label}
     </div>
   );

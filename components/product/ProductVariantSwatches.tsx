@@ -44,7 +44,7 @@ export function ProductVariantSwatches({
             className={cn(
               "variant-swatch relative size-10 shrink-0 overflow-hidden rounded-[7px] bg-[#fbf7f1] transition duration-200 sm:size-11 lg:size-12",
               selected
-                ? "ring-2 ring-[#e21f27]"
+                ? "ring-2 ring-brand-red"
                 : "ring-1 ring-[#eadfd5] hover:ring-[#2f2430]/35",
             )}
             onClick={(event) => handleSelect(event, color.id)}

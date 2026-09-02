@@ -13,10 +13,10 @@ export function CartPage() {
       <h1 className="font-display text-4xl font-semibold text-rose-950 sm:text-5xl">Sepetim</h1>
       {cart.length === 0 ? (
         <div className="mt-10 rounded-[2rem] bg-white p-10 text-center ring-1 ring-[#eadfd5]">
-          <ShoppingBag className="mx-auto text-[#e21f27]" size={32} />
+          <ShoppingBag className="mx-auto text-brand-red" size={32} />
           <p className="mt-4 text-sm text-slate-500">Sepetiniz şu anda boş.</p>
           <Link
-            className="mt-6 inline-flex rounded-full bg-rose-800 px-6 py-3 text-sm font-bold text-white"
+            className="mt-6 inline-flex rounded-full bg-brand-red px-6 py-3 text-sm font-bold text-white"
             href="/yeni-sezon"
           >
             Alışverişe başla
@@ -39,14 +39,14 @@ export function CartPage() {
                   />
                 </Link>
                 <div className="min-w-0 flex-1">
-                  <Link className="text-sm font-bold text-[#2f2430] hover:text-[#e21f27]" href={`/${item.slug}`}>
+                  <Link className="text-sm font-bold text-[#2f2430] hover:text-brand-red" href={`/${item.slug}`}>
                     {item.name}
                   </Link>
                   <p className="mt-1 text-xs text-slate-500">
                     {item.colorName}
                     {item.size ? ` · Beden ${item.size}` : ""}
                   </p>
-                  <strong className="mt-3 block text-sm text-[#e21f27]">{formatPrice(item.price)}</strong>
+                  <strong className="mt-3 block text-sm text-brand-red">{formatPrice(item.price)}</strong>
                   <div className="mt-3 flex items-center gap-3">
                     <div className="inline-flex items-center rounded-full bg-[#fbf7f1] ring-1 ring-[#eadfd5]">
                       <button
@@ -69,7 +69,7 @@ export function CartPage() {
                     </div>
                     <button
                       type="button"
-                      className="inline-flex items-center gap-1 text-xs font-bold text-slate-400 hover:text-[#e21f27]"
+                      className="inline-flex items-center gap-1 text-xs font-bold text-slate-400 hover:text-brand-red"
                       onClick={() => removeItem(item.key)}
                     >
                       <Trash2 size={14} />
@@ -91,7 +91,7 @@ export function CartPage() {
             </p>
             <button
               type="button"
-              className="mt-6 w-full rounded-full bg-rose-800 px-5 py-3 text-sm font-bold text-white"
+              className="mt-6 w-full rounded-full bg-brand-red px-5 py-3 text-sm font-bold text-white"
             >
               Ödemeye geç
             </button>

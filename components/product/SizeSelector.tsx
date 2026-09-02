@@ -34,10 +34,10 @@ export function SizeSelector({
           <button
             type="button"
             className={cn(
-              "text-xs transition duration-200 focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-[#e21f27]",
+              "text-xs transition duration-200 focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-brand-red",
               editorial
-                ? "font-medium uppercase tracking-[0.16em] text-neutral-500 hover:text-[#e21f27]"
-                : "font-bold text-[#e21f27] hover:text-[#b9141b]",
+                ? "font-medium uppercase tracking-[0.16em] text-neutral-500 hover:text-brand-red"
+                : "font-bold text-brand-red hover:text-brand-red-dark",
             )}
             onClick={onOpenChart}
           >
@@ -60,13 +60,13 @@ export function SizeSelector({
               type="button"
               aria-pressed={selected}
               className={cn(
-                "grid h-11 place-items-center text-sm transition duration-200 focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-[#e21f27]",
+                "grid h-11 place-items-center text-sm transition duration-200 focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-brand-red",
                 editorial
                   ? selected
-                    ? "border border-[#e21f27] bg-[#e21f27] font-medium text-white"
+                    ? "border border-brand-red bg-brand-red font-medium text-white"
                     : "border border-neutral-300 bg-transparent font-medium text-neutral-800 hover:border-neutral-800"
                   : selected
-                    ? "rounded-xl bg-[#e21f27] font-bold text-white ring-1 ring-[#e21f27]"
+                    ? "rounded-xl bg-brand-red font-bold text-white ring-1 ring-brand-red"
                     : "rounded-xl bg-white font-bold text-slate-600 ring-1 ring-[#eadfd5] hover:ring-[#d5c6bb]",
               )}
               onClick={() => onChange(size)}

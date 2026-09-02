@@ -30,8 +30,8 @@ export function ProductCard({ product }: { product: CatalogProduct }) {
           className={cn(
             "absolute right-5 top-5 z-20 grid size-9 place-items-center rounded-full text-lg shadow-sm ring-1 transition",
             favorited
-              ? "bg-[#e21f27] text-white ring-[#e21f27]"
-              : "bg-white text-rose-800 ring-rose-100 hover:bg-rose-50",
+              ? "bg-brand-red text-white ring-brand-red"
+              : "bg-white text-brand-red ring-rose-100 hover:bg-rose-50",
           )}
           type="button"
           aria-pressed={favorited}
@@ -44,7 +44,7 @@ export function ProductCard({ product }: { product: CatalogProduct }) {
           className="relative flex aspect-[4/5] items-center justify-center overflow-hidden rounded-[1.35rem] bg-[#fbf7f1]"
           href={`/${product.slug}`}
         >
-          <span className="absolute left-3 top-3 z-10 rounded-full bg-white/90 px-3 py-1.5 text-[10px] font-extrabold uppercase tracking-[0.14em] text-rose-800 shadow-sm">
+          <span className="absolute left-3 top-3 z-10 rounded-full bg-white/90 px-3 py-1.5 text-[10px] font-extrabold uppercase tracking-[0.14em] text-brand-red shadow-sm">
             ENTARİM
           </span>
           {/* eslint-disable-next-line @next/next/no-img-element */}
@@ -61,7 +61,7 @@ export function ProductCard({ product }: { product: CatalogProduct }) {
             alt=""
             loading="lazy"
           />
-          <span className="absolute inset-x-3 bottom-3 translate-y-16 rounded-full bg-rose-900 px-4 py-3 text-center text-xs font-bold text-white opacity-0 shadow-lg transition duration-300 group-hover:translate-y-0 group-hover:opacity-100">
+          <span className="absolute inset-x-3 bottom-3 translate-y-16 rounded-full bg-brand-red px-4 py-3 text-center text-xs font-bold text-white opacity-0 shadow-lg transition duration-300 group-hover:translate-y-0 group-hover:opacity-100">
             Ürünü İncele
           </span>
         </Link>
@@ -81,7 +81,7 @@ export function ProductCard({ product }: { product: CatalogProduct }) {
         ) : null}
         <div>
           <Link
-            className="text-sm font-bold text-slate-800 transition hover:text-rose-800 sm:text-[15px]"
+            className="text-sm font-bold text-slate-800 transition hover:text-brand-red sm:text-[15px]"
             href={`/${product.slug}`}
           >
             {product.name}
@@ -89,7 +89,7 @@ export function ProductCard({ product }: { product: CatalogProduct }) {
           <p className="mt-1 text-xs text-slate-500">{product.category}</p>
         </div>
         <div className="mt-3 flex items-center gap-2">
-          <strong className="text-base font-extrabold text-rose-900">{formatPrice(product.price)}</strong>
+          <strong className="text-base font-extrabold text-brand-red">{formatPrice(product.price)}</strong>
           {product.oldPrice ? (
             <del className="text-xs text-slate-400">{formatPrice(product.oldPrice)}</del>
           ) : null}

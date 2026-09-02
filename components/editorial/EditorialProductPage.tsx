@@ -67,7 +67,7 @@ export function EditorialProductPage() {
                   aria-label={`${product.name} görsel ${index + 1}`}
                   aria-pressed={state.imageIndex === index}
                   className={`h-16 w-12 shrink-0 overflow-hidden ${
-                    state.imageIndex === index ? "ring-1 ring-[#e21f27]" : "ring-1 ring-transparent"
+                    state.imageIndex === index ? "ring-1 ring-brand-red" : "ring-1 ring-transparent"
                   }`}
                   onClick={() => state.setImageIndex(index)}
                 >
@@ -130,7 +130,7 @@ export function EditorialProductPage() {
                       extra: (
                         <button
                           type="button"
-                          className="text-[11px] font-medium uppercase tracking-[0.16em] text-neutral-500 transition duration-200 hover:text-[#e21f27] focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-[#e21f27]"
+                          className="text-[11px] font-medium uppercase tracking-[0.16em] text-neutral-500 transition duration-200 hover:text-brand-red focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-brand-red"
                           onClick={() => state.setSizeChartOpen(true)}
                         >
                           Beden Tablosu

@@ -37,7 +37,7 @@ export function QuantityCart({
           <button
             type="button"
             aria-label="Adeti azalt"
-            className="grid size-12 place-items-center text-neutral-700 transition hover:bg-neutral-50 focus-visible:outline-2 focus-visible:outline-offset-[-2px] focus-visible:outline-[#e21f27]"
+            className="grid size-12 place-items-center text-neutral-700 transition hover:bg-neutral-50 focus-visible:outline-2 focus-visible:outline-offset-[-2px] focus-visible:outline-brand-red"
             onClick={() => onQuantityChange(Math.max(1, quantity - 1))}
           >
             <Minus size={14} />
@@ -48,7 +48,7 @@ export function QuantityCart({
           <button
             type="button"
             aria-label="Adeti artır"
-            className="grid size-12 place-items-center text-neutral-700 transition hover:bg-neutral-50 focus-visible:outline-2 focus-visible:outline-offset-[-2px] focus-visible:outline-[#e21f27]"
+            className="grid size-12 place-items-center text-neutral-700 transition hover:bg-neutral-50 focus-visible:outline-2 focus-visible:outline-offset-[-2px] focus-visible:outline-brand-red"
             onClick={() => onQuantityChange(quantity + 1)}
           >
             <Plus size={14} />
@@ -58,7 +58,7 @@ export function QuantityCart({
         <label className="flex h-12 w-24 shrink-0 items-center justify-between rounded-full bg-white px-3 text-xs font-bold text-slate-600 ring-1 ring-[#eadfd5] sm:w-32 sm:px-4 sm:text-sm">
           Adet
           <input
-            className="w-9 bg-transparent text-center text-sm font-extrabold text-[#e21f27] outline-none sm:w-12"
+            className="w-9 bg-transparent text-center text-sm font-extrabold text-brand-red outline-none sm:w-12"
             type="number"
             min={1}
             value={quantity}
@@ -73,10 +73,10 @@ export function QuantityCart({
       <button
         type="button"
         className={cn(
-          "inline-flex h-12 min-w-0 flex-1 items-center justify-center gap-2 px-4 text-xs font-extrabold text-white transition duration-200 focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-[#e21f27] sm:px-6 sm:text-sm",
+          "inline-flex h-12 min-w-0 flex-1 items-center justify-center gap-2 px-4 text-xs font-extrabold text-white transition duration-200 focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-brand-red sm:px-6 sm:text-sm",
           editorial
-            ? "rounded-none bg-[#e21f27] tracking-[0.18em] hover:bg-[#b9141b]"
-            : "rounded-full bg-[#e21f27] shadow-lg shadow-[#e21f27]/15 hover:-translate-y-0.5 hover:bg-[#b9141b]",
+            ? "rounded-none bg-brand-red tracking-[0.18em] hover:bg-brand-red-dark"
+            : "rounded-full bg-brand-red shadow-lg shadow-brand-red/15 hover:-translate-y-0.5 hover:bg-brand-red-dark",
         )}
         onClick={onAddToCart}
       >
@@ -89,14 +89,14 @@ export function QuantityCart({
         aria-pressed={wishlist}
         aria-label={wishlist ? "Favorilerden çıkar" : "Favorilere ekle"}
         className={cn(
-          "grid h-12 w-12 shrink-0 place-items-center text-xl transition duration-200 focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-[#e21f27]",
+          "grid h-12 w-12 shrink-0 place-items-center text-xl transition duration-200 focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-brand-red",
           editorial
             ? wishlist
-              ? "border border-[#e21f27] text-[#e21f27]"
+              ? "border border-brand-red text-brand-red"
               : "border border-neutral-300 text-neutral-700 hover:border-neutral-800"
             : wishlist
-              ? "rounded-full bg-[#e21f27] text-white"
-              : "rounded-full bg-white text-[#e21f27] ring-1 ring-[#eadfd5] hover:bg-[#fbf7f1]",
+              ? "rounded-full bg-brand-red text-white"
+              : "rounded-full bg-white text-brand-red ring-1 ring-[#eadfd5] hover:bg-[#fbf7f1]",
         )}
         onClick={onToggleWishlist}
       >

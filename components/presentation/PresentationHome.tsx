@@ -31,7 +31,7 @@ export function PresentationHome() {
         <header className="presentation-enter mx-auto max-w-2xl text-center">
           <Link
             href="/"
-            className="text-[11px] font-semibold uppercase tracking-[0.2em] text-[#2f2430]/40 transition hover:text-[#e21f27]"
+            className="text-[11px] font-semibold uppercase tracking-[0.2em] text-[#2f2430]/40 transition hover:text-brand-red"
           >
             Mağazaya dön
           </Link>
@@ -59,7 +59,7 @@ export function PresentationHome() {
             <Link
               key={concept.href}
               href={concept.href}
-              className={`presentation-enter ${index === 0 ? "presentation-enter-delay-2" : "presentation-enter-delay-3"} group block text-left focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-[#e21f27]`}
+              className={`presentation-enter ${index === 0 ? "presentation-enter-delay-2" : "presentation-enter-delay-3"} group block text-left focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-brand-red`}
             >
               <article className="border border-[#eadfd5] bg-[#fbf7f1] transition-[border-color,box-shadow] duration-300 ease-out group-hover:border-[#2f2430]/18 group-hover:shadow-[0_10px_30px_rgba(47,36,48,0.04)]">
                 <div className="relative aspect-[4/5] overflow-hidden bg-[#f5ede4]">
@@ -101,7 +101,7 @@ export function PresentationHome() {
                   <p className="mt-4 text-sm leading-7 text-[#2f2430]/70">
                     {concept.description}
                   </p>
-                  <span className="mt-6 inline-flex items-center gap-2 text-[11px] font-semibold uppercase tracking-[0.2em] text-[#e21f27]">
+                  <span className="mt-6 inline-flex items-center gap-2 text-[11px] font-semibold uppercase tracking-[0.2em] text-brand-red">
                     Tasarımı İncele
                     <span
                       aria-hidden="true"

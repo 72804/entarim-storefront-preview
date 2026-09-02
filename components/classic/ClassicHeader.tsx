@@ -77,7 +77,7 @@ export function StorefrontHeader({ hideOnScroll = false }: { hideOnScroll?: bool
         <div className="relative overflow-hidden bg-[#fbf7f1] text-[#2f2430] ring-1 ring-[#eadfd5]">
           <div className="announcement-glow pointer-events-none absolute inset-0" aria-hidden="true" />
           <div className="mx-auto flex min-h-10 w-full max-w-[1392px] items-center justify-center gap-3 px-4 py-2 text-center text-xs font-semibold sm:text-sm">
-            <span className="grid size-6 shrink-0 place-items-center rounded-full bg-white text-[#e21f27] ring-1 ring-[#eadfd5]">
+            <span className="grid size-6 shrink-0 place-items-center rounded-full bg-white text-brand-red ring-1 ring-[#eadfd5]">
               <Sparkles size={12} />
             </span>
             <p>
@@ -85,7 +85,7 @@ export function StorefrontHeader({ hideOnScroll = false }: { hideOnScroll?: bool
               2.500 TL ve üzeri alışverişlerde ücretsiz kargo.
             </p>
             <Link
-              className="hidden rounded-full bg-[#e21f27] px-3 py-1 text-[11px] font-bold text-white transition duration-200 hover:bg-[#b9141b] sm:inline-flex"
+              className="hidden rounded-full bg-brand-red px-3 py-1 text-[11px] font-bold text-white transition duration-200 hover:bg-brand-red-dark sm:inline-flex"
               href="/kategoriler"
             >
               Alışverişe Başla
@@ -134,7 +134,7 @@ export function StorefrontHeader({ hideOnScroll = false }: { hideOnScroll?: bool
                   onChange={(event) => setQuery(event.target.value)}
                 />
                 <button
-                  className="grid size-10 shrink-0 place-items-center text-[#e21f27] transition duration-200 hover:text-[#b9141b]"
+                  className="grid size-10 shrink-0 place-items-center text-brand-red transition duration-200 hover:text-brand-red-dark"
                   type="submit"
                   aria-label="Ara"
                 >
@@ -168,7 +168,7 @@ export function StorefrontHeader({ hideOnScroll = false }: { hideOnScroll?: bool
 
             <div className="ml-auto flex shrink-0 items-center gap-1.5 sm:gap-4 md:ml-0 md:justify-self-end">
               <Link className="group flex items-center gap-2.5 text-slate-700" href="/giris-yap">
-                <span className="grid size-9 place-items-center rounded-full bg-[#fbf7f1] text-[#e21f27] transition duration-200 group-hover:bg-[#e21f27] group-hover:text-white sm:size-10">
+                <span className="grid size-9 place-items-center rounded-full bg-[#fbf7f1] text-brand-red transition duration-200 group-hover:bg-brand-red group-hover:text-white sm:size-10">
                   <User size={18} />
                 </span>
                 <span className="hidden leading-tight xl:grid">
@@ -177,9 +177,9 @@ export function StorefrontHeader({ hideOnScroll = false }: { hideOnScroll?: bool
                 </span>
               </Link>
               <Link className="group flex items-center gap-2.5 text-slate-700" href="/sepet">
-                <span className="relative grid size-9 place-items-center rounded-full bg-[#fbf7f1] text-[#e21f27] transition duration-200 group-hover:bg-[#e21f27] group-hover:text-white sm:size-10">
+                <span className="relative grid size-9 place-items-center rounded-full bg-[#fbf7f1] text-brand-red transition duration-200 group-hover:bg-brand-red group-hover:text-white sm:size-10">
                   <ShoppingBag size={18} />
-                  <span className="absolute -right-1 -top-1 grid size-[18px] place-items-center rounded-full border-2 border-white bg-[#e21f27] text-[9px] font-bold text-white">
+                  <span className="absolute -right-1 -top-1 grid size-[18px] place-items-center rounded-full border-2 border-white bg-brand-red text-[9px] font-bold text-white">
                     {cartCount}
                   </span>
                 </span>
@@ -203,7 +203,7 @@ export function StorefrontHeader({ hideOnScroll = false }: { hideOnScroll?: bool
                 return (
                   <li key={item.label} className="group relative">
                     <Link
-                      className="flex items-center gap-2 rounded-full px-4 py-2.5 text-sm font-semibold text-[#2f2430] transition duration-200 hover:-translate-y-0.5 hover:bg-white hover:text-[#e21f27] hover:ring-1 hover:ring-[#eadfd5]"
+                      className="flex items-center gap-2 rounded-full px-4 py-2.5 text-sm font-semibold text-[#2f2430] transition duration-200 hover:-translate-y-0.5 hover:bg-white hover:text-brand-red hover:ring-1 hover:ring-[#eadfd5]"
                       href={item.href}
                     >
                       <Icon size={16} />
@@ -221,7 +221,7 @@ export function StorefrontHeader({ hideOnScroll = false }: { hideOnScroll?: bool
                               className="flex gap-3 rounded-xl p-3 transition duration-200 hover:bg-[#fbf7f1]"
                               href={child.href}
                             >
-                              <span className="grid size-10 shrink-0 place-items-center rounded-full bg-[#fbf7f1] text-[#e21f27]">
+                              <span className="grid size-10 shrink-0 place-items-center rounded-full bg-[#fbf7f1] text-brand-red">
                                 <Icon size={18} />
                               </span>
                               <span>
@@ -237,13 +237,13 @@ export function StorefrontHeader({ hideOnScroll = false }: { hideOnScroll?: bool
                           className="relative overflow-hidden rounded-2xl bg-gradient-to-br from-[#fbf7f1] via-white to-[#f5ede4] p-5 ring-1 ring-[#eadfd5] transition duration-200 hover:-translate-y-0.5"
                           href={item.href}
                         >
-                          <span className="mb-10 inline-flex rounded-full bg-white/80 px-3 py-1 text-[11px] font-bold uppercase tracking-[0.18em] text-[#e21f27]">
+                          <span className="mb-10 inline-flex rounded-full bg-white/80 px-3 py-1 text-[11px] font-bold uppercase tracking-[0.18em] text-brand-red">
                             Koleksiyon
                           </span>
                           <strong className="block text-lg leading-snug text-[#2f2430]">
                             {item.label} kategorisini keşfet
                           </strong>
-                          <span className="mt-3 inline-flex items-center gap-1 text-sm font-bold text-[#e21f27]">
+                          <span className="mt-3 inline-flex items-center gap-1 text-sm font-bold text-brand-red">
                             Koleksiyonu İncele
                           </span>
                         </Link>
@@ -269,7 +269,7 @@ export function StorefrontHeader({ hideOnScroll = false }: { hideOnScroll?: bool
                     {item.children?.map((child) => (
                       <Link
                         key={child.href}
-                        className="block px-5 py-2 text-sm text-slate-500 hover:text-[#e21f27]"
+                        className="block px-5 py-2 text-sm text-slate-500 hover:text-brand-red"
                         href={child.href}
                         onClick={() => setMenuOpen(false)}
                       >
@@ -307,7 +307,7 @@ export function ClassicMobileNav() {
             className="-mt-5 flex flex-col items-center justify-center gap-1 rounded-2xl px-2 py-2 text-[10px] font-extrabold text-[#2f2430]"
             href="/arama"
           >
-            <span className="grid size-12 place-items-center rounded-full bg-[#e21f27] text-white shadow-lg shadow-[#e21f27]/20 ring-4 ring-white">
+            <span className="grid size-12 place-items-center rounded-full bg-brand-red text-white shadow-lg shadow-brand-red/20 ring-4 ring-white">
               <Search size={22} />
             </span>
             Ara
@@ -320,7 +320,7 @@ export function ClassicMobileNav() {
           icon={
             <span className="relative">
               <ShoppingBag size={20} />
-              <span className="absolute -right-2 -top-2 grid size-4 place-items-center rounded-full bg-[#e21f27] text-[8px] font-black text-white">
+              <span className="absolute -right-2 -top-2 grid size-4 place-items-center rounded-full bg-brand-red text-[8px] font-black text-white">
                 {cartCount}
               </span>
             </span>
@@ -343,10 +343,10 @@ function MobileItem({
   return (
     <li>
       <Link
-        className="flex flex-col items-center justify-center gap-1 rounded-2xl px-2 py-2 text-[10px] font-extrabold text-slate-500 transition duration-200 hover:bg-[#fbf7f1] hover:text-[#e21f27]"
+        className="flex flex-col items-center justify-center gap-1 rounded-2xl px-2 py-2 text-[10px] font-extrabold text-slate-500 transition duration-200 hover:bg-[#fbf7f1] hover:text-brand-red"
         href={href}
       >
-        <span className="text-[#e21f27]">{icon}</span>
+        <span className="text-brand-red">{icon}</span>
         {label}
       </Link>
     </li>

@@ -81,7 +81,7 @@ export function ClassicFooter() {
               <ul className="mt-4 grid gap-3 text-sm text-slate-500">
                 {column.links.map((link) => (
                   <li key={link.label}>
-                    <a className="transition duration-200 hover:text-[#e21f27]" href={link.href}>
+                    <a className="transition duration-200 hover:text-brand-red" href={link.href}>
                       {link.label}
                     </a>
                   </li>
@@ -98,25 +98,25 @@ export function ClassicFooter() {
           </p>
           <div className="mt-4 grid gap-2">
             <a
-              className="flex items-center gap-3 rounded-xl bg-white px-3 py-2.5 text-sm text-slate-600 ring-1 ring-[#eadfd5] transition duration-200 hover:text-[#e21f27] hover:shadow-sm"
+              className="flex items-center gap-3 rounded-xl bg-white px-3 py-2.5 text-sm text-slate-600 ring-1 ring-[#eadfd5] transition duration-200 hover:text-brand-red hover:shadow-sm"
               href="tel:+902122331837"
             >
-              <span className="grid size-8 shrink-0 place-items-center rounded-full bg-[#fbf7f1] text-[#e21f27]">
+              <span className="grid size-8 shrink-0 place-items-center rounded-full bg-[#fbf7f1] text-brand-red">
                 <Phone size={16} />
               </span>
               <strong className="text-xs">+90 (212) 233 18 37</strong>
             </a>
             <a
-              className="flex items-center gap-3 rounded-xl bg-white px-3 py-2.5 text-sm text-slate-600 ring-1 ring-[#eadfd5] transition duration-200 hover:text-[#e21f27] hover:shadow-sm"
+              className="flex items-center gap-3 rounded-xl bg-white px-3 py-2.5 text-sm text-slate-600 ring-1 ring-[#eadfd5] transition duration-200 hover:text-brand-red hover:shadow-sm"
               href="mailto:info@entarim.com"
             >
-              <span className="grid size-8 shrink-0 place-items-center rounded-full bg-[#fbf7f1] text-[#e21f27]">
+              <span className="grid size-8 shrink-0 place-items-center rounded-full bg-[#fbf7f1] text-brand-red">
                 <Mail size={16} />
               </span>
               <strong className="text-xs">info@entarim.com</strong>
             </a>
             <a
-              className="mt-1 inline-flex items-center gap-2 text-xs font-extrabold text-[#e21f27] transition duration-200 hover:text-[#b9141b]"
+              className="mt-1 inline-flex items-center gap-2 text-xs font-extrabold text-brand-red transition duration-200 hover:text-brand-red-dark"
               href={`${SITE_URL}/iletisim`}
             >
               İletişim sayfası
@@ -134,11 +134,11 @@ export function ClassicFooter() {
               {/* eslint-disable-next-line @next/next/no-img-element */}
               <img className="h-4 w-auto" src="/demo-assets/brand/iyzico-logo.svg" alt="iyzico" />
               <span className="h-3 w-px bg-[#eadfd5]" />
-              <span className="text-[10px] uppercase tracking-[0.12em] text-[#e21f27]">
+              <span className="text-[10px] uppercase tracking-[0.12em] text-brand-red">
                 Güvenli Ödeme
               </span>
             </span>
-            <span className="rounded-full bg-[#fbf7f1] px-3 py-1 text-xs font-bold text-[#e21f27]">
+            <span className="rounded-full bg-[#fbf7f1] px-3 py-1 text-xs font-bold text-brand-red">
               SSL Güvenli Alışveriş
             </span>
           </div>
@@ -160,7 +160,7 @@ function Social({
 }) {
   return (
     <a
-      className="grid size-10 place-items-center rounded-full bg-[#fbf7f1] text-[#e21f27] transition duration-200 hover:bg-[#e21f27] hover:text-white"
+      className="grid size-10 place-items-center rounded-full bg-[#fbf7f1] text-brand-red transition duration-200 hover:bg-brand-red hover:text-white"
       href={href}
       target="_blank"
       rel="noopener noreferrer"

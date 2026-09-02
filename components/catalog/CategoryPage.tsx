@@ -39,11 +39,11 @@ export function CategoryPage({ slug, products }: { slug: string; products: Catal
   return (
     <main className="mx-auto w-[min(calc(100%-2rem),1360px)] pb-28 pt-8 lg:pb-16">
       <nav className="flex flex-wrap items-center gap-2 text-xs text-slate-400" aria-label="Sayfa yolu">
-        <Link className="hover:text-[#e21f27]" href="/">
+        <Link className="hover:text-brand-red" href="/">
           Ana Sayfa
         </Link>
         <ChevronRight size={14} />
-        <span className="font-bold text-[#e21f27]">{meta?.title ?? slug}</span>
+        <span className="font-bold text-brand-red">{meta?.title ?? slug}</span>
       </nav>
 
       <header className="mt-6 max-w-3xl">
@@ -102,11 +102,11 @@ function CategoryIndex() {
   return (
     <main className="mx-auto w-[min(calc(100%-2rem),1360px)] pb-28 pt-8 lg:pb-16">
       <nav className="flex flex-wrap items-center gap-2 text-xs text-slate-400" aria-label="Sayfa yolu">
-        <Link className="hover:text-[#e21f27]" href="/">
+        <Link className="hover:text-brand-red" href="/">
           Ana Sayfa
         </Link>
         <ChevronRight size={14} />
-        <span className="font-bold text-[#e21f27]">Kategoriler</span>
+        <span className="font-bold text-brand-red">Kategoriler</span>
       </nav>
       <h1 className="font-display mt-6 text-4xl font-semibold text-rose-950 sm:text-5xl">Kategoriler</h1>
       <p className="mt-4 max-w-2xl text-sm leading-7 text-slate-500">

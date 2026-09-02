@@ -15,7 +15,7 @@ export function ProductCarousel({ products }: { products: CatalogProduct[] }) {
     <div className="relative">
       <div className="mb-4 flex justify-end gap-2">
         <button
-          className="grid size-10 place-items-center rounded-full bg-white text-[#e21f27] shadow-sm ring-1 ring-[#eadfd5]"
+          className="grid size-10 place-items-center rounded-full bg-white text-brand-red shadow-sm ring-1 ring-[#eadfd5]"
           type="button"
           aria-label="Önceki"
           onClick={() => scroll(-1)}
@@ -23,7 +23,7 @@ export function ProductCarousel({ products }: { products: CatalogProduct[] }) {
           <ChevronLeft size={18} />
         </button>
         <button
-          className="grid size-10 place-items-center rounded-full bg-white text-[#e21f27] shadow-sm ring-1 ring-[#eadfd5]"
+          className="grid size-10 place-items-center rounded-full bg-white text-brand-red shadow-sm ring-1 ring-[#eadfd5]"
           type="button"
           aria-label="Sonraki"
           onClick={() => scroll(1)}

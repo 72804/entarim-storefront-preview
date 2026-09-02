@@ -17,7 +17,7 @@ export function SearchPage({ query }: { query: string }) {
       )}
 
       {!query ? (
-        <Link className="mt-8 inline-flex text-sm font-bold text-[#e21f27]" href="/yeni-sezon">
+        <Link className="mt-8 inline-flex text-sm font-bold text-brand-red" href="/yeni-sezon">
           Yeni sezonu incele
         </Link>
       ) : results.length === 0 ? (

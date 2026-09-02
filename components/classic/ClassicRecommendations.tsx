@@ -17,14 +17,14 @@ export function ClassicRecommendations({ products }: { products: CatalogProduct[
     <section className="pb-16 sm:pb-20" aria-labelledby="related-products-title">
       <div className="mb-8 flex items-end justify-between gap-4">
         <div>
-          <p className="text-xs font-extrabold uppercase tracking-[0.18em] text-[#e21f27]">Birlikte iyi gider</p>
+          <p className="text-xs font-extrabold uppercase tracking-[0.18em] text-brand-red">Birlikte iyi gider</p>
           <h2 className="font-display mt-2 text-3xl font-semibold leading-none text-[#2f2430] sm:text-4xl" id="related-products-title">
             Benzer Ürünler
           </h2>
         </div>
         <div className="flex gap-2">
           <button
-            className="grid size-10 place-items-center rounded-full bg-white text-[#e21f27] shadow-sm ring-1 ring-[#eadfd5]"
+            className="grid size-10 place-items-center rounded-full bg-white text-brand-red shadow-sm ring-1 ring-[#eadfd5]"
             type="button"
             aria-label="Önceki ürünler"
             onClick={() => scroll(-1)}
@@ -32,7 +32,7 @@ export function ClassicRecommendations({ products }: { products: CatalogProduct[
             <ChevronLeft size={18} />
           </button>
           <button
-            className="grid size-10 place-items-center rounded-full bg-white text-[#e21f27] shadow-sm ring-1 ring-[#eadfd5]"
+            className="grid size-10 place-items-center rounded-full bg-white text-brand-red shadow-sm ring-1 ring-[#eadfd5]"
             type="button"
             aria-label="Sonraki ürünler"
             onClick={() => scroll(1)}

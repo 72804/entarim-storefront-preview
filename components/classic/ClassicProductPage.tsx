@@ -35,15 +35,15 @@ export function ClassicProductPage({ product = featuredProduct }: { product?: Ca
       <main className="site-main mx-auto w-[min(calc(100%-2rem),1360px)] pb-28 lg:pb-8">
         <section className="py-7 sm:py-9">
           <nav className="flex flex-wrap items-center gap-2 text-xs text-slate-400" aria-label="Sayfa yolu">
-            <Link className="transition duration-200 hover:text-[#e21f27]" href="/">
+            <Link className="transition duration-200 hover:text-brand-red" href="/">
               Ana Sayfa
             </Link>
             <ChevronRight size={14} />
-            <Link className="transition duration-200 hover:text-[#e21f27]" href={`/${product.categorySlug}`}>
+            <Link className="transition duration-200 hover:text-brand-red" href={`/${product.categorySlug}`}>
               {product.category}
             </Link>
             <ChevronRight size={14} />
-            <span className="font-bold text-[#e21f27]">{product.name}</span>
+            <span className="font-bold text-brand-red">{product.name}</span>
           </nav>
         </section>
 
@@ -59,7 +59,7 @@ export function ClassicProductPage({ product = featuredProduct }: { product?: Ca
           </div>
 
           <div className="lg:pt-4">
-            <span className="inline-flex rounded-full bg-[#fbf7f1] px-3 py-1.5 text-[11px] font-extrabold uppercase tracking-[0.16em] text-[#e21f27] ring-1 ring-[#eadfd5]">
+            <span className="inline-flex rounded-full bg-[#fbf7f1] px-3 py-1.5 text-[11px] font-extrabold uppercase tracking-[0.16em] text-brand-red ring-1 ring-[#eadfd5]">
               ENTARİM
             </span>
             <h1 className="font-display mt-4 text-4xl font-semibold leading-none text-[#2f2430] sm:text-5xl">
@@ -67,7 +67,7 @@ export function ClassicProductPage({ product = featuredProduct }: { product?: Ca
             </h1>
             <p className="mt-4 max-w-xl text-sm leading-7 text-slate-500 sm:text-base">{product.category}</p>
             <div className="mt-6 flex items-end gap-3">
-              <strong className="text-3xl font-extrabold text-[#e21f27]">{formatPrice(product.price)}</strong>
+              <strong className="text-3xl font-extrabold text-brand-red">{formatPrice(product.price)}</strong>
               {product.oldPrice ? (
                 <del className="text-base text-slate-400">{formatPrice(product.oldPrice)}</del>
               ) : null}
@@ -104,7 +104,7 @@ export function ClassicProductPage({ product = featuredProduct }: { product?: Ca
                 </p>
                 <button
                   type="button"
-                  className="text-xs font-bold text-[#e21f27] transition duration-200 hover:text-[#b9141b] focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-[#e21f27]"
+                  className="text-xs font-bold text-brand-red transition duration-200 hover:text-brand-red-dark focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-brand-red"
                   onClick={() => state.setSizeChartOpen(true)}
                 >
                   Beden Tablosu
@@ -133,7 +133,7 @@ export function ClassicProductPage({ product = featuredProduct }: { product?: Ca
 function Benefit({ icon, title, detail }: { icon: ReactNode; title: string; detail: string }) {
   return (
     <div className="rounded-2xl bg-white p-4 ring-1 ring-[#eadfd5] transition duration-200 hover:-translate-y-0.5">
-      <div className="text-[#e21f27]">{icon}</div>
+      <div className="text-brand-red">{icon}</div>
       <strong className="mt-3 block text-sm text-[#2f2430]">{title}</strong>
       <small className="mt-1 block leading-5 text-slate-500">{detail}</small>
     </div>
