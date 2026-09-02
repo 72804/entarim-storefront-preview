@@ -1,0 +1,2866 @@
+{
+  "products": [
+    {
+      "id": "64",
+      "slug": "e0040-hamile-leopar-desenli-elbise",
+      "name": "HAMİLE ELBİSE-LEOPAR DESENLİ",
+      "category": "Hamile Elbise",
+      "categorySlug": "hamile-elbise",
+      "price": 1800,
+      "oldPrice": null,
+      "description": [
+        "Bedenseçimlerinde lütfen danışarak alınız…"
+      ],
+      "sizes": [
+        "38",
+        "40",
+        "42",
+        "44",
+        "46"
+      ],
+      "colors": [
+        {
+          "id": "leopar",
+          "name": "LEOPAR",
+          "hex": "#c4a574",
+          "images": [
+            "/entarim/products/e0040-hamile-leopar-desenli-elbise/leopar/1.jpg",
+            "/entarim/products/e0040-hamile-leopar-desenli-elbise/leopar/2.jpg",
+            "/entarim/products/e0040-hamile-leopar-desenli-elbise/leopar/3.jpg"
+          ]
+        }
+      ],
+      "relatedSlugs": [
+        "e186-hamile-sifon-elbise-4",
+        "e185-hamile-duz-orme-cizgili-dokuma-pamuklu-elbise",
+        "e175-hamile-viskon-kumas-elbise",
+        "e183-hamile-viskon-elbise",
+        "e181-hamile-pamuk-keten-elbise",
+        "e122-hamile-ekose-elbise",
+        "m077-hamile-maksi-elbise-viscon-kumas-elbise",
+        "e166-hamile-elbise-pamuk",
+        "6019-m010-hamile-uzun-sifon-elbise",
+        "e114-m04-hamile-elbise-ekose"
+      ],
+      "generatedPalette": [
+        "#423632"
+      ],
+      "paletteOverride": [
+        "#3a2c27",
+        "#c4a574",
+        "#ead9c4"
+      ]
+    },
+    {
+      "id": "63",
+      "slug": "e114-m04-hamile-elbise-ekose",
+      "name": "HAMİLE EKOSE ELBİSE: E114",
+      "category": "Hamile Elbise",
+      "categorySlug": "hamile-elbise",
+      "price": 990,
+      "oldPrice": null,
+      "description": [
+        "BEDEN ÖLÇÜLERİ Göğüs Ölçüleri 38 Beden = 48 cm (yarım tur) 40 Beden = 50 cm (yarım tur) 42 Beden = 52 cm (yarım tur) 44 Beden = 54 cm (yarım tur) Ürün ve Manken Boyları Manken Boyu = 176 cm Tesettür Elbise Boyu = 145 cm Abiye Elbise Boyu = 155 cm - 160 cm Diz Altı Midi Boy Elbise = 105 cm - 110 cm Ara Boy Elbiseler = 95 cm Diz Boyu Elbiseler=100 cm Spor Elbise Diz Boyu = 100 cm Tunik Boyları = 75 cm - 80 cm-85 cm Bel ölçüsü : 38 bedende 72 cm dir tam çevre.",
+        "Bedenlerimiz arasında 2 şer cm oynamaktadır.(Örn.",
+        "40 bedende 74 , 42 bedende 76) Kalça:100 cm 38 bedende tam çevre.",
+        "Kalça ölçümlerinde her beden artışında 4 cm eklenmelidir."
+      ],
+      "sizes": [
+        "38",
+        "40",
+        "42",
+        "44",
+        "46"
+      ],
+      "colors": [
+        {
+          "id": "mavi-turkuaz",
+          "name": "MAVİ-TURKUAZ",
+          "hex": "#3b6ea5",
+          "images": [
+            "/entarim/products/e114-m04-hamile-elbise-ekose/mavi-turkuaz/1.jpg",
+            "/entarim/products/e114-m04-hamile-elbise-ekose/mavi-turkuaz/2.jpg",
+            "/entarim/products/e114-m04-hamile-elbise-ekose/mavi-turkuaz/3.jpg"
+          ]
+        },
+        {
+          "id": "mavi",
+          "name": "MAVİ",
+          "hex": "#3b6ea5",
+          "images": [
+            "/entarim/products/e114-m04-hamile-elbise-ekose/mavi/1.jpg",
+            "/entarim/products/e114-m04-hamile-elbise-ekose/mavi/2.jpg",
+            "/entarim/products/e114-m04-hamile-elbise-ekose/mavi/3.jpg"
+          ]
+        },
+        {
+          "id": "kirmizi-mavi",
+          "name": "KIRMIZI-MAVİ",
+          "hex": "#b33a3a",
+          "images": [
+            "/entarim/products/e114-m04-hamile-elbise-ekose/kirmizi-mavi/1.jpg",
+            "/entarim/products/e114-m04-hamile-elbise-ekose/kirmizi-mavi/2.jpg",
+            "/entarim/products/e114-m04-hamile-elbise-ekose/kirmizi-mavi/3.jpg"
+          ]
+        }
+      ],
+      "relatedSlugs": [
+        "e186-hamile-sifon-elbise-4",
+        "e185-hamile-duz-orme-cizgili-dokuma-pamuklu-elbise",
+        "e175-hamile-viskon-kumas-elbise",
+        "e183-hamile-viskon-elbise",
+        "e181-hamile-pamuk-keten-elbise",
+        "e122-hamile-ekose-elbise",
+        "m077-hamile-maksi-elbise-viscon-kumas-elbise",
+        "e166-hamile-elbise-pamuk",
+        "6019-m010-hamile-uzun-sifon-elbise",
+        "e188-hamile-sifon-elbise-3"
+      ],
+      "generatedPalette": [
+        "#7190a9",
+        "#4c677d",
+        "#837d7f"
+      ]
+    },
+    {
+      "id": "62",
+      "slug": "6019-m010-hamile-uzun-sifon-elbise",
+      "name": "HAMİLE ŞİFON UZUN ELBİSE",
+      "category": "Hamile Elbise",
+      "categorySlug": "hamile-elbise",
+      "price": 1995,
+      "oldPrice": null,
+      "description": [
+        "Fırfır yaka kuşaklı şifon empirme desen uzun elbise.",
+        "Hamile giyimine uygundur.",
+        "Göğüs Ölçüleri 38 Beden = 48 cm (yarım tur) 40 Beden = 50 cm (yarım tur) 42 Beden = 52 cm (yarım tur) 44 Beden = 54 cm (yarım tur) Bel ölçüsü : 38 bedende 72 cm dir tam çevre.",
+        "Bedenlerimiz arasında 2 şer cm oynamaktadır.(Örn.",
+        "40 bedende 74 , 42 bedende 76) Kalça:100 cm 38 bedende tam çevre.",
+        "Kalça ölçümlerinde her beden artışında 4 cm eklenmelidir.",
+        "Beden Cm Tur Göğüs ölçüleri 38 48 cm Yarım Tur Göğüs ölçüleri 40 50 cm Yarım Tur Göğüs ölçüleri 42 52 cm Yarım Tur Göğüs ölçüleri 44 54 cm Yarım Tur Göğüs ölçüleri 46 56 cm Yarım Tur Bel ölçüsü 38 72 cm Tam tur Bel ölçüsü 40 74 cm Tam tur Bel ölçüsü 42 76 cm Tam tur Bel ölçüsü 44 78 cm Tam tur Bel ölçüsü 46 80 cm Tam tur Kalça 38 100 cm Tam tur Kalça 40 104 cm Tam tur Kalça 42 108 cm Tam tur Kalça 44 112 cm Tam tur Kalça 46 116 cm Tam tur"
+      ],
+      "sizes": [
+        "38",
+        "40",
+        "42",
+        "44",
+        "46"
+      ],
+      "colors": [
+        {
+          "id": "mor-mavi",
+          "name": "MOR / MAVİ",
+          "hex": "#6b3a6e",
+          "images": [
+            "/entarim/products/6019-m010-hamile-uzun-sifon-elbise/mor-mavi/1.jpg",
+            "/entarim/products/6019-m010-hamile-uzun-sifon-elbise/mor-mavi/2.jpg",
+            "/entarim/products/6019-m010-hamile-uzun-sifon-elbise/mor-mavi/3.jpg"
+          ]
+        },
+        {
+          "id": "lacivert",
+          "name": "LACİVERT",
+          "hex": "#1e3a5f",
+          "images": [
+            "/entarim/products/6019-m010-hamile-uzun-sifon-elbise/lacivert/1.jpg",
+            "/entarim/products/6019-m010-hamile-uzun-sifon-elbise/lacivert/2.jpg",
+            "/entarim/products/6019-m010-hamile-uzun-sifon-elbise/lacivert/3.jpg"
+          ]
+        },
+        {
+          "id": "pembe",
+          "name": "PEMBE",
+          "hex": "#e8a0b0",
+          "images": [
+            "/entarim/products/6019-m010-hamile-uzun-sifon-elbise/pembe/1.jpg",
+            "/entarim/products/6019-m010-hamile-uzun-sifon-elbise/pembe/2.jpg",
+            "/entarim/products/6019-m010-hamile-uzun-sifon-elbise/pembe/3.jpg"
+          ]
+        },
+        {
+          "id": "lila",
+          "name": "LİLA",
+          "hex": "#ddb6db",
+          "images": [
+            "/entarim/products/6019-m010-hamile-uzun-sifon-elbise/lila/1.jpg",
+            "/entarim/products/6019-m010-hamile-uzun-sifon-elbise/lila/2.jpg",
+            "/entarim/products/6019-m010-hamile-uzun-sifon-elbise/lila/3.jpg"
+          ]
+        }
+      ],
+      "relatedSlugs": [
+        "e186-hamile-sifon-elbise-4",
+        "e185-hamile-duz-orme-cizgili-dokuma-pamuklu-elbise",
+        "e175-hamile-viskon-kumas-elbise",
+        "e183-hamile-viskon-elbise",
+        "e181-hamile-pamuk-keten-elbise",
+        "e122-hamile-ekose-elbise",
+        "m077-hamile-maksi-elbise-viscon-kumas-elbise",
+        "e166-hamile-elbise-pamuk",
+        "e114-m04-hamile-elbise-ekose",
+        "e188-hamile-sifon-elbise-3"
+      ],
+      "generatedPalette": [
+        "#95b5e5",
+        "#6994d3"
+      ]
+    },
+    {
+      "id": "61",
+      "slug": "b108-asimetrik-kesim-gomlek-tunik",
+      "name": "ASİMETRİK KESİM,TUNİK,GÖMLEK",
+      "category": "Emzirmeye uygun-Giyim",
+      "categorySlug": "emzirmeye-uygun-giyim",
+      "price": 995,
+      "oldPrice": null,
+      "description": [
+        "Asimetrik Kesim Gömlek Tunik Önden Büzgülü Önü kısa arkası uzun BEDEN ÖLÇÜLERİ Göğüs Ölçüleri 38 Beden = 48 cm (yarım tur) 40 Beden = 50 cm (yarım tur) 42 Beden = 52 cm (yarım tur) 44 Beden = 54 cm (yarım tur) Bel ölçüsü : 38 bedende 72 cm dir tam çevre.",
+        "Bedenlerimiz arasında 2 şer cm oynamaktadır.(Örn.",
+        "40 bedende 74 , 42 bedende 76) Kalça:100 cm 38 bedende tam çevre.",
+        "Kalça ölçümlerinde her beden artışında 4 cm eklenmelidir.",
+        "Beden CM Tur Göğüs ölçüleri3848 cmYarım Tur Göğüs ölçüleri4050 cmYarım Tur Göğüs ölçüleri4252 cmYarım Tur Göğüs ölçüleri4454 cmYarım Tur Göğüs ölçüleri4656 cmYarım Tur Bel ölçüsü 3872 cm Tam tur Bel ölçüsü 4074 cmTam tur Bel ölçüsü 4276 cm Tam tur Bel ölçüsü 4478 cm Tam tur Bel ölçüsü 4680 cm Tam tur Kalça 38100 cmTam tur Kalça 40104 cmTam tur Kalça 42108 cmTam tur Kalça 44112 cmTam tur Kalça 46116 cmTam tur Ürün ve Manken Boyları Manken Boyu = 176 cm Tesettür Elbise Boyu = 145 cm Abiye Elbise Boyu = 155 cm - 160 cm Diz Altı Midi Boy Elbise = 105 cm - 110 cm Ara Boy Elbiseler = 95 cm Diz Boyu Elbiseler=100 cm Spor Elbise Diz Boyu = 100 cm Tunik Boyları = 75 cm - 80 cm-85 cm"
+      ],
+      "sizes": [
+        "38",
+        "40",
+        "42",
+        "44",
+        "46"
+      ],
+      "colors": [
+        {
+          "id": "siyah",
+          "name": "SİYAH",
+          "hex": "#111111",
+          "images": [
+            "/entarim/products/b108-asimetrik-kesim-gomlek-tunik/siyah/1.jpg",
+            "/entarim/products/b108-asimetrik-kesim-gomlek-tunik/siyah/2.jpg",
+            "/entarim/products/b108-asimetrik-kesim-gomlek-tunik/siyah/3.jpg"
+          ]
+        },
+        {
+          "id": "saks",
+          "name": "SAKS",
+          "hex": "#3d7ea6",
+          "images": [
+            "/entarim/products/b108-asimetrik-kesim-gomlek-tunik/saks/1.jpg",
+            "/entarim/products/b108-asimetrik-kesim-gomlek-tunik/saks/2.jpg",
+            "/entarim/products/b108-asimetrik-kesim-gomlek-tunik/saks/3.jpg"
+          ]
+        },
+        {
+          "id": "pembe",
+          "name": "PEMBE",
+          "hex": "#e8a0b0",
+          "images": [
+            "/entarim/products/b108-asimetrik-kesim-gomlek-tunik/pembe/1.jpg",
+            "/entarim/products/b108-asimetrik-kesim-gomlek-tunik/pembe/2.jpg",
+            "/entarim/products/b108-asimetrik-kesim-gomlek-tunik/pembe/3.jpg"
+          ]
+        },
+        {
+          "id": "acik-bej",
+          "name": "AÇIK BEJ",
+          "hex": "#d8c7b0",
+          "images": [
+            "/entarim/products/b108-asimetrik-kesim-gomlek-tunik/acik-bej/1.jpg",
+            "/entarim/products/b108-asimetrik-kesim-gomlek-tunik/acik-bej/2.jpg",
+            "/entarim/products/b108-asimetrik-kesim-gomlek-tunik/acik-bej/3.jpg"
+          ]
+        }
+      ],
+      "relatedSlugs": [
+        "b028-hamile-bluz-cizgili-koton-dokuma-emzirme-ozellikli",
+        "b120-hamile-owersize-tunik-pamuk-cizgili-emzirme-detayli-bluz",
+        "e175-hamile-viskon-kumas-elbise",
+        "e183-hamile-viskon-elbise",
+        "e181-hamile-pamuk-keten-elbise",
+        "b128-hamile-bluz-koton-cizgili-emzirme-ozellikli",
+        "e122-hamile-ekose-elbise",
+        "bbb055-owersize-hamile-cizgili-pamuk-gomlek",
+        "m077-hamile-maksi-elbise-viscon-kumas-elbise",
+        "e114-m04-hamile-elbise-ekose"
+      ],
+      "generatedPalette": [
+        "#201d1a"
+      ]
+    },
+    {
+      "id": "38",
+      "slug": "e186-hamile-sifon-elbise-4",
+      "name": "HAMİLE ŞİFON ELBİSE",
+      "category": "Hamile Elbise",
+      "categorySlug": "hamile-elbise",
+      "price": 2950,
+      "oldPrice": null,
+      "description": [
+        "Rahat kesimi ve esnek şifon kumaşı ile hamilelik sürecinde konforlu bir kullanım sunar.",
+        "Zarif ve şık tasarımıyla özel günlerde veya günlük kullanımda tercih edilebilir.",
+        "Hamilelik boyunca değişen vücut hatlarına uyum sağlar, rahat hareket etme olanağı tanır.",
+        "Hafif ve nefes alabilen yapısıyla sıcak havalarda bile serinlik sağlar.",
+        "Kolay bakım imkanı sunar, çabuk kurur ve kırışmaz.",
+        "Farklı renk ve desen seçenekleriyle kişisel zevke uygun kombinler yapılabilir.",
+        "Elbisenin boyu 100 cm olup içi astarlıdır."
+      ],
+      "sizes": [
+        "38",
+        "40",
+        "42",
+        "44",
+        "46"
+      ],
+      "colors": [
+        {
+          "id": "haki-krem",
+          "name": "HAKİ-KREM",
+          "hex": "#a3a89f",
+          "images": [
+            "/demo-assets/product/haki/01.jpg",
+            "/demo-assets/product/haki/02.jpg",
+            "/demo-assets/product/haki/03.jpg",
+            "/demo-assets/product/haki/04.jpg",
+            "/demo-assets/product/haki/05.jpg"
+          ]
+        },
+        {
+          "id": "petrol-krem",
+          "name": "PETROL-KREM",
+          "hex": "#2281aa",
+          "images": [
+            "/demo-assets/product/petrol/01.jpg",
+            "/demo-assets/product/petrol/02.jpg",
+            "/demo-assets/product/petrol/03.jpg",
+            "/demo-assets/product/petrol/04.jpg"
+          ]
+        },
+        {
+          "id": "gulkurusu-bej",
+          "name": "GÜLKURUSU -BEJ",
+          "hex": "#c1aebb",
+          "images": [
+            "/demo-assets/product/gulkurusu/01.jpg",
+            "/demo-assets/product/gulkurusu/02.jpg",
+            "/demo-assets/product/gulkurusu/03.jpg",
+            "/demo-assets/product/gulkurusu/04.jpg",
+            "/demo-assets/product/gulkurusu/05.jpg"
+          ]
+        },
+        {
+          "id": "lila",
+          "name": "LİLA",
+          "hex": "#ddb6db",
+          "images": [
+            "/demo-assets/product/lila/01.jpg",
+            "/demo-assets/product/lila/02.jpg",
+            "/demo-assets/product/lila/03.jpg",
+            "/demo-assets/product/lila/04.jpg"
+          ]
+        }
+      ],
+      "relatedSlugs": [
+        "e185-hamile-duz-orme-cizgili-dokuma-pamuklu-elbise",
+        "e175-hamile-viskon-kumas-elbise",
+        "e183-hamile-viskon-elbise",
+        "e181-hamile-pamuk-keten-elbise",
+        "e122-hamile-ekose-elbise",
+        "m077-hamile-maksi-elbise-viscon-kumas-elbise",
+        "e166-hamile-elbise-pamuk",
+        "6019-m010-hamile-uzun-sifon-elbise",
+        "e114-m04-hamile-elbise-ekose",
+        "e188-hamile-sifon-elbise-3"
+      ],
+      "generatedPalette": [
+        "#a5a6a0",
+        "#645c52"
+      ]
+    },
+    {
+      "id": "20",
+      "slug": "e185-hamile-duz-orme-cizgili-dokuma-pamuklu-elbise",
+      "name": "HAMİLE ELBİSE- Çizgili Pamuk Dokuma+Düz  Dokuma",
+      "category": "Hamile Elbise",
+      "categorySlug": "hamile-elbise",
+      "price": 1995,
+      "oldPrice": 2650,
+      "description": [
+        "Rahat ve esnek pamuk kumaştan üretilmiştir, hamilelik sürecinde maksimum konfor sağlar.",
+        "Şık çizgili tasarımı ile günlük kullanım için idealdir, hem evde hem de dışarıda rahatlıkla tercih edilebilir.",
+        "Hamilelik boyunca değişen vücut hatlarına uyum sağlayan özel kesimi ile konforlu bir deneyim sunar.",
+        "Kolay giyilip çıkarılabilen tasarımı sayesinde pratik kullanım imkanı sağlar.",
+        "Nefes alabilen yapısı sayesinde terlemeyi önler ve gün boyu ferahlık hissi verir."
+      ],
+      "sizes": [
+        "38",
+        "40",
+        "42",
+        "44",
+        "46"
+      ],
+      "colors": [
+        {
+          "id": "lacivert",
+          "name": "Lacivert",
+          "hex": "#1e3a5f",
+          "images": [
+            "/entarim/products/e185-hamile-duz-orme-cizgili-dokuma-pamuklu-elbise/lacivert/1.jpg",
+            "/entarim/products/e185-hamile-duz-orme-cizgili-dokuma-pamuklu-elbise/lacivert/3.jpg"
+          ]
+        }
+      ],
+      "relatedSlugs": [
+        "e186-hamile-sifon-elbise-4",
+        "e175-hamile-viskon-kumas-elbise",
+        "e183-hamile-viskon-elbise",
+        "e181-hamile-pamuk-keten-elbise",
+        "e122-hamile-ekose-elbise",
+        "m077-hamile-maksi-elbise-viscon-kumas-elbise",
+        "e166-hamile-elbise-pamuk",
+        "6019-m010-hamile-uzun-sifon-elbise",
+        "e114-m04-hamile-elbise-ekose",
+        "e188-hamile-sifon-elbise-3"
+      ],
+      "generatedPalette": [
+        "#2a2633",
+        "#b1abbf",
+        "#786f7e"
+      ]
+    },
+    {
+      "id": "32",
+      "slug": "e175-hamile-viskon-kumas-elbise",
+      "name": "HAMİLE VİSKON ELBİSE",
+      "category": "Hamile Elbise",
+      "categorySlug": "hamile-elbise",
+      "price": 2295,
+      "oldPrice": 2750,
+      "description": [
+        "Rahat ve esnek viskon kumaştan üretilmiştir, hamilelik döneminde maksimum konfor sağlar.",
+        "Şık ve zarif tasarımıyla hem günlük kullanım hem de özel günlerde tercih edilebilir.",
+        "Hamilelik boyunca değişen vücut hatlarına uyum sağlayacak şekilde tasarlanmıştır.",
+        "Nefes alabilen yapısı sayesinde sıcak havalarda bile serin tutar.",
+        "Kolay bakım imkanı sunar, çabuk kurur ve kırışmaz."
+      ],
+      "sizes": [
+        "38",
+        "40",
+        "42",
+        "44",
+        "46"
+      ],
+      "colors": [
+        {
+          "id": "pembe",
+          "name": "Pembe",
+          "hex": "#e8a0b0",
+          "images": [
+            "/entarim/products/e175-hamile-viskon-kumas-elbise/pembe/1.jpg",
+            "/entarim/products/e175-hamile-viskon-kumas-elbise/pembe/2.jpg",
+            "/entarim/products/e175-hamile-viskon-kumas-elbise/pembe/3.jpg"
+          ]
+        },
+        {
+          "id": "siyah",
+          "name": "Siyah",
+          "hex": "#111111",
+          "images": [
+            "/entarim/products/e175-hamile-viskon-kumas-elbise/siyah/1.jpg",
+            "/entarim/products/e175-hamile-viskon-kumas-elbise/siyah/2.jpg",
+            "/entarim/products/e175-hamile-viskon-kumas-elbise/siyah/3.jpg"
+          ]
+        }
+      ],
+      "relatedSlugs": [
+        "e186-hamile-sifon-elbise-4",
+        "e185-hamile-duz-orme-cizgili-dokuma-pamuklu-elbise",
+        "e183-hamile-viskon-elbise",
+        "e181-hamile-pamuk-keten-elbise",
+        "e122-hamile-ekose-elbise",
+        "m077-hamile-maksi-elbise-viscon-kumas-elbise",
+        "e166-hamile-elbise-pamuk",
+        "6019-m010-hamile-uzun-sifon-elbise",
+        "e114-m04-hamile-elbise-ekose",
+        "e188-hamile-sifon-elbise-3"
+      ],
+      "generatedPalette": [
+        "#794045",
+        "#ce7e82"
+      ]
+    },
+    {
+      "id": "18",
+      "slug": "e183-hamile-viskon-elbise",
+      "name": "VİSKON HAMİLE ELBİSE",
+      "category": "Hamile Elbise",
+      "categorySlug": "hamile-elbise",
+      "price": 2450,
+      "oldPrice": 2750,
+      "description": [
+        "Rahat ve şık tasarımı ile hamilelik sürecinde konforunuzdan ödün vermeden stilinizi koruyun.",
+        "Yumuşak ve nefes alabilen viskon kumaşı sayesinde gün boyu rahat bir kullanım sunar.",
+        "Esnek yapısı ile hamileliğinizin her döneminde vücudunuza mükemmel uyum sağlar.",
+        "Zarif kesimi ve modern detaylarıyla özel günlerde veya günlük kullanımda şıklığınızı ön plana çıkarır.",
+        "Kolay bakım imkanı ile pratik ve uzun ömürlü bir giyim deneyimi sunar."
+      ],
+      "sizes": [
+        "38",
+        "40",
+        "42",
+        "44",
+        "46"
+      ],
+      "colors": [
+        {
+          "id": "siyah",
+          "name": "Siyah",
+          "hex": "#111111",
+          "images": [
+            "/entarim/products/e183-hamile-viskon-elbise/siyah/1.jpg",
+            "/entarim/products/e183-hamile-viskon-elbise/siyah/2.jpg",
+            "/entarim/products/e183-hamile-viskon-elbise/siyah/3.jpg"
+          ]
+        },
+        {
+          "id": "haki",
+          "name": "Haki",
+          "hex": "#a3a89f",
+          "images": [
+            "/entarim/products/e183-hamile-viskon-elbise/haki/1.jpg",
+            "/entarim/products/e183-hamile-viskon-elbise/haki/3.jpg"
+          ]
+        },
+        {
+          "id": "bordo",
+          "name": "Bordo",
+          "hex": "#6e1f2d",
+          "images": [
+            "/entarim/products/e183-hamile-viskon-elbise/bordo/1.jpg",
+            "/entarim/products/e183-hamile-viskon-elbise/bordo/2.jpg",
+            "/entarim/products/e183-hamile-viskon-elbise/bordo/3.jpg"
+          ]
+        }
+      ],
+      "relatedSlugs": [
+        "e186-hamile-sifon-elbise-4",
+        "e185-hamile-duz-orme-cizgili-dokuma-pamuklu-elbise",
+        "e175-hamile-viskon-kumas-elbise",
+        "e181-hamile-pamuk-keten-elbise",
+        "e122-hamile-ekose-elbise",
+        "m077-hamile-maksi-elbise-viscon-kumas-elbise",
+        "e166-hamile-elbise-pamuk",
+        "6019-m010-hamile-uzun-sifon-elbise",
+        "e114-m04-hamile-elbise-ekose",
+        "e188-hamile-sifon-elbise-3"
+      ],
+      "generatedPalette": [
+        "#141219",
+        "#dfdade"
+      ]
+    },
+    {
+      "id": "16",
+      "slug": "e181-hamile-pamuk-keten-elbise",
+      "name": "HAMİLE PAMUK KETEN ELBİSE",
+      "category": "Hamile Elbise",
+      "categorySlug": "hamile-elbise",
+      "price": 2750,
+      "oldPrice": 3150,
+      "description": [
+        "Rahat ve şık tasarımıyla hamilelik döneminde konforunuzdan ödün vermezsiniz.",
+        "Pamuk keten kumaşı sayesinde cildinize nefes aldırır ve gün boyu ferahlık sağlar.",
+        "Esnek yapısı, hamilelik sürecindeki vücut değişikliklerinize uyum sağlar.",
+        "Günlük kullanım için idealdir",
+        "hem evde hem de dışarıda rahatlıkla tercih edebilirsiniz.",
+        "Zarif kesimiyle hamilelik döneminde bile şıklığınızı korumanızı sağlar."
+      ],
+      "sizes": [
+        "38",
+        "40",
+        "42",
+        "44",
+        "46"
+      ],
+      "colors": [
+        {
+          "id": "lacivert",
+          "name": "Lacivert",
+          "hex": "#1e3a5f",
+          "images": [
+            "/entarim/products/e181-hamile-pamuk-keten-elbise/lacivert/1.jpg",
+            "/entarim/products/e181-hamile-pamuk-keten-elbise/lacivert/2.jpg"
+          ]
+        }
+      ],
+      "relatedSlugs": [
+        "e186-hamile-sifon-elbise-4",
+        "e185-hamile-duz-orme-cizgili-dokuma-pamuklu-elbise",
+        "e175-hamile-viskon-kumas-elbise",
+        "e183-hamile-viskon-elbise",
+        "e122-hamile-ekose-elbise",
+        "m077-hamile-maksi-elbise-viscon-kumas-elbise",
+        "e166-hamile-elbise-pamuk",
+        "6019-m010-hamile-uzun-sifon-elbise",
+        "e114-m04-hamile-elbise-ekose",
+        "e188-hamile-sifon-elbise-3"
+      ],
+      "generatedPalette": [
+        "#272b0d",
+        "#0c0a12",
+        "#48291b",
+        "#2c2b41"
+      ]
+    },
+    {
+      "id": "34",
+      "slug": "e122-hamile-ekose-elbise",
+      "name": "HAMİLE EKOSE ELBİSE",
+      "category": "Hamile Elbise",
+      "categorySlug": "hamile-elbise",
+      "price": 1750,
+      "oldPrice": 2250,
+      "description": [
+        "Rahat ve şık tasarımıyla hamilelik döneminde konforunuzu ön planda tutar.",
+        "Eko desenleriyle modern ve zarif bir görünüm sunar.",
+        "Esnek kumaşı sayesinde hamilelik boyunca rahat bir kullanım sağlar.",
+        "Hamilelik sürecindeki değişen vücut hatlarınıza uyum sağlar.",
+        "Günlük kullanım için idealdir",
+        "hem evde hem de dışarıda rahatlıkla tercih edilebilir.",
+        "Kolay kombinlenebilir yapısıyla farklı aksesuarlarla kişisel tarzınızı yansıtabilirsiniz.",
+        "Yüksek kaliteli malzemelerden üretilmiştir, uzun ömürlüdür."
+      ],
+      "sizes": [
+        "38",
+        "40",
+        "42",
+        "44",
+        "46"
+      ],
+      "colors": [
+        {
+          "id": "kirmizi-lacivert-krem",
+          "name": "Kırmızı-lacivert-krem",
+          "hex": "#b33a3a",
+          "images": [
+            "/entarim/products/e122-hamile-ekose-elbise/kirmizi-lacivert-krem/1.jpg",
+            "/entarim/products/e122-hamile-ekose-elbise/kirmizi-lacivert-krem/3.jpg"
+          ]
+        },
+        {
+          "id": "mavi-krem",
+          "name": "MAVİ-KREM",
+          "hex": "#3b6ea5",
+          "images": [
+            "/entarim/products/e122-hamile-ekose-elbise/mavi-krem/1.jpg",
+            "/entarim/products/e122-hamile-ekose-elbise/mavi-krem/2.jpg",
+            "/entarim/products/e122-hamile-ekose-elbise/mavi-krem/3.jpg"
+          ]
+        },
+        {
+          "id": "haki-krem",
+          "name": "HAKİ-KREM",
+          "hex": "#a3a89f",
+          "images": [
+            "/entarim/products/e122-hamile-ekose-elbise/haki-krem/1.jpg",
+            "/entarim/products/e122-hamile-ekose-elbise/haki-krem/2.jpg",
+            "/entarim/products/e122-hamile-ekose-elbise/haki-krem/3.jpg"
+          ]
+        },
+        {
+          "id": "bordo",
+          "name": "BORDO",
+          "hex": "#6e1f2d",
+          "images": [
+            "/entarim/products/e122-hamile-ekose-elbise/bordo/1.jpg",
+            "/entarim/products/e122-hamile-ekose-elbise/bordo/2.jpg",
+            "/entarim/products/e122-hamile-ekose-elbise/bordo/3.jpg"
+          ]
+        }
+      ],
+      "relatedSlugs": [
+        "e186-hamile-sifon-elbise-4",
+        "e185-hamile-duz-orme-cizgili-dokuma-pamuklu-elbise",
+        "e175-hamile-viskon-kumas-elbise",
+        "e183-hamile-viskon-elbise",
+        "e181-hamile-pamuk-keten-elbise",
+        "m077-hamile-maksi-elbise-viscon-kumas-elbise",
+        "e166-hamile-elbise-pamuk",
+        "6019-m010-hamile-uzun-sifon-elbise",
+        "e114-m04-hamile-elbise-ekose",
+        "e188-hamile-sifon-elbise-3"
+      ],
+      "generatedPalette": [
+        "#552937",
+        "#855866"
+      ]
+    },
+    {
+      "id": "30",
+      "slug": "m077-hamile-maksi-elbise-viscon-kumas-elbise",
+      "name": "HAMİLE ELBİSE- Viskon Kumaş-Maksi boy",
+      "category": "Hamile Elbise",
+      "categorySlug": "hamile-elbise",
+      "price": 2895,
+      "oldPrice": null,
+      "description": [
+        "Rahat ve şık tasarımıyla hamilelik döneminde konforunuzdan ödün vermeden stilinizi koruyun.",
+        "Yüksek kaliteli viskon kumaşı sayesinde yumuşak dokunuşu ve nefes alabilir yapısıyla gün boyu rahatlık sağlar.",
+        "Maxi boy kesimi ile zarif bir görünüm sunar ve vücut hatlarınızı nazikçe sarar.",
+        "Esnek yapısı, hamilelik sürecindeki değişen vücut formunuza uyum sağlar ve size özgürce hareket etme imkanı verir.",
+        "Günlük kullanım için idealdir",
+        "evde, iş yerinde veya özel davetlerde rahatlıkla tercih edebilirsiniz."
+      ],
+      "sizes": [
+        "38",
+        "40",
+        "42",
+        "44",
+        "46"
+      ],
+      "colors": [
+        {
+          "id": "siyah",
+          "name": "Siyah",
+          "hex": "#111111",
+          "images": [
+            "/entarim/products/m077-hamile-maksi-elbise-viscon-kumas-elbise/siyah/1.jpg",
+            "/entarim/products/m077-hamile-maksi-elbise-viscon-kumas-elbise/siyah/2.jpg",
+            "/entarim/products/m077-hamile-maksi-elbise-viscon-kumas-elbise/siyah/3.jpg"
+          ]
+        },
+        {
+          "id": "pembe",
+          "name": "Pembe",
+          "hex": "#e8a0b0",
+          "images": [
+            "/entarim/products/m077-hamile-maksi-elbise-viscon-kumas-elbise/pembe/1.jpg",
+            "/entarim/products/m077-hamile-maksi-elbise-viscon-kumas-elbise/pembe/2.jpg",
+            "/entarim/products/m077-hamile-maksi-elbise-viscon-kumas-elbise/pembe/3.jpg"
+          ]
+        }
+      ],
+      "relatedSlugs": [
+        "e186-hamile-sifon-elbise-4",
+        "e185-hamile-duz-orme-cizgili-dokuma-pamuklu-elbise",
+        "e175-hamile-viskon-kumas-elbise",
+        "e183-hamile-viskon-elbise",
+        "e181-hamile-pamuk-keten-elbise",
+        "e122-hamile-ekose-elbise",
+        "e166-hamile-elbise-pamuk",
+        "6019-m010-hamile-uzun-sifon-elbise",
+        "e114-m04-hamile-elbise-ekose",
+        "e188-hamile-sifon-elbise-3"
+      ],
+      "generatedPalette": [
+        "#252228",
+        "#585354"
+      ]
+    },
+    {
+      "id": "54",
+      "slug": "e166-hamile-elbise-pamuk",
+      "name": "HAMİLE ELBİSE PAMUK",
+      "category": "Hamile Elbise",
+      "categorySlug": "hamile-elbise",
+      "price": 2395,
+      "oldPrice": null,
+      "description": [
+        "Rahat hamilelik dönemlerinizde konforu ön planda tutan pamuk ve polyester karışımı kumaştan üretilmiştir.",
+        "%50 pamuk içeriği ile cildinize nefes aldıran, yumuşak dokunuşuyla gün boyu rahatlık sunar.",
+        "Kazak elbise silueti sayesinde hem şıklığı hem de işlevselliği bir arada yaşayabilirsiniz",
+        "günlük kullanım için idealdir.",
+        "Sürdürülebilir malzemeler kullanarak çevre dostu bir tercih yapmış olursunuz.",
+        "Tekli paket içeriğiyle ihtiyacınız olan tek parça olarak kolayca temin edebilirsiniz.",
+        "Yetişkin kadınlar için tasarlanmıştır",
+        "her bedene uygun relax kalıba sahiptir.",
+        "Cepsiz tasarımı pratiklik sağlarken, belirgin çizgili deseniyle göz alıcı bir görünüm kazandırır.",
+        "Üretiminde kullanılan yüksek kaliteli pamuklu materyal dayanıklılığı arttırırken uzun süreli kullanım vaad eder.",
+        "Günlük ortamlarda rahatça giyebileceğiniz bu elbise, hareket özgürlüğünüzü kısıtlamaz.",
+        "Uzun kollu tasarım soğuk havalarda ekstra koruma sağlarken bisiklet yakası modern bir stil oluşturur."
+      ],
+      "sizes": [
+        "38",
+        "40",
+        "42",
+        "44",
+        "46"
+      ],
+      "colors": [
+        {
+          "id": "siyah-siyah-beyaz",
+          "name": "Siyah/Siyah+beyaz",
+          "hex": "#111111",
+          "images": [
+            "/entarim/products/e166-hamile-elbise-pamuk/siyah-siyah-beyaz/1.jpg",
+            "/entarim/products/e166-hamile-elbise-pamuk/siyah-siyah-beyaz/2.jpg",
+            "/entarim/products/e166-hamile-elbise-pamuk/siyah-siyah-beyaz/3.jpg"
+          ]
+        },
+        {
+          "id": "lacivert-mavi-krem",
+          "name": "Lacivert/Mavi+krem",
+          "hex": "#1e3a5f",
+          "images": [
+            "/entarim/products/e166-hamile-elbise-pamuk/lacivert-mavi-krem/1.jpg",
+            "/entarim/products/e166-hamile-elbise-pamuk/lacivert-mavi-krem/2.jpg",
+            "/entarim/products/e166-hamile-elbise-pamuk/lacivert-mavi-krem/3.jpg"
+          ]
+        },
+        {
+          "id": "mavi",
+          "name": "Mavi",
+          "hex": "#3b6ea5",
+          "images": [
+            "/entarim/products/e166-hamile-elbise-pamuk/mavi/1.jpg",
+            "/entarim/products/e166-hamile-elbise-pamuk/mavi/2.jpg",
+            "/entarim/products/e166-hamile-elbise-pamuk/mavi/3.jpg"
+          ]
+        }
+      ],
+      "relatedSlugs": [
+        "e186-hamile-sifon-elbise-4",
+        "e185-hamile-duz-orme-cizgili-dokuma-pamuklu-elbise",
+        "e175-hamile-viskon-kumas-elbise",
+        "e183-hamile-viskon-elbise",
+        "e181-hamile-pamuk-keten-elbise",
+        "e122-hamile-ekose-elbise",
+        "m077-hamile-maksi-elbise-viscon-kumas-elbise",
+        "6019-m010-hamile-uzun-sifon-elbise",
+        "e114-m04-hamile-elbise-ekose",
+        "e188-hamile-sifon-elbise-3"
+      ],
+      "generatedPalette": [
+        "#1f1d20",
+        "#ba8873",
+        "#dfbbaa",
+        "#a19ca1",
+        "#797475"
+      ]
+    },
+    {
+      "id": "37",
+      "slug": "e188-hamile-sifon-elbise-3",
+      "name": "HAMİLE ŞİFON ELBİSE",
+      "category": "Hamile Elbise",
+      "categorySlug": "hamile-elbise",
+      "price": 2950,
+      "oldPrice": null,
+      "description": [
+        "*Rahat ve şık !.. * hamİLELİK dönemİnde konforunuzu ön planda tutaN TASARIMI, HafİF ve nefes alabİLEN şİfon kumaşıYLA",
+        "sıcak havalarda bİle serİn kalmanızı sağlar!.. *femİnen,ZARİF,DÖKÜMLÜ STİLİYLE",
+        "özel günlerde ve günlük kullanımda,şıklığınızı tamamlar!.. *Esnek yapısı sayesİnde",
+        "VÜCUT HATLARINIZA UYUM SAĞLAR VE hamİlelİk SÜRESİNCE rahatlıkla GİYİLEBİLİR!.. Kolay bakım İmkanı sunan kumaşı",
+        "pratİk kullanım sağlar!.. İçİ astarlı BU ELBİSENİN BOYU:100cm'DİR!.."
+      ],
+      "sizes": [
+        "38",
+        "40",
+        "42",
+        "44",
+        "46"
+      ],
+      "colors": [
+        {
+          "id": "gulkurusu-bej",
+          "name": "Gülkurusu_Bej",
+          "hex": "#c1aebb",
+          "images": [
+            "/entarim/products/e188-hamile-sifon-elbise-3/gulkurusu-bej/1.jpg",
+            "/entarim/products/e188-hamile-sifon-elbise-3/gulkurusu-bej/2.jpg",
+            "/entarim/products/e188-hamile-sifon-elbise-3/gulkurusu-bej/3.jpg"
+          ]
+        },
+        {
+          "id": "petrol-krem",
+          "name": "Petrol-Krem",
+          "hex": "#2281aa",
+          "images": [
+            "/entarim/products/e188-hamile-sifon-elbise-3/petrol-krem/2.jpg",
+            "/entarim/products/e188-hamile-sifon-elbise-3/petrol-krem/3.jpg"
+          ]
+        },
+        {
+          "id": "siyah-krem",
+          "name": "Siyah_Krem",
+          "hex": "#111111",
+          "images": [
+            "/entarim/products/e188-hamile-sifon-elbise-3/siyah-krem/1.jpg",
+            "/entarim/products/e188-hamile-sifon-elbise-3/siyah-krem/2.jpg",
+            "/entarim/products/e188-hamile-sifon-elbise-3/siyah-krem/3.jpg"
+          ]
+        }
+      ],
+      "relatedSlugs": [
+        "e186-hamile-sifon-elbise-4",
+        "e185-hamile-duz-orme-cizgili-dokuma-pamuklu-elbise",
+        "e175-hamile-viskon-kumas-elbise",
+        "e183-hamile-viskon-elbise",
+        "e181-hamile-pamuk-keten-elbise",
+        "e122-hamile-ekose-elbise",
+        "m077-hamile-maksi-elbise-viscon-kumas-elbise",
+        "e166-hamile-elbise-pamuk",
+        "6019-m010-hamile-uzun-sifon-elbise",
+        "e114-m04-hamile-elbise-ekose"
+      ],
+      "generatedPalette": [
+        "#4c1f14",
+        "#7f3d2a"
+      ]
+    },
+    {
+      "id": "42",
+      "slug": "e114a-hamile-ekose-elbise",
+      "name": "HAMİLE EKOSE ELBİSE",
+      "category": "Hamile Elbise",
+      "categorySlug": "hamile-elbise",
+      "price": 1850,
+      "oldPrice": 2250,
+      "description": [
+        "Rahat kesimi ve esnek kumaşı ile hamilelik sürecinde konforlu bir kullanım sunar.",
+        "Ekose deseniyle şık ve modern bir görünüm sağlar.",
+        "Hamilelik dönemine özel olarak tasarlanmış, karın bölgesini destekleyen yapısıyla rahatlık ve şıklığı bir arada sunar.",
+        "Günlük kullanım için idealdir, evde veya dışarıda rahatlıkla tercih edilebilir.",
+        "Farklı mevsimlerde giyilebilecek, çok yönlü bir parçadır.",
+        "ELBİSENİN BOYU 100 CM DİR"
+      ],
+      "sizes": [
+        "38",
+        "40",
+        "42",
+        "44",
+        "46"
+      ],
+      "colors": [
+        {
+          "id": "kirmizi-lacivert-krem",
+          "name": "Kırmızı-Lacivert-Krem",
+          "hex": "#b33a3a",
+          "images": [
+            "/entarim/products/e114a-hamile-ekose-elbise/kirmizi-lacivert-krem/1.jpg",
+            "/entarim/products/e114a-hamile-ekose-elbise/kirmizi-lacivert-krem/2.jpg",
+            "/entarim/products/e114a-hamile-ekose-elbise/kirmizi-lacivert-krem/3.jpg"
+          ]
+        },
+        {
+          "id": "gri-mavi-lacivert-krem-kareli",
+          "name": "Gri Mavi-Lacivert-Krem KARELİ",
+          "hex": "#8a8a8a",
+          "images": [
+            "/entarim/products/e114a-hamile-ekose-elbise/gri-mavi-lacivert-krem-kareli/1.jpg",
+            "/entarim/products/e114a-hamile-ekose-elbise/gri-mavi-lacivert-krem-kareli/2.jpg",
+            "/entarim/products/e114a-hamile-ekose-elbise/gri-mavi-lacivert-krem-kareli/3.jpg"
+          ]
+        }
+      ],
+      "relatedSlugs": [
+        "e186-hamile-sifon-elbise-4",
+        "e185-hamile-duz-orme-cizgili-dokuma-pamuklu-elbise",
+        "e175-hamile-viskon-kumas-elbise",
+        "e183-hamile-viskon-elbise",
+        "e181-hamile-pamuk-keten-elbise",
+        "e122-hamile-ekose-elbise",
+        "m077-hamile-maksi-elbise-viscon-kumas-elbise",
+        "e166-hamile-elbise-pamuk",
+        "6019-m010-hamile-uzun-sifon-elbise",
+        "e114-m04-hamile-elbise-ekose"
+      ],
+      "generatedPalette": [
+        "#51212a",
+        "#e3e3dd"
+      ]
+    },
+    {
+      "id": "31",
+      "slug": "e0064-hamile-elbise-belmando",
+      "name": "HAMİLE BELMANDO ELBİSE",
+      "category": "Hamile Elbise",
+      "categorySlug": "hamile-elbise",
+      "price": 1235,
+      "oldPrice": null,
+      "description": [
+        "Rahat ve şık tasarımıyla hamilelik sürecinde konforunuzdan ödün vermeden stil sahibi görünmenizi sağlar.",
+        "Esnek kumaşı sayesinde karnınızın büyümesine uyum sağlar ve gün boyu rahatlık sunar.",
+        "Bel kısmındaki özel tasarım, hamileliğinizin her aşamasında size mükemmel bir uyum sağlar.",
+        "Günlük kullanım için idealdir",
+        "hem evde hem de dışarıda rahatlıkla tercih edebilirsiniz.",
+        "Kolay bakım imkanı sunan kumaşı sayesinde uzun süreli kullanım için uygundur."
+      ],
+      "sizes": [
+        "38",
+        "40",
+        "42",
+        "44",
+        "46"
+      ],
+      "colors": [
+        {
+          "id": "kirmizi",
+          "name": "Kırmızı",
+          "hex": "#b33a3a",
+          "images": [
+            "/entarim/products/e0064-hamile-elbise-belmando/kirmizi/1.jpg",
+            "/entarim/products/e0064-hamile-elbise-belmando/kirmizi/2.jpg",
+            "/entarim/products/e0064-hamile-elbise-belmando/kirmizi/3.jpg"
+          ]
+        },
+        {
+          "id": "lacivert",
+          "name": "Lacivert",
+          "hex": "#1e3a5f",
+          "images": [
+            "/entarim/products/e0064-hamile-elbise-belmando/lacivert/1.jpg"
+          ]
+        }
+      ],
+      "relatedSlugs": [
+        "e186-hamile-sifon-elbise-4",
+        "e185-hamile-duz-orme-cizgili-dokuma-pamuklu-elbise",
+        "e175-hamile-viskon-kumas-elbise",
+        "e183-hamile-viskon-elbise",
+        "e181-hamile-pamuk-keten-elbise",
+        "e122-hamile-ekose-elbise",
+        "m077-hamile-maksi-elbise-viscon-kumas-elbise",
+        "e166-hamile-elbise-pamuk",
+        "6019-m010-hamile-uzun-sifon-elbise",
+        "e114-m04-hamile-elbise-ekose"
+      ],
+      "generatedPalette": [
+        "#d4443b",
+        "#801815",
+        "#6f3d27",
+        "#a34f3d"
+      ]
+    },
+    {
+      "id": "49",
+      "slug": "5130a4-hamile-owersize-elbise-orme-empirme-garnili",
+      "name": "HAMİLE_OWERSİZE ELBİSE ÖRME,KREP EMPİRME GARNİLİ",
+      "category": "Hamile Elbise",
+      "categorySlug": "hamile-elbise",
+      "price": 1995,
+      "oldPrice": null,
+      "description": [
+        "**KALİTELİ, ŞIK VE RAHAT OVERSİZE ELBİSE!..",
+        "**HAMİLELİK SÜRESİNCE",
+        "KONFORUNUZU ÖN PLANDA TUTAR!..",
+        "**YUMUŞAK, PAMUKLU KUMAŞI SAYESİNDE",
+        "GÜN BOYU RAHAT ETMENİZİ SAĞLAR!..",
+        "**BİSİKLET YAKA",
+        "ÖRME KUMAŞ ÜST VE ETEĞİNDEKİ FIRÇA DESENLİ, KREP EMPİRME KUMAŞ KONBİNİYLE",
+        "SADE VE MODERN BİR STİL!..",
+        "**BU ELBİSE",
+        "ZEVKİNİZE UYGUN DEĞİŞİK AKSESUARLARLA, NORMAL VEYA ÖZEL GÜNLERDE GİYEBİLECEĞİNİZ ,ÖZEL BİR TASARIMA SAHİPTİR!..",
+        "**SİYAH ÖRME + FIRÇA DESENLİ (SİYAH+KREM) KOMBİNİYLE",
+        "ŞIK VE ZAMANSIZ BİR MODEL!..",
+        "**ENTARİM HAMİLE GİYİM",
+        "KOLLEKSİYONUNDAN",
+        "ÖZGÜN BİR TASARIM!..",
+        "**HAMİLELİĞİNİZ SÜRESİNCE, VÜCUT HATLARINIZA UYUM SAĞLARAK",
+        "SİZE ÖZEL BİR KONFOR SUNAR!..",
+        "**SÜRDÜRÜLEBİLİR MALZEMELERDEN",
+        "TÜRKİYE'DE ÜRETİLMİŞTİR!..",
+        "**ELBİSENİN BOYU:90cm,",
+        "beden:48cm'dir!..",
+        "**bedenler 2'şer cm büyümektedir!.."
+      ],
+      "sizes": [
+        "38",
+        "40",
+        "42",
+        "44",
+        "46"
+      ],
+      "colors": [
+        {
+          "id": "siyah",
+          "name": "Siyah",
+          "hex": "#111111",
+          "images": [
+            "/entarim/products/5130a4-hamile-owersize-elbise-orme-empirme-garnili/siyah/1.jpg",
+            "/entarim/products/5130a4-hamile-owersize-elbise-orme-empirme-garnili/siyah/2.jpg",
+            "/entarim/products/5130a4-hamile-owersize-elbise-orme-empirme-garnili/siyah/3.jpg"
+          ]
+        }
+      ],
+      "relatedSlugs": [
+        "e186-hamile-sifon-elbise-4",
+        "e185-hamile-duz-orme-cizgili-dokuma-pamuklu-elbise",
+        "e175-hamile-viskon-kumas-elbise",
+        "e183-hamile-viskon-elbise",
+        "e181-hamile-pamuk-keten-elbise",
+        "e122-hamile-ekose-elbise",
+        "m077-hamile-maksi-elbise-viscon-kumas-elbise",
+        "e166-hamile-elbise-pamuk",
+        "6019-m010-hamile-uzun-sifon-elbise",
+        "e114-m04-hamile-elbise-ekose"
+      ],
+      "generatedPalette": [
+        "#0f0d09",
+        "#4d4943"
+      ]
+    },
+    {
+      "id": "60",
+      "slug": "e0019-04-hamile-elbise-sifon-dantel-yaka-detayli-maksi",
+      "name": "HAMİLE ELBİSE ŞİFON ,DANTEL YAKA DETAYLI MAKSİ",
+      "category": "Hamile Elbise",
+      "categorySlug": "hamile-elbise",
+      "price": 1995,
+      "oldPrice": null,
+      "description": [
+        "BEDEN ÖLÇÜLERİ Göğüs Ölçüleri 38 Beden = 48 cm (yarım tur) 40 Beden = 50 cm (yarım tur) 42 Beden = 52 cm (yarım tur) 44 Beden = 54 cm (yarım tur) Bel ölçüsü : 38 bedende 72 cm dir tam çevre.",
+        "Bedenlerimiz arasında 2 şer cm oynamaktadır.(Örn.",
+        "40 bedende 74 , 42 bedende 76) Kalça:100 cm 38 bedende tam çevre.",
+        "Kalça ölçümlerinde her beden artışında 4 cm eklenmelidir.",
+        "BedenCmTur Göğüs ölçüleri3848 cmYarım Tur Göğüs ölçüleri4050 cmYarım Tur Göğüs ölçüleri4252 cmYarım Tur Göğüs ölçüleri4454 cmYarım Tur Göğüs ölçüleri4656 cmYarım Tur Bel ölçüsü3872 cm Tam tur Bel ölçüsü4074 cmTam tur Bel ölçüsü4276 cm Tam tur Bel ölçüsü4478 cm Tam tur Bel ölçüsü4680 cm Tam tur Kalça 38100 cmTam tur Kalça 40104 cmTam tur Kalça 42108 cmTam tur Kalça 44112 cmTam tur Kalça 46116 cmTam tur Ürün ve Manken Boyları Manken Boyu = 176 cm Tesettür Elbise Boyu = 145 cm Abiye Elbise Boyu = 155 cm - 160 cm Diz Altı Midi Boy Elbise = 105 cm - 110 cm Ara Boy Elbiseler = 95 cm Diz Boyu Elbiseler=100 cm Spor Elbise Diz Boyu = 100 cm Tunik Boyları = 75 cm - 80 cm-85 cm"
+      ],
+      "sizes": [
+        "38",
+        "40",
+        "42",
+        "44",
+        "46"
+      ],
+      "colors": [
+        {
+          "id": "lacivert",
+          "name": "LACİVERT",
+          "hex": "#1e3a5f",
+          "images": [
+            "/entarim/products/e0019-04-hamile-elbise-sifon-dantel-yaka-detayli-maksi/lacivert/1.jpg",
+            "/entarim/products/e0019-04-hamile-elbise-sifon-dantel-yaka-detayli-maksi/lacivert/2.jpg",
+            "/entarim/products/e0019-04-hamile-elbise-sifon-dantel-yaka-detayli-maksi/lacivert/3.jpg"
+          ]
+        },
+        {
+          "id": "pembe",
+          "name": "PEMBE",
+          "hex": "#e8a0b0",
+          "images": [
+            "/entarim/products/e0019-04-hamile-elbise-sifon-dantel-yaka-detayli-maksi/pembe/1.jpg",
+            "/entarim/products/e0019-04-hamile-elbise-sifon-dantel-yaka-detayli-maksi/pembe/2.jpg",
+            "/entarim/products/e0019-04-hamile-elbise-sifon-dantel-yaka-detayli-maksi/pembe/3.jpg"
+          ]
+        },
+        {
+          "id": "siyah",
+          "name": "SİYAH",
+          "hex": "#111111",
+          "images": [
+            "/entarim/products/e0019-04-hamile-elbise-sifon-dantel-yaka-detayli-maksi/siyah/1.jpg",
+            "/entarim/products/e0019-04-hamile-elbise-sifon-dantel-yaka-detayli-maksi/siyah/2.jpg",
+            "/entarim/products/e0019-04-hamile-elbise-sifon-dantel-yaka-detayli-maksi/siyah/3.jpg"
+          ]
+        },
+        {
+          "id": "pudra",
+          "name": "PUDRA",
+          "hex": "#e8c4c4",
+          "images": [
+            "/entarim/products/e0019-04-hamile-elbise-sifon-dantel-yaka-detayli-maksi/pudra/1.jpg",
+            "/entarim/products/e0019-04-hamile-elbise-sifon-dantel-yaka-detayli-maksi/pudra/2.jpg",
+            "/entarim/products/e0019-04-hamile-elbise-sifon-dantel-yaka-detayli-maksi/pudra/3.jpg"
+          ]
+        }
+      ],
+      "relatedSlugs": [
+        "e186-hamile-sifon-elbise-4",
+        "e185-hamile-duz-orme-cizgili-dokuma-pamuklu-elbise",
+        "e175-hamile-viskon-kumas-elbise",
+        "e183-hamile-viskon-elbise",
+        "e181-hamile-pamuk-keten-elbise",
+        "e122-hamile-ekose-elbise",
+        "m077-hamile-maksi-elbise-viscon-kumas-elbise",
+        "e166-hamile-elbise-pamuk",
+        "6019-m010-hamile-uzun-sifon-elbise",
+        "e114-m04-hamile-elbise-ekose"
+      ],
+      "generatedPalette": [
+        "#5b6077",
+        "#343d5d",
+        "#92949f"
+      ]
+    },
+    {
+      "id": "22",
+      "slug": "e174-hamile-cizgili-koton-elbise",
+      "name": "HAMİLE ÇİZGİLİ KOTON ELBİSE",
+      "category": "Hamile Elbise",
+      "categorySlug": "hamile-elbise",
+      "price": 1950,
+      "oldPrice": 2250,
+      "description": [
+        "Rahat ve şık tasarımı ile hamileliğiniz boyunca konforunuzu ön planda tutar.",
+        "Coton kumaşı sayesinde hava alabilir yapısıyla cildinizi rahat ettirir.",
+        "Çizgili deseniyle modern ve dinamik bir görünüm sunar.",
+        "Esnek yapısı ile hamilelik sürecindeki vücut değişikliklerinize uyum sağlar.",
+        "Günlük kullanım için idealdir, hem evde hem de dışarıda rahatlıkla tercih edilebilir.",
+        "ELBİSE 36 beden göğüs tam tu 92 cm 38 beden göğüs tam tur 96 cm 40 beden göğüs tam tur 100 cm 42 beden göğüs tam tur 104 cm 44 beden gögüs tam tur 108 cm ELBİSE BOY 97 CM"
+      ],
+      "sizes": [
+        "36",
+        "38",
+        "40",
+        "42",
+        "44"
+      ],
+      "colors": [
+        {
+          "id": "bej",
+          "name": "Bej",
+          "hex": "#d8c7b0",
+          "images": [
+            "/entarim/products/e174-hamile-cizgili-koton-elbise/bej/1.jpg",
+            "/entarim/products/e174-hamile-cizgili-koton-elbise/bej/2.jpg",
+            "/entarim/products/e174-hamile-cizgili-koton-elbise/bej/3.jpg"
+          ]
+        },
+        {
+          "id": "mavi",
+          "name": "Mavi",
+          "hex": "#3b6ea5",
+          "images": [
+            "/entarim/products/e174-hamile-cizgili-koton-elbise/mavi/1.jpg",
+            "/entarim/products/e174-hamile-cizgili-koton-elbise/mavi/2.jpg",
+            "/entarim/products/e174-hamile-cizgili-koton-elbise/mavi/3.jpg"
+          ]
+        }
+      ],
+      "relatedSlugs": [
+        "e186-hamile-sifon-elbise-4",
+        "e185-hamile-duz-orme-cizgili-dokuma-pamuklu-elbise",
+        "e175-hamile-viskon-kumas-elbise",
+        "e183-hamile-viskon-elbise",
+        "e181-hamile-pamuk-keten-elbise",
+        "e122-hamile-ekose-elbise",
+        "m077-hamile-maksi-elbise-viscon-kumas-elbise",
+        "e166-hamile-elbise-pamuk",
+        "6019-m010-hamile-uzun-sifon-elbise",
+        "e114-m04-hamile-elbise-ekose"
+      ],
+      "generatedPalette": [
+        "#522d27"
+      ]
+    },
+    {
+      "id": "40",
+      "slug": "e189-hamile-krep-elbise",
+      "name": "HAMİLE Krep ELBİSE",
+      "category": "Hamile Elbise",
+      "categorySlug": "hamile-elbise",
+      "price": 2950,
+      "oldPrice": null,
+      "description": [
+        "Rahat kesimiyle hamilelik sürecinde konforlu bir kullanım sunar.",
+        "Krep kumaşı, yumuşak dokusuyla cildinize nazikçe dokunur.",
+        "Hamilelik dönemine uygun özel tasarımlı kesimiyle şık bir görünüm sağlar.",
+        "Esnek yapısı sayesinde karın bölgesine uyum sağlar ve hareket özgürlüğü tanır.",
+        "Günlük kullanım için idealdir, rahatlığı ve şıklığı bir arada sunar.",
+        "Elbise 100 cm olup içi astarlıdır"
+      ],
+      "sizes": [
+        "38",
+        "40",
+        "42",
+        "44",
+        "46"
+      ],
+      "colors": [
+        {
+          "id": "siyah",
+          "name": "Siyah",
+          "hex": "#111111",
+          "images": [
+            "/entarim/products/e189-hamile-krep-elbise/siyah/1.jpg",
+            "/entarim/products/e189-hamile-krep-elbise/siyah/2.jpg",
+            "/entarim/products/e189-hamile-krep-elbise/siyah/3.jpg"
+          ]
+        }
+      ],
+      "relatedSlugs": [
+        "e186-hamile-sifon-elbise-4",
+        "e185-hamile-duz-orme-cizgili-dokuma-pamuklu-elbise",
+        "e175-hamile-viskon-kumas-elbise",
+        "e183-hamile-viskon-elbise",
+        "e181-hamile-pamuk-keten-elbise",
+        "e122-hamile-ekose-elbise",
+        "m077-hamile-maksi-elbise-viscon-kumas-elbise",
+        "e166-hamile-elbise-pamuk",
+        "6019-m010-hamile-uzun-sifon-elbise",
+        "e114-m04-hamile-elbise-ekose"
+      ],
+      "generatedPalette": [
+        "#141117",
+        "#4d4644",
+        "#766f6d"
+      ]
+    },
+    {
+      "id": "35",
+      "slug": "e189-hamile-sifon-elbise-2",
+      "name": "HAMİLE ŞİFON ELBİSE",
+      "category": "Hamile Elbise",
+      "categorySlug": "hamile-elbise",
+      "price": 2950,
+      "oldPrice": null,
+      "description": [
+        "Rahat ve şık tasarımıyla hamilelik sürecinde konforunuzdan ödün vermeden şıklığınızı koruyun. - Yüksek kaliteli şifon kumaşı, hafifliği ve nefes alabilir yapısıyla gün boyu rahatlık sağlar. - Esnek yapısı sayesinde hamilelik dönemindeki vücut değişikliklerinize uyum sağlar ve hareket özgürlüğünüzü kısıtlamaz. - Zarif dökümlü kesimiyle feminen bir görünüm sunar ve özel günlerde veya günlük kullanımda tercih edilebilir. - Kolay bakım imkanı sunan kumaşı sayesinde uzun süreli kullanım için idealdir.Elbise 100 cm olup içi astarlıdır"
+      ],
+      "sizes": [
+        "38",
+        "40",
+        "42",
+        "44",
+        "46"
+      ],
+      "colors": [
+        {
+          "id": "siyah",
+          "name": "Siyah",
+          "hex": "#111111",
+          "images": [
+            "/entarim/products/e189-hamile-sifon-elbise-2/siyah/1.jpg",
+            "/entarim/products/e189-hamile-sifon-elbise-2/siyah/2.jpg",
+            "/entarim/products/e189-hamile-sifon-elbise-2/siyah/3.jpg"
+          ]
+        }
+      ],
+      "relatedSlugs": [
+        "e186-hamile-sifon-elbise-4",
+        "e185-hamile-duz-orme-cizgili-dokuma-pamuklu-elbise",
+        "e175-hamile-viskon-kumas-elbise",
+        "e183-hamile-viskon-elbise",
+        "e181-hamile-pamuk-keten-elbise",
+        "e122-hamile-ekose-elbise",
+        "m077-hamile-maksi-elbise-viscon-kumas-elbise",
+        "e166-hamile-elbise-pamuk",
+        "6019-m010-hamile-uzun-sifon-elbise",
+        "e114-m04-hamile-elbise-ekose"
+      ],
+      "generatedPalette": [
+        "#433720",
+        "#21191e",
+        "#483e42"
+      ]
+    },
+    {
+      "id": "27",
+      "slug": "b028-hamile-bluz-cizgili-koton-dokuma-emzirme-ozellikli",
+      "name": "HAMİLE BLUZ - Emzirme özellikli-Çizgili koton dokuma kumaş",
+      "category": "Emzirmeye uygun-Giyim",
+      "categorySlug": "emzirmeye-uygun-giyim",
+      "price": 1680,
+      "oldPrice": 1695,
+      "description": [
+        "Rahat ve şık tasarımıyla hamilelik döneminde konforunuzu ön planda tutar.",
+        "Çizgili deseniyle modern ve dinamik bir görünüm sunar.",
+        "Emzirme özelliğine sahip olması sayesinde bebeğinizle özel anlarınızı kolayca paylaşmanızı sağlar.",
+        "Koton kumaşı, cildinize nazik dokunuşuyla gün boyu rahatlık hissi verir.",
+        "Hamilelik sonrası da kullanabileceğiniz esnek yapısıyla uzun ömürlü bir tercih olur."
+      ],
+      "sizes": [
+        "38",
+        "40",
+        "42",
+        "44",
+        "46"
+      ],
+      "colors": [
+        {
+          "id": "kirmizi",
+          "name": "Kırmızı",
+          "hex": "#b33a3a",
+          "images": [
+            "/entarim/products/b028-hamile-bluz-cizgili-koton-dokuma-emzirme-ozellikli/kirmizi/1.jpg",
+            "/entarim/products/b028-hamile-bluz-cizgili-koton-dokuma-emzirme-ozellikli/kirmizi/2.jpg",
+            "/entarim/products/b028-hamile-bluz-cizgili-koton-dokuma-emzirme-ozellikli/kirmizi/3.jpg"
+          ]
+        },
+        {
+          "id": "mavi",
+          "name": "Mavi",
+          "hex": "#3b6ea5",
+          "images": [
+            "/entarim/products/b028-hamile-bluz-cizgili-koton-dokuma-emzirme-ozellikli/mavi/1.jpg",
+            "/entarim/products/b028-hamile-bluz-cizgili-koton-dokuma-emzirme-ozellikli/mavi/3.jpg"
+          ]
+        }
+      ],
+      "relatedSlugs": [
+        "b120-hamile-owersize-tunik-pamuk-cizgili-emzirme-detayli-bluz",
+        "e175-hamile-viskon-kumas-elbise",
+        "e183-hamile-viskon-elbise",
+        "e181-hamile-pamuk-keten-elbise",
+        "b128-hamile-bluz-koton-cizgili-emzirme-ozellikli",
+        "e122-hamile-ekose-elbise",
+        "bbb055-owersize-hamile-cizgili-pamuk-gomlek",
+        "m077-hamile-maksi-elbise-viscon-kumas-elbise",
+        "e114-m04-hamile-elbise-ekose",
+        "b119-koton-fermuarli-emzirme-ozellikli-kisa-kol-hamile-bluz"
+      ],
+      "generatedPalette": [
+        "#3e3822"
+      ]
+    },
+    {
+      "id": "23",
+      "slug": "b120-hamile-owersize-tunik-pamuk-cizgili-emzirme-detayli-bluz",
+      "name": "HAMİLE TUNİK-Pamuk Çizgili ,Emzirmeye uygun ,Hamile Owersize",
+      "category": "Emzirmeye uygun-Giyim",
+      "categorySlug": "emzirmeye-uygun-giyim",
+      "price": 1680,
+      "oldPrice": 1695,
+      "description": [
+        "Rahat kesimi ile hamilelik sürecinde konforlu bir kullanım sunar.",
+        "Pamuk kumaşı sayesinde cildinize nazik dokunuşlar sağlar ve nefes alabilir yapısıyla gün boyu rahatlık hissi verir.",
+        "Çizgili deseniyle şık ve modern bir görünüm kazandırır.",
+        "Emziğe takılabilen detayları ile pratik kullanım imkanı sunar.",
+        "Oversize kesimi ile vücut hatlarını gizleyerek hamilelik döneminde rahat etmenizi sağlar."
+      ],
+      "sizes": [
+        "38",
+        "40",
+        "42",
+        "44",
+        "46"
+      ],
+      "colors": [
+        {
+          "id": "lacivert",
+          "name": "Lacivert",
+          "hex": "#1e3a5f",
+          "images": [
+            "/entarim/products/b120-hamile-owersize-tunik-pamuk-cizgili-emzirme-detayli-bluz/lacivert/1.jpg",
+            "/entarim/products/b120-hamile-owersize-tunik-pamuk-cizgili-emzirme-detayli-bluz/lacivert/2.jpg",
+            "/entarim/products/b120-hamile-owersize-tunik-pamuk-cizgili-emzirme-detayli-bluz/lacivert/3.jpg"
+          ]
+        },
+        {
+          "id": "krem",
+          "name": "Krem",
+          "hex": "#eee5d0",
+          "images": [
+            "/entarim/products/b120-hamile-owersize-tunik-pamuk-cizgili-emzirme-detayli-bluz/krem/1.jpg",
+            "/entarim/products/b120-hamile-owersize-tunik-pamuk-cizgili-emzirme-detayli-bluz/krem/2.jpg",
+            "/entarim/products/b120-hamile-owersize-tunik-pamuk-cizgili-emzirme-detayli-bluz/krem/3.jpg"
+          ]
+        },
+        {
+          "id": "haki",
+          "name": "Haki",
+          "hex": "#a3a89f",
+          "images": [
+            "/entarim/products/b120-hamile-owersize-tunik-pamuk-cizgili-emzirme-detayli-bluz/haki/1.jpg",
+            "/entarim/products/b120-hamile-owersize-tunik-pamuk-cizgili-emzirme-detayli-bluz/haki/2.jpg"
+          ]
+        },
+        {
+          "id": "mavi",
+          "name": "Mavi",
+          "hex": "#3b6ea5",
+          "images": [
+            "/entarim/products/b120-hamile-owersize-tunik-pamuk-cizgili-emzirme-detayli-bluz/mavi/1.jpg",
+            "/entarim/products/b120-hamile-owersize-tunik-pamuk-cizgili-emzirme-detayli-bluz/mavi/3.jpg"
+          ]
+        }
+      ],
+      "relatedSlugs": [
+        "b028-hamile-bluz-cizgili-koton-dokuma-emzirme-ozellikli",
+        "e175-hamile-viskon-kumas-elbise",
+        "e183-hamile-viskon-elbise",
+        "e181-hamile-pamuk-keten-elbise",
+        "b128-hamile-bluz-koton-cizgili-emzirme-ozellikli",
+        "e122-hamile-ekose-elbise",
+        "bbb055-owersize-hamile-cizgili-pamuk-gomlek",
+        "m077-hamile-maksi-elbise-viscon-kumas-elbise",
+        "e114-m04-hamile-elbise-ekose",
+        "b119-koton-fermuarli-emzirme-ozellikli-kisa-kol-hamile-bluz"
+      ],
+      "generatedPalette": [
+        "#26202e",
+        "#404b64"
+      ]
+    },
+    {
+      "id": "41",
+      "slug": "b128-hamile-bluz-koton-cizgili-emzirme-ozellikli",
+      "name": "HAMİLE BLUZ KOTON ÇİZGİLİ EMZİRME ÖZELLİKLİ",
+      "category": "Emzirmeye uygun-Giyim",
+      "categorySlug": "emzirmeye-uygun-giyim",
+      "price": 1680,
+      "oldPrice": null,
+      "description": [
+        "Rahat ve şık tasarımıyla hamileliğinizin her döneminde konforunuzdan ödün vermezsiniz.",
+        "Koton kumaşı sayesinde gün boyu nefes alabilen ve cildinize nazik bir dokunuş sağlar.",
+        "Çizgili deseniyle modern ve dinamik bir görünüm sunar.",
+        "Emzirme özelliği ile bebeğinizle özel anlarınızda pratiklik ve kolaylık sağlar.",
+        "Günlük kullanım için idealdir",
+        "evde, işte veya dışarıda rahatlıkla tercih edebilirsiniz."
+      ],
+      "sizes": [
+        "38",
+        "40",
+        "42",
+        "44",
+        "46"
+      ],
+      "colors": [
+        {
+          "id": "koyu-pembe-acik-pembe-cizgili",
+          "name": "Koyu Pembe -Açık Pembe Çizgili",
+          "hex": "#e8a0b0",
+          "images": [
+            "/entarim/products/b128-hamile-bluz-koton-cizgili-emzirme-ozellikli/koyu-pembe-acik-pembe-cizgili/1.jpg",
+            "/entarim/products/b128-hamile-bluz-koton-cizgili-emzirme-ozellikli/koyu-pembe-acik-pembe-cizgili/2.jpg",
+            "/entarim/products/b128-hamile-bluz-koton-cizgili-emzirme-ozellikli/koyu-pembe-acik-pembe-cizgili/3.jpg"
+          ]
+        },
+        {
+          "id": "mavi-acik-mavi-cizgili",
+          "name": "Mavi-Açık Mavi Çizgili",
+          "hex": "#3b6ea5",
+          "images": [
+            "/entarim/products/b128-hamile-bluz-koton-cizgili-emzirme-ozellikli/mavi-acik-mavi-cizgili/1.jpg",
+            "/entarim/products/b128-hamile-bluz-koton-cizgili-emzirme-ozellikli/mavi-acik-mavi-cizgili/2.jpg"
+          ]
+        }
+      ],
+      "relatedSlugs": [
+        "b028-hamile-bluz-cizgili-koton-dokuma-emzirme-ozellikli",
+        "b120-hamile-owersize-tunik-pamuk-cizgili-emzirme-detayli-bluz",
+        "e175-hamile-viskon-kumas-elbise",
+        "e183-hamile-viskon-elbise",
+        "e181-hamile-pamuk-keten-elbise",
+        "e122-hamile-ekose-elbise",
+        "bbb055-owersize-hamile-cizgili-pamuk-gomlek",
+        "m077-hamile-maksi-elbise-viscon-kumas-elbise",
+        "e114-m04-hamile-elbise-ekose",
+        "b119-koton-fermuarli-emzirme-ozellikli-kisa-kol-hamile-bluz"
+      ],
+      "generatedPalette": [
+        "#191f33",
+        "#3e4a66",
+        "#a5a1a7"
+      ]
+    },
+    {
+      "id": "45",
+      "slug": "bbb055-owersize-hamile-cizgili-pamuk-gomlek",
+      "name": "OWERSİZE-HAMİLE ÇİZGİLİ PAMUK GÖMLEK",
+      "category": "Hamile Tunik & Bluz",
+      "categorySlug": "tunik-bluz",
+      "price": 1750,
+      "oldPrice": null,
+      "description": [
+        "Rahat ve şık bir görünüm için oversize kesim.",
+        "Hamilelik döneminde konforlu kullanım için özel tasarım.",
+        "Yumuşak dokusuyla gün boyu rahatlık sağlar.",
+        "Çizgili deseniyle modern ve trend bir stil sunar.",
+        "Pamuklu kumaşı sayesinde nefes alabilir ve cildi tahriş etmez.",
+        "GÖĞÜS TAM TUR 116 olup bedenler arasında 4 er cm büyümektedir"
+      ],
+      "sizes": [
+        "38",
+        "40",
+        "42",
+        "44",
+        "46"
+      ],
+      "colors": [
+        {
+          "id": "haki",
+          "name": "Haki",
+          "hex": "#a3a89f",
+          "images": [
+            "/entarim/products/bbb055-owersize-hamile-cizgili-pamuk-gomlek/haki/1.jpg",
+            "/entarim/products/bbb055-owersize-hamile-cizgili-pamuk-gomlek/haki/2.jpg",
+            "/entarim/products/bbb055-owersize-hamile-cizgili-pamuk-gomlek/haki/3.jpg"
+          ]
+        }
+      ],
+      "relatedSlugs": [
+        "b028-hamile-bluz-cizgili-koton-dokuma-emzirme-ozellikli",
+        "b120-hamile-owersize-tunik-pamuk-cizgili-emzirme-detayli-bluz",
+        "b128-hamile-bluz-koton-cizgili-emzirme-ozellikli",
+        "b053a-hamile-gomlek-yaka-orme-cizgili-tunik",
+        "b119-koton-fermuarli-emzirme-ozellikli-kisa-kol-hamile-bluz",
+        "b055-pamuk-owersize-hamile-gomlek",
+        "b080-hamile-cizgi-pamuk-bluz",
+        "b126-cizgili-dokuma-duz-orme-owersize-hamile-bluz-tunik",
+        "b122-pamuk-duz-orme-cizgili-dokuma-hamile-tunik",
+        "b121b3-hamile-pamuk-cizgili-bluz"
+      ],
+      "generatedPalette": [
+        "#44566a",
+        "#272527",
+        "#69645a"
+      ]
+    },
+    {
+      "id": "39",
+      "slug": "b119-koton-fermuarli-emzirme-ozellikli-kisa-kol-hamile-bluz",
+      "name": "HAMİLE BLUZ-Kısa kollu,fermuarlı koton.",
+      "category": "Emzirmeye uygun-Giyim",
+      "categorySlug": "emzirmeye-uygun-giyim",
+      "price": 1680,
+      "oldPrice": null,
+      "description": [
+        "Rahat ve şık tasarımı ile hamilelik sürecinde konforunuzdan ödün vermeden stilinizi koruyun.",
+        "Pratik fermuarlı emzirme özelliği sayesinde bebeğinize kolayca erişebilir ve emzirebilirsiniz.",
+        "Kısa kollu yapısı ile sıcak havalarda serinlik ve rahatlık sağlar.",
+        "Yumuşak dokusu ve esnek kumaşı sayesinde gün boyu rahat bir kullanım sunar.",
+        "Hamilelik ve emzirme dönemine özel olarak tasarlanmış, vücut hatlarınıza uyum sağlayan kesimiyle şıklığınızı ön plana çıkarır."
+      ],
+      "sizes": [
+        "38",
+        "40",
+        "42",
+        "44",
+        "46"
+      ],
+      "colors": [
+        {
+          "id": "saks",
+          "name": "Saks",
+          "hex": "#3d7ea6",
+          "images": [
+            "/entarim/products/b119-koton-fermuarli-emzirme-ozellikli-kisa-kol-hamile-bluz/saks/1.jpg",
+            "/entarim/products/b119-koton-fermuarli-emzirme-ozellikli-kisa-kol-hamile-bluz/saks/2.jpg",
+            "/entarim/products/b119-koton-fermuarli-emzirme-ozellikli-kisa-kol-hamile-bluz/saks/3.jpg"
+          ]
+        },
+        {
+          "id": "bej",
+          "name": "Bej",
+          "hex": "#d8c7b0",
+          "images": [
+            "/entarim/products/b119-koton-fermuarli-emzirme-ozellikli-kisa-kol-hamile-bluz/bej/1.jpg",
+            "/entarim/products/b119-koton-fermuarli-emzirme-ozellikli-kisa-kol-hamile-bluz/bej/2.jpg",
+            "/entarim/products/b119-koton-fermuarli-emzirme-ozellikli-kisa-kol-hamile-bluz/bej/3.jpg"
+          ]
+        },
+        {
+          "id": "pembe",
+          "name": "Pembe",
+          "hex": "#e8a0b0",
+          "images": [
+            "/entarim/products/b119-koton-fermuarli-emzirme-ozellikli-kisa-kol-hamile-bluz/pembe/1.jpg",
+            "/entarim/products/b119-koton-fermuarli-emzirme-ozellikli-kisa-kol-hamile-bluz/pembe/2.jpg",
+            "/entarim/products/b119-koton-fermuarli-emzirme-ozellikli-kisa-kol-hamile-bluz/pembe/3.jpg"
+          ]
+        },
+        {
+          "id": "lacivert-beyaz-kareli",
+          "name": "Lacivert-Beyaz Kareli",
+          "hex": "#1e3a5f",
+          "images": [
+            "/entarim/products/b119-koton-fermuarli-emzirme-ozellikli-kisa-kol-hamile-bluz/lacivert-beyaz-kareli/1.jpg",
+            "/entarim/products/b119-koton-fermuarli-emzirme-ozellikli-kisa-kol-hamile-bluz/lacivert-beyaz-kareli/2.jpg",
+            "/entarim/products/b119-koton-fermuarli-emzirme-ozellikli-kisa-kol-hamile-bluz/lacivert-beyaz-kareli/3.jpg"
+          ]
+        }
+      ],
+      "relatedSlugs": [
+        "b028-hamile-bluz-cizgili-koton-dokuma-emzirme-ozellikli",
+        "b120-hamile-owersize-tunik-pamuk-cizgili-emzirme-detayli-bluz",
+        "e175-hamile-viskon-kumas-elbise",
+        "e183-hamile-viskon-elbise",
+        "e181-hamile-pamuk-keten-elbise",
+        "b128-hamile-bluz-koton-cizgili-emzirme-ozellikli",
+        "e122-hamile-ekose-elbise",
+        "bbb055-owersize-hamile-cizgili-pamuk-gomlek",
+        "m077-hamile-maksi-elbise-viscon-kumas-elbise",
+        "e114-m04-hamile-elbise-ekose"
+      ],
+      "generatedPalette": [
+        "#2b4c92",
+        "#577fc8",
+        "#65678c",
+        "#a0a2bc"
+      ]
+    },
+    {
+      "id": "47",
+      "slug": "b055-pamuk-owersize-hamile-gomlek",
+      "name": "HAMİLE ,PAMUK OWERSİZE GÖMLEK",
+      "category": "Hamile Tunik & Bluz",
+      "categorySlug": "tunik-bluz",
+      "price": 1680,
+      "oldPrice": null,
+      "description": [
+        "Hamilelik dönemi için özel olarak tasarlanmış, rahat ve şık bir görünüm sunan oversize gömlek.",
+        "Organik pamuk materyali sayesinde cildinize nazik dokunuşlar ve sürdürülebilir bir kullanım deneyimi.",
+        "Uzun kollu tasarımı ile mevsim geçişlerinde ve serin havalarda konforlu bir kullanım sağlar.",
+        "Günlük ortamlarda rahatlıkla tercih edebileceğiniz, şıklığı ve rahatlığı bir arada sunan stil.",
+        "Yetişkin kadınlar için uygun, geniş kalıbı ile hamilelik sürecinde vücut değişikliklerine uyum sağlar.",
+        "Türkiye'de üretilmiş olup, yerel üretimle desteklenen kaliteli bir ürün.",
+        "Dokuma kumaş tipi, dayanıklılığı ve nefes alabilirliği ile ön plana çıkar.",
+        "Bömlek owersize bir kalıptır 38 bedende göğüs ölçüsü tam tur 118 cm dir bedenler arası 4 er cm büyümektedir Gömlek boyu76 cm dir"
+      ],
+      "sizes": [
+        "38",
+        "40",
+        "42",
+        "44",
+        "46"
+      ],
+      "colors": [
+        {
+          "id": "mavi",
+          "name": "Mavi",
+          "hex": "#3b6ea5",
+          "images": [
+            "/entarim/products/b055-pamuk-owersize-hamile-gomlek/mavi/1.jpg",
+            "/entarim/products/b055-pamuk-owersize-hamile-gomlek/mavi/2.jpg",
+            "/entarim/products/b055-pamuk-owersize-hamile-gomlek/mavi/3.jpg"
+          ]
+        },
+        {
+          "id": "bej",
+          "name": "Bej",
+          "hex": "#d8c7b0",
+          "images": [
+            "/entarim/products/b055-pamuk-owersize-hamile-gomlek/bej/1.jpg",
+            "/entarim/products/b055-pamuk-owersize-hamile-gomlek/bej/3.jpg"
+          ]
+        },
+        {
+          "id": "beyaz",
+          "name": "Beyaz",
+          "hex": "#eeeeee",
+          "images": [
+            "/entarim/products/b055-pamuk-owersize-hamile-gomlek/beyaz/1.jpg",
+            "/entarim/products/b055-pamuk-owersize-hamile-gomlek/beyaz/3.jpg"
+          ]
+        },
+        {
+          "id": "pembe",
+          "name": "Pembe",
+          "hex": "#e8a0b0",
+          "images": [
+            "/entarim/products/b055-pamuk-owersize-hamile-gomlek/pembe/1.jpg",
+            "/entarim/products/b055-pamuk-owersize-hamile-gomlek/pembe/3.jpg"
+          ]
+        }
+      ],
+      "relatedSlugs": [
+        "b028-hamile-bluz-cizgili-koton-dokuma-emzirme-ozellikli",
+        "b120-hamile-owersize-tunik-pamuk-cizgili-emzirme-detayli-bluz",
+        "b128-hamile-bluz-koton-cizgili-emzirme-ozellikli",
+        "bbb055-owersize-hamile-cizgili-pamuk-gomlek",
+        "b053a-hamile-gomlek-yaka-orme-cizgili-tunik",
+        "b119-koton-fermuarli-emzirme-ozellikli-kisa-kol-hamile-bluz",
+        "b080-hamile-cizgi-pamuk-bluz",
+        "b126-cizgili-dokuma-duz-orme-owersize-hamile-bluz-tunik",
+        "b122-pamuk-duz-orme-cizgili-dokuma-hamile-tunik",
+        "b121b3-hamile-pamuk-cizgili-bluz"
+      ],
+      "generatedPalette": [
+        "#24394b",
+        "#51687e",
+        "#8091a2"
+      ]
+    },
+    {
+      "id": "19",
+      "slug": "b121b3-hamile-pamuk-cizgili-bluz",
+      "name": "HAMİLE BLUZ- ÇİZGİLİ ,PAMUK DOKUMA",
+      "category": "Hamile Tunik & Bluz",
+      "categorySlug": "tunik-bluz",
+      "price": 1550,
+      "oldPrice": 1795,
+      "description": [
+        "Rahat ve esnek pamuk kumaştan üretilmiştir, hamilelik boyunca konfor sağlar.",
+        "Şık çizgili deseniyle hem günlük hem de özel günlerde tercih edilebilir.",
+        "Hamilelik dönemine uygun özel kesimi sayesinde karnı rahatsız etmeden destekler.",
+        "Kolay giyilip çıkarılabilen tasarımı ile pratik kullanım sunar.",
+        "Çeşitli renk seçenekleriyle farklı kombinler oluşturmanıza olanak tanır."
+      ],
+      "sizes": [
+        "38",
+        "40",
+        "42",
+        "44",
+        "46"
+      ],
+      "colors": [
+        {
+          "id": "mavi",
+          "name": "Mavi",
+          "hex": "#3b6ea5",
+          "images": [
+            "/entarim/products/b121b3-hamile-pamuk-cizgili-bluz/mavi/1.jpg",
+            "/entarim/products/b121b3-hamile-pamuk-cizgili-bluz/mavi/2.jpg",
+            "/entarim/products/b121b3-hamile-pamuk-cizgili-bluz/mavi/3.jpg"
+          ]
+        },
+        {
+          "id": "bej",
+          "name": "Bej",
+          "hex": "#d8c7b0",
+          "images": [
+            "/entarim/products/b121b3-hamile-pamuk-cizgili-bluz/bej/1.jpg",
+            "/entarim/products/b121b3-hamile-pamuk-cizgili-bluz/bej/2.jpg"
+          ]
+        }
+      ],
+      "relatedSlugs": [
+        "b028-hamile-bluz-cizgili-koton-dokuma-emzirme-ozellikli",
+        "b120-hamile-owersize-tunik-pamuk-cizgili-emzirme-detayli-bluz",
+        "b128-hamile-bluz-koton-cizgili-emzirme-ozellikli",
+        "bbb055-owersize-hamile-cizgili-pamuk-gomlek",
+        "b053a-hamile-gomlek-yaka-orme-cizgili-tunik",
+        "b119-koton-fermuarli-emzirme-ozellikli-kisa-kol-hamile-bluz",
+        "b055-pamuk-owersize-hamile-gomlek",
+        "b080-hamile-cizgi-pamuk-bluz",
+        "b126-cizgili-dokuma-duz-orme-owersize-hamile-bluz-tunik",
+        "b122-pamuk-duz-orme-cizgili-dokuma-hamile-tunik"
+      ],
+      "generatedPalette": [
+        "#303b5c",
+        "#b7aec2",
+        "#837d94"
+      ]
+    },
+    {
+      "id": "58",
+      "slug": "b108-hamile-tunik-koton",
+      "name": "HAMİLE KOTON TUNİK",
+      "category": "Emzirmeye uygun-Giyim",
+      "categorySlug": "emzirmeye-uygun-giyim",
+      "price": 995,
+      "oldPrice": null,
+      "description": [
+        "Hamile Tunik Dakron BEDEN ÖLÇÜLERİ Göğüs Ölçüleri 38 Beden = 48 cm (yarım tur) 40 Beden = 50 cm (yarım tur) 42 Beden = 52 cm (yarım tur) 44 Beden = 54 cm (yarım tur) Bel ölçüsü : 38 bedende 72 cm dir tam çevre.",
+        "Bedenlerimiz arasında 2 şer cm oynamaktadır.(Örn.",
+        "40 bedende 74 , 42 bedende 76) Kalça:100 cm 38 bedende tam çevre.",
+        "Kalça ölçümlerinde her beden artışında 4 cm eklenmelidir.",
+        "BedenCmTur Göğüs ölçüleri3848 cmYarım Tur Göğüs ölçüleri4050 cmYarım Tur Göğüs ölçüleri4252 cmYarım Tur Göğüs ölçüleri4454 cmYarım Tur Göğüs ölçüleri4656 cmYarım Tur Bel ölçüsü3872 cm Tam tur Bel ölçüsü4074 cmTam tur Bel ölçüsü4276 cm Tam tur Bel ölçüsü4478 cm Tam tur Bel ölçüsü4680 cm Tam tur Kalça 38100 cmTam tur Kalça 40104 cmTam tur Kalça 42108 cmTam tur Kalça 44112 cmTam tur Kalça 46116 cmTam tur Ürün ve Manken Boyları Manken Boyu = 176 cm Tesettür Elbise Boyu = 145 cm Abiye Elbise Boyu = 155 cm - 160 cm Diz Altı Midi Boy Elbise = 105 cm - 110 cm Ara Boy Elbiseler = 95 cm Diz Boyu Elbiseler=100 cm Spor Elbise Diz Boyu = 100 cm Tunik Boyları = 75 cm - 80 cm-85 cm"
+      ],
+      "sizes": [
+        "38",
+        "40",
+        "42",
+        "44",
+        "46"
+      ],
+      "colors": [
+        {
+          "id": "saks",
+          "name": "Saks",
+          "hex": "#3d7ea6",
+          "images": [
+            "/entarim/products/b108-hamile-tunik-koton/saks/1.jpg",
+            "/entarim/products/b108-hamile-tunik-koton/saks/2.jpg",
+            "/entarim/products/b108-hamile-tunik-koton/saks/3.jpg"
+          ]
+        },
+        {
+          "id": "mavi",
+          "name": "Mavi",
+          "hex": "#3b6ea5",
+          "images": [
+            "/entarim/products/b108-hamile-tunik-koton/mavi/1.jpg",
+            "/entarim/products/b108-hamile-tunik-koton/mavi/2.jpg",
+            "/entarim/products/b108-hamile-tunik-koton/mavi/3.jpg"
+          ]
+        },
+        {
+          "id": "siyah",
+          "name": "Siyah",
+          "hex": "#111111",
+          "images": [
+            "/entarim/products/b108-hamile-tunik-koton/siyah/1.jpg",
+            "/entarim/products/b108-hamile-tunik-koton/siyah/2.jpg",
+            "/entarim/products/b108-hamile-tunik-koton/siyah/3.jpg"
+          ]
+        },
+        {
+          "id": "beyaz",
+          "name": "Beyaz",
+          "hex": "#eeeeee",
+          "images": [
+            "/entarim/products/b108-hamile-tunik-koton/beyaz/1.jpg",
+            "/entarim/products/b108-hamile-tunik-koton/beyaz/2.jpg",
+            "/entarim/products/b108-hamile-tunik-koton/beyaz/3.jpg"
+          ]
+        }
+      ],
+      "relatedSlugs": [
+        "b028-hamile-bluz-cizgili-koton-dokuma-emzirme-ozellikli",
+        "b120-hamile-owersize-tunik-pamuk-cizgili-emzirme-detayli-bluz",
+        "e175-hamile-viskon-kumas-elbise",
+        "e183-hamile-viskon-elbise",
+        "e181-hamile-pamuk-keten-elbise",
+        "b128-hamile-bluz-koton-cizgili-emzirme-ozellikli",
+        "e122-hamile-ekose-elbise",
+        "bbb055-owersize-hamile-cizgili-pamuk-gomlek",
+        "m077-hamile-maksi-elbise-viscon-kumas-elbise",
+        "e114-m04-hamile-elbise-ekose"
+      ],
+      "generatedPalette": [
+        "#436dba",
+        "#2d4887",
+        "#2d3453",
+        "#6f8dc7",
+        "#a3aac0"
+      ]
+    },
+    {
+      "id": "56",
+      "slug": "b109-s004-hamile-tunik-koton",
+      "name": "HAMİLE TUNİK KOTON",
+      "category": "Emzirmeye uygun-Giyim",
+      "categorySlug": "emzirmeye-uygun-giyim",
+      "price": 995,
+      "oldPrice": null,
+      "description": [
+        "Hamile Tunik Coton BEDEN ÖLÇÜLERİ Göğüs Ölçüleri 38 Beden = 48 cm (yarım tur) 40 Beden = 50 cm (yarım tur) 42 Beden = 52 cm (yarım tur) 44 Beden = 54 cm (yarım tur) Bel ölçüsü : 38 bedende 72 cm dir tam çevre.",
+        "Bedenlerimiz arasında 2 şer cm oynamaktadır.(Örn.",
+        "40 bedende 74 , 42 bedende 76) Kalça:100 cm 38 bedende tam çevre.",
+        "Kalça ölçümlerinde her beden artışında 4 cm eklenmelidir.",
+        "BedenCmTur Göğüs ölçüleri3848 cmYarım Tur Göğüs ölçüleri4050 cmYarım Tur Göğüs ölçüleri4252 cmYarım Tur Göğüs ölçüleri4454 cmYarım Tur Göğüs ölçüleri4656 cmYarım Tur Bel ölçüsü3872 cm Tam tur Bel ölçüsü4074 cmTam tur Bel ölçüsü4276 cm Tam tur Bel ölçüsü4478 cm Tam tur Bel ölçüsü4680 cm Tam tur Kalça 38100 cmTam tur Kalça 40104 cmTam tur Kalça 42108 cmTam tur Kalça 44112 cmTam tur Kalça 46116 cmTam tur Ürün ve Manken Boyları Manken Boyu = 176 cm Tesettür Elbise Boyu = 145 cm Abiye Elbise Boyu = 155 cm - 160 cm Diz Altı Midi Boy Elbise = 105 cm - 110 cm Ara Boy Elbiseler = 95 cm Diz Boyu Elbiseler=100 cm Spor Elbise Diz Boyu = 100 cm Tunik Boyları = 75 cm - 80 cm-85 cm"
+      ],
+      "sizes": [
+        "38",
+        "40",
+        "42",
+        "44",
+        "46"
+      ],
+      "colors": [
+        {
+          "id": "saks",
+          "name": "Saks",
+          "hex": "#3d7ea6",
+          "images": [
+            "/entarim/products/b109-s004-hamile-tunik-koton/saks/1.jpg",
+            "/entarim/products/b109-s004-hamile-tunik-koton/saks/2.jpg",
+            "/entarim/products/b109-s004-hamile-tunik-koton/saks/3.jpg"
+          ]
+        },
+        {
+          "id": "bej",
+          "name": "Bej",
+          "hex": "#d8c7b0",
+          "images": [
+            "/entarim/products/b109-s004-hamile-tunik-koton/bej/1.jpg",
+            "/entarim/products/b109-s004-hamile-tunik-koton/bej/2.jpg",
+            "/entarim/products/b109-s004-hamile-tunik-koton/bej/3.jpg"
+          ]
+        },
+        {
+          "id": "beyaz",
+          "name": "Beyaz",
+          "hex": "#eeeeee",
+          "images": [
+            "/entarim/products/b109-s004-hamile-tunik-koton/beyaz/1.jpg",
+            "/entarim/products/b109-s004-hamile-tunik-koton/beyaz/2.jpg",
+            "/entarim/products/b109-s004-hamile-tunik-koton/beyaz/3.jpg"
+          ]
+        },
+        {
+          "id": "haki",
+          "name": "Haki",
+          "hex": "#a3a89f",
+          "images": [
+            "/entarim/products/b109-s004-hamile-tunik-koton/haki/1.jpg",
+            "/entarim/products/b109-s004-hamile-tunik-koton/haki/2.jpg",
+            "/entarim/products/b109-s004-hamile-tunik-koton/haki/3.jpg"
+          ]
+        }
+      ],
+      "relatedSlugs": [
+        "b028-hamile-bluz-cizgili-koton-dokuma-emzirme-ozellikli",
+        "b120-hamile-owersize-tunik-pamuk-cizgili-emzirme-detayli-bluz",
+        "e175-hamile-viskon-kumas-elbise",
+        "e183-hamile-viskon-elbise",
+        "e181-hamile-pamuk-keten-elbise",
+        "b128-hamile-bluz-koton-cizgili-emzirme-ozellikli",
+        "e122-hamile-ekose-elbise",
+        "bbb055-owersize-hamile-cizgili-pamuk-gomlek",
+        "m077-hamile-maksi-elbise-viscon-kumas-elbise",
+        "e114-m04-hamile-elbise-ekose"
+      ],
+      "generatedPalette": [
+        "#4975c3",
+        "#345294",
+        "#8392bb"
+      ]
+    },
+    {
+      "id": "55",
+      "slug": "b032-hamile-koton-tunik",
+      "name": "HAMİLE KOTON TUNİK",
+      "category": "Emzirmeye uygun-Giyim",
+      "categorySlug": "emzirmeye-uygun-giyim",
+      "price": 1650,
+      "oldPrice": null,
+      "description": [
+        "Rahatlık ve şıklığı bir arada sunan hamile tuniği, pamuklu materyali sayesinde gün boyu konfor sağlar.",
+        "Bisiklet yakası ile modern ve zarif bir görünüm kazandırırken, düz deseniyle kolayca kombinlenebilir.",
+        "Günlük kullanım için ideal olan bu tunik, rahatlığı ve şıklığı bir arada sunarak her ortamda stil sahibi görünmenizi sağlar.",
+        "Kısa kollu tasarımı sayesinde yaz aylarında serin tutarken, hamilelik döneminde hareket özgürlüğü sunar.",
+        "%50 pamuk ve %50 polyester karışımından oluşan materyali ile dayanıklılık ve yumuşaklık hissi verir.",
+        "Kısa silueti ve slim kalıbıyla vücut hatlarınıza uyum sağlayarak feminen bir duruş sergiler.",
+        "Kolay bakım imkanı sunan bu tuniği 30 derecede yıkama talimatına uygun şekilde temizleyebilirsiniz",
+        "böylece zamandan tasarruf edersiniz.",
+        "Kadın ve kız koleksiyonuna özel tasarlanmış olup, her yaş grubundan kadının gardırobuna uygunluk gösterir.",
+        "Kısa boyu ile bacakları serbest bırakarak rahat hareket etme olanağı tanırken, dokuma kumaşı dayanıklılığı arttırır.",
+        "Üretiminde kullanılan kaliteli malzemelerle Türkiye'de üretilen bu tunik, yerli üretim avantajıyla desteklenmektedir"
+      ],
+      "sizes": [
+        "38",
+        "40",
+        "42",
+        "44",
+        "46"
+      ],
+      "colors": [
+        {
+          "id": "mavi",
+          "name": "Mavi",
+          "hex": "#3b6ea5",
+          "images": [
+            "/entarim/products/b032-hamile-koton-tunik/mavi/1.jpg",
+            "/entarim/products/b032-hamile-koton-tunik/mavi/2.jpg",
+            "/entarim/products/b032-hamile-koton-tunik/mavi/3.jpg"
+          ]
+        },
+        {
+          "id": "siyah",
+          "name": "Siyah",
+          "hex": "#111111",
+          "images": [
+            "/entarim/products/b032-hamile-koton-tunik/siyah/1.jpg",
+            "/entarim/products/b032-hamile-koton-tunik/siyah/2.jpg",
+            "/entarim/products/b032-hamile-koton-tunik/siyah/3.jpg"
+          ]
+        },
+        {
+          "id": "beyaz",
+          "name": "Beyaz",
+          "hex": "#eeeeee",
+          "images": [
+            "/entarim/products/b032-hamile-koton-tunik/beyaz/1.jpg",
+            "/entarim/products/b032-hamile-koton-tunik/beyaz/2.jpg"
+          ]
+        },
+        {
+          "id": "bej",
+          "name": "Bej",
+          "hex": "#d8c7b0",
+          "images": [
+            "/entarim/products/b032-hamile-koton-tunik/bej/1.jpg",
+            "/entarim/products/b032-hamile-koton-tunik/bej/2.jpg",
+            "/entarim/products/b032-hamile-koton-tunik/bej/3.jpg"
+          ]
+        }
+      ],
+      "relatedSlugs": [
+        "b028-hamile-bluz-cizgili-koton-dokuma-emzirme-ozellikli",
+        "b120-hamile-owersize-tunik-pamuk-cizgili-emzirme-detayli-bluz",
+        "e175-hamile-viskon-kumas-elbise",
+        "e183-hamile-viskon-elbise",
+        "e181-hamile-pamuk-keten-elbise",
+        "b128-hamile-bluz-koton-cizgili-emzirme-ozellikli",
+        "e122-hamile-ekose-elbise",
+        "bbb055-owersize-hamile-cizgili-pamuk-gomlek",
+        "m077-hamile-maksi-elbise-viscon-kumas-elbise",
+        "e114-m04-hamile-elbise-ekose"
+      ],
+      "generatedPalette": [
+        "#748299"
+      ]
+    },
+    {
+      "id": "59",
+      "slug": "e148-08-hamile-elbise-belmando",
+      "name": "HAMİLE ELBİSE BELMANDO",
+      "category": "Hamile Elbise",
+      "categorySlug": "hamile-elbise",
+      "price": 1235,
+      "oldPrice": null,
+      "description": [
+        "BEDEN ÖLÇÜLERİ Göğüs Ölçüleri 38 Beden = 48 cm (yarım tur) 40 Beden = 50 cm (yarım tur) 42 Beden = 52 cm (yarım tur) 44 Beden = 54 cm (yarım tur) Bel ölçüsü : 38 bedende 72 cm dir tam çevre.",
+        "Bedenlerimiz arasında 2 şer cm oynamaktadır.(Örn.",
+        "40 bedende 74 , 42 bedende 76) Kalça:100 cm 38 bedende tam çevre.",
+        "Kalça ölçümlerinde her beden artışında 4 cm eklenmelidir.",
+        "Beden CM Tur Göğüs ölçüleri3848 cmYarım Tur Göğüs ölçüleri4050 cmYarım Tur Göğüs ölçüleri4252 cmYarım Tur Göğüs ölçüleri4454 cmYarım Tur Göğüs ölçüleri4656 cmYarım Tur Bel ölçüsü 3872 cm Tam tur Bel ölçüsü 4074 cmTam tur Bel ölçüsü 4276 cm Tam tur Bel ölçüsü 4478 cm Tam tur Bel ölçüsü 4680 cm Tam tur Kalça 38100 cmTam tur Kalça 40104 cmTam tur Kalça 42108 cmTam tur Kalça 44112 cmTam tur Kalça 46116 cmTam tur Ürün ve Manken Boyları Manken Boyu = 176 cm Tesettür Elbise Boyu = 145 cm Abiye Elbise Boyu = 155 cm - 160 cm Diz Altı Midi Boy Elbise = 105 cm - 110 cm Ara Boy Elbiseler = 95 cm Diz Boyu Elbiseler=100 cm Spor Elbise Diz Boyu = 100 cm Tunik Boyları = 75 cm - 80 cm-85 cm"
+      ],
+      "sizes": [
+        "38",
+        "40",
+        "42",
+        "44",
+        "46"
+      ],
+      "colors": [
+        {
+          "id": "haki",
+          "name": "Haki",
+          "hex": "#a3a89f",
+          "images": [
+            "/entarim/products/e148-08-hamile-elbise-belmando/haki/1.jpg",
+            "/entarim/products/e148-08-hamile-elbise-belmando/haki/2.jpg",
+            "/entarim/products/e148-08-hamile-elbise-belmando/haki/3.jpg"
+          ]
+        },
+        {
+          "id": "bordo",
+          "name": "BORDO",
+          "hex": "#6e1f2d",
+          "images": [
+            "/entarim/products/e148-08-hamile-elbise-belmando/bordo/1.jpg",
+            "/entarim/products/e148-08-hamile-elbise-belmando/bordo/2.jpg",
+            "/entarim/products/e148-08-hamile-elbise-belmando/bordo/3.jpg"
+          ]
+        },
+        {
+          "id": "lacivert",
+          "name": "Lacivert",
+          "hex": "#1e3a5f",
+          "images": [
+            "/entarim/products/e148-08-hamile-elbise-belmando/lacivert/1.jpg",
+            "/entarim/products/e148-08-hamile-elbise-belmando/lacivert/3.jpg"
+          ]
+        }
+      ],
+      "relatedSlugs": [
+        "e186-hamile-sifon-elbise-4",
+        "e185-hamile-duz-orme-cizgili-dokuma-pamuklu-elbise",
+        "e175-hamile-viskon-kumas-elbise",
+        "e183-hamile-viskon-elbise",
+        "e181-hamile-pamuk-keten-elbise",
+        "e122-hamile-ekose-elbise",
+        "m077-hamile-maksi-elbise-viscon-kumas-elbise",
+        "e166-hamile-elbise-pamuk",
+        "6019-m010-hamile-uzun-sifon-elbise",
+        "e114-m04-hamile-elbise-ekose"
+      ],
+      "generatedPalette": [
+        "#92815f",
+        "#daab99"
+      ]
+    },
+    {
+      "id": "51",
+      "slug": "b053a-hamile-gomlek-yaka-orme-cizgili-tunik",
+      "name": "HAMİLE GÖMLEK YAKA,DÜZ  ÖRME+DOKUMA ÇİZGİLİ TUNİK",
+      "category": "Hamile Tunik & Bluz",
+      "categorySlug": "tunik-bluz",
+      "price": 1595,
+      "oldPrice": null,
+      "description": [
+        "Hamilelik döneminde rahatlık ve şıklığı bir arada sunan oversize kalıba sahip gömlek yaka tunik.",
+        "Günlük kullanım için ideal, çizgili deseniyle modern ve şık bir görünüm sağlar.",
+        "Uzun kollu tasarımı ile mevsim geçişlerinde ve serin havalarda konforlu bir kullanım sunar.",
+        "Kısa boyu sayesinde hareket özgürlüğü sağlar ve hamilelik sürecindeki değişikliklere uyum gösterir.",
+        "Yumuşak dokusuyla öne çıkan örme kumaş, gün boyu rahatlık hissi verir.",
+        "Pamuk materyali sayesinde cildinize nefes aldırır ve doğal bir konfor sunar.",
+        "Türkiye'de üretilmiş olup, yerel üretim kalitesini ve işçiliğini yansıtır.",
+        "Hamile koleksiyonuna özel olarak tasarlanmış, vücut hatlarını nazikçe saran orta silueti ile zarif bir duruş sergiler."
+      ],
+      "sizes": [
+        "38",
+        "40",
+        "42",
+        "44",
+        "46"
+      ],
+      "colors": [
+        {
+          "id": "lacivert-laciert-beyaz",
+          "name": "Lacivert/Laciert-beyaz",
+          "hex": "#1e3a5f",
+          "images": [
+            "/entarim/products/b053a-hamile-gomlek-yaka-orme-cizgili-tunik/lacivert-laciert-beyaz/1.jpg",
+            "/entarim/products/b053a-hamile-gomlek-yaka-orme-cizgili-tunik/lacivert-laciert-beyaz/2.jpg",
+            "/entarim/products/b053a-hamile-gomlek-yaka-orme-cizgili-tunik/lacivert-laciert-beyaz/3.jpg"
+          ]
+        },
+        {
+          "id": "siyah",
+          "name": "SİYAH",
+          "hex": "#111111",
+          "images": [
+            "/entarim/products/b053a-hamile-gomlek-yaka-orme-cizgili-tunik/siyah/1.jpg",
+            "/entarim/products/b053a-hamile-gomlek-yaka-orme-cizgili-tunik/siyah/2.jpg",
+            "/entarim/products/b053a-hamile-gomlek-yaka-orme-cizgili-tunik/siyah/3.jpg"
+          ]
+        }
+      ],
+      "relatedSlugs": [
+        "b028-hamile-bluz-cizgili-koton-dokuma-emzirme-ozellikli",
+        "b120-hamile-owersize-tunik-pamuk-cizgili-emzirme-detayli-bluz",
+        "b128-hamile-bluz-koton-cizgili-emzirme-ozellikli",
+        "bbb055-owersize-hamile-cizgili-pamuk-gomlek",
+        "b119-koton-fermuarli-emzirme-ozellikli-kisa-kol-hamile-bluz",
+        "b055-pamuk-owersize-hamile-gomlek",
+        "b080-hamile-cizgi-pamuk-bluz",
+        "b126-cizgili-dokuma-duz-orme-owersize-hamile-bluz-tunik",
+        "b122-pamuk-duz-orme-cizgili-dokuma-hamile-tunik",
+        "b121b3-hamile-pamuk-cizgili-bluz"
+      ],
+      "generatedPalette": [
+        "#1e2329",
+        "#a6a8bc",
+        "#706c76"
+      ]
+    },
+    {
+      "id": "21",
+      "slug": "b080-hamile-cizgi-pamuk-bluz",
+      "name": "HAMİLE  TUNİK- Çizgili Pamuk Dokuma",
+      "category": "Hamile Tunik & Bluz",
+      "categorySlug": "tunik-bluz",
+      "price": 1695,
+      "oldPrice": 1995,
+      "description": [
+        "Rahat ve şık tasarımıyla hamilelik sürecinde konforunuzdan ödün vermeden tarzınızı koruyun.",
+        "Yumuşak pamuk kumaşı sayesinde gün boyu rahat bir kullanım sunar.",
+        "Hamilelik dönemine özel olarak tasarlanmış çizgi garnili detayı ile feminen bir görünüm sağlar.",
+        "Esnek yapısı sayesinde büyüyen karnınıza uyum sağlar ve hareket özgürlüğünüzü kısıtlamaz.",
+        "Günlük kullanım için idealdir",
+        "evde, işte veya dışarıda rahatlıkla tercih edebilirsiniz."
+      ],
+      "sizes": [
+        "38",
+        "40",
+        "42",
+        "44",
+        "46"
+      ],
+      "colors": [
+        {
+          "id": "lacivert",
+          "name": "Lacivert",
+          "hex": "#1e3a5f",
+          "images": [
+            "/entarim/products/b080-hamile-cizgi-pamuk-bluz/lacivert/1.jpg",
+            "/entarim/products/b080-hamile-cizgi-pamuk-bluz/lacivert/3.jpg"
+          ]
+        }
+      ],
+      "relatedSlugs": [
+        "b028-hamile-bluz-cizgili-koton-dokuma-emzirme-ozellikli",
+        "b120-hamile-owersize-tunik-pamuk-cizgili-emzirme-detayli-bluz",
+        "b128-hamile-bluz-koton-cizgili-emzirme-ozellikli",
+        "bbb055-owersize-hamile-cizgili-pamuk-gomlek",
+        "b053a-hamile-gomlek-yaka-orme-cizgili-tunik",
+        "b119-koton-fermuarli-emzirme-ozellikli-kisa-kol-hamile-bluz",
+        "b055-pamuk-owersize-hamile-gomlek",
+        "b126-cizgili-dokuma-duz-orme-owersize-hamile-bluz-tunik",
+        "b122-pamuk-duz-orme-cizgili-dokuma-hamile-tunik",
+        "b121b3-hamile-pamuk-cizgili-bluz"
+      ],
+      "generatedPalette": [
+        "#1b2439",
+        "#374b67",
+        "#696b7a"
+      ]
+    },
+    {
+      "id": "36",
+      "slug": "b126-cizgili-dokuma-duz-orme-owersize-hamile-bluz-tunik",
+      "name": "ÇİZGİLİ DOKUMA+ DÜZ ÖRME -KAPÜŞONLU -OWERSİZE-HAMİLE BLUZ",
+      "category": "Hamile Tunik & Bluz",
+      "categorySlug": "tunik-bluz",
+      "price": 1495,
+      "oldPrice": null,
+      "description": [
+        "Rahat kesimi ile hamilelik sürecinde konforlu bir kullanım sunar.",
+        "Örme kumaşı, yumuşak dokusuyla cildinize nazikçe dokunur ve gün boyu rahatlık sağlar.",
+        "Kapüşon detayı ile şık ve modern bir görünüm kazandırırken, soğuk havalarda ekstra koruma sunar.",
+        "Çizgili deseniyle dinamik ve trend bir stil oluşturur, günlük kombinlerinizde kolayca uyum sağlar.",
+        "Hamilelik dönemine özel tasarlanmış yapısı sayesinde büyüyen karın bölgesine uyum sağlar ve rahat hareket etme olanağı tanır .",
+        "Göğüs çevresi 38 bedende 112 cmm 40 bedende 116 cm 42 bedende 120 cm 44 bedende 124 cm 46 bedende 128 cm dir boy 75 cm dir"
+      ],
+      "sizes": [
+        "38",
+        "40",
+        "42",
+        "44",
+        "46"
+      ],
+      "colors": [
+        {
+          "id": "duz-lacivert-lacivert-beyaz-cizgili",
+          "name": "Düz Lacivert_Lacivert  Beyaz çizgili",
+          "hex": "#1e3a5f",
+          "images": [
+            "/entarim/products/b126-cizgili-dokuma-duz-orme-owersize-hamile-bluz-tunik/duz-lacivert-lacivert-beyaz-cizgili/1.jpg",
+            "/entarim/products/b126-cizgili-dokuma-duz-orme-owersize-hamile-bluz-tunik/duz-lacivert-lacivert-beyaz-cizgili/2.jpg",
+            "/entarim/products/b126-cizgili-dokuma-duz-orme-owersize-hamile-bluz-tunik/duz-lacivert-lacivert-beyaz-cizgili/3.jpg"
+          ]
+        }
+      ],
+      "relatedSlugs": [
+        "b028-hamile-bluz-cizgili-koton-dokuma-emzirme-ozellikli",
+        "b120-hamile-owersize-tunik-pamuk-cizgili-emzirme-detayli-bluz",
+        "b128-hamile-bluz-koton-cizgili-emzirme-ozellikli",
+        "bbb055-owersize-hamile-cizgili-pamuk-gomlek",
+        "b053a-hamile-gomlek-yaka-orme-cizgili-tunik",
+        "b119-koton-fermuarli-emzirme-ozellikli-kisa-kol-hamile-bluz",
+        "b055-pamuk-owersize-hamile-gomlek",
+        "b080-hamile-cizgi-pamuk-bluz",
+        "b122-pamuk-duz-orme-cizgili-dokuma-hamile-tunik",
+        "b121b3-hamile-pamuk-cizgili-bluz"
+      ],
+      "generatedPalette": [
+        "#37567b",
+        "#afbc65",
+        "#768ead",
+        "#bfc8dc",
+        "#2a2727"
+      ]
+    },
+    {
+      "id": "46",
+      "slug": "b122-pamuk-duz-orme-cizgili-dokuma-hamile-tunik",
+      "name": "HAMİLE, PAMUK, ÇİZGİLİ TUNİK",
+      "category": "Hamile Tunik & Bluz",
+      "categorySlug": "tunik-bluz",
+      "price": 1495,
+      "oldPrice": null,
+      "description": [
+        "Rahat ve şık bir görünüm için kısa siluet tasarımı.",
+        "Organik pamuk materyali ile hem çevre dostu hem de cildinize nazik bir dokunuş.",
+        "Günlük kullanım için ideal, çizgi deseniyle modern ve dinamik bir stil sunar.",
+        "Kısa kollu ve bisiklet yaka tasarımı ile mevsim geçişlerinde konforlu bir kullanım sağlar.",
+        "Bol kalıbı sayesinde hamilelik döneminde rahat hareket etme özgürlüğü verir.",
+        "Türkiye'de üretilmiş olup, yerel üretim desteklenir.",
+        "Dokuma kumaş tipi ile dayanıklılık ve uzun ömürlü kullanım vaat eder.",
+        "GÖĞÜS ÖÇÜSÜ 38 BEDEN DE TAM TUR 118 CM BEDENLER ARASI 4 CM BÜYÜMEKTEDİR BOY 74 CM DİR"
+      ],
+      "sizes": [
+        "38",
+        "40",
+        "42",
+        "44",
+        "46"
+      ],
+      "colors": [
+        {
+          "id": "mavi-kemik-cizgili",
+          "name": "Mavi-Kemik çizgili",
+          "hex": "#3b6ea5",
+          "images": [
+            "/entarim/products/b122-pamuk-duz-orme-cizgili-dokuma-hamile-tunik/mavi-kemik-cizgili/1.jpg",
+            "/entarim/products/b122-pamuk-duz-orme-cizgili-dokuma-hamile-tunik/mavi-kemik-cizgili/3.jpg"
+          ]
+        }
+      ],
+      "relatedSlugs": [
+        "b028-hamile-bluz-cizgili-koton-dokuma-emzirme-ozellikli",
+        "b120-hamile-owersize-tunik-pamuk-cizgili-emzirme-detayli-bluz",
+        "b128-hamile-bluz-koton-cizgili-emzirme-ozellikli",
+        "bbb055-owersize-hamile-cizgili-pamuk-gomlek",
+        "b053a-hamile-gomlek-yaka-orme-cizgili-tunik",
+        "b119-koton-fermuarli-emzirme-ozellikli-kisa-kol-hamile-bluz",
+        "b055-pamuk-owersize-hamile-gomlek",
+        "b080-hamile-cizgi-pamuk-bluz",
+        "b126-cizgili-dokuma-duz-orme-owersize-hamile-bluz-tunik",
+        "b121b3-hamile-pamuk-cizgili-bluz"
+      ],
+      "generatedPalette": [
+        "#203044",
+        "#47607d",
+        "#8b98aa",
+        "#b4c7da",
+        "#d2cbc4"
+      ]
+    },
+    {
+      "id": "25",
+      "slug": "bbb120-owersize-hamile-cizgili-pamuk-gomlek",
+      "name": "OWERSİZE-HAMİLE-ÇİZGİLİ PAMUK GÖMLEK",
+      "category": "Emzirmeye uygun-Giyim",
+      "categorySlug": "emzirmeye-uygun-giyim",
+      "price": 1680,
+      "oldPrice": 1795,
+      "description": [
+        "Rahat ve şık bir görünüm için oversize kesim.",
+        "Hamilelik döneminde konforlu kullanım için özel tasarım.",
+        "Yumuşak ve nefes alabilen pamuk kumaş.",
+        "Klasik çizgili deseniyle zamansız bir stil.",
+        "Günlük kullanım için ideal, çok yönlü bir parça."
+      ],
+      "sizes": [
+        "38",
+        "40",
+        "42",
+        "44",
+        "46"
+      ],
+      "colors": [
+        {
+          "id": "lacivert",
+          "name": "Lacivert",
+          "hex": "#1e3a5f",
+          "images": [
+            "/entarim/products/bbb120-owersize-hamile-cizgili-pamuk-gomlek/lacivert/1.jpg",
+            "/entarim/products/bbb120-owersize-hamile-cizgili-pamuk-gomlek/lacivert/2.jpg"
+          ]
+        }
+      ],
+      "relatedSlugs": [
+        "b028-hamile-bluz-cizgili-koton-dokuma-emzirme-ozellikli",
+        "b120-hamile-owersize-tunik-pamuk-cizgili-emzirme-detayli-bluz",
+        "e175-hamile-viskon-kumas-elbise",
+        "e183-hamile-viskon-elbise",
+        "e181-hamile-pamuk-keten-elbise",
+        "b128-hamile-bluz-koton-cizgili-emzirme-ozellikli",
+        "e122-hamile-ekose-elbise",
+        "bbb055-owersize-hamile-cizgili-pamuk-gomlek",
+        "m077-hamile-maksi-elbise-viscon-kumas-elbise",
+        "e114-m04-hamile-elbise-ekose"
+      ],
+      "generatedPalette": [
+        "#7f4222",
+        "#553122",
+        "#252f3f",
+        "#686f81",
+        "#bcc1cf"
+      ]
+    },
+    {
+      "id": "57",
+      "slug": "11bbbb103-hamile-tunik",
+      "name": "HAMİLE TUNİK",
+      "category": "Emzirmeye uygun-Giyim",
+      "categorySlug": "emzirmeye-uygun-giyim",
+      "price": 995,
+      "oldPrice": null,
+      "description": [
+        "ytyghgbghju8lo",
+        "B789-EDEN ÖLÇÜLERİ",
+        "Göğüs Ölçüleri 38 Beden = 48 cm (yarım tur) 40 Beden = 50 cm (yarım tur) 42 Beden = 52 cm (yarım tur) 44 Beden = 54 cm (yarım tur) Bel ölçüsü : 38 bedende 72 cm dir tam çevre. Bedenlerimiz arasında 2 şer cm oynamaktadır.(Örn. 40 bedende 74 , 42 bedende 76) Kalça:100 cm 38 bedende tam çevre. Kalça ölçümlerinde her beden artışında 4 cm eklenmelidir.",
+        "BedenCmTur",
+        "Göğüs ölçüleri3848 cmYarım Tur",
+        "Göğüs ölçüleri4050 cmYarım Tur",
+        "Göğüs ölçüleri4252 cmYarım Tur",
+        "Göğüs ölçüleri4454 cmYarım Tur",
+        "Göğüs ölçüleri4656 cmYarım Tur",
+        "Bel ölçüsü3872 cm Tam tur",
+        "Bel ölçüsü4074 cmTam tur",
+        "Bel ölçüsü4276 cm Tam tur",
+        "Bel ölçüsü4478 cm Tam tur",
+        "Bel ölçüsü4680 cm Tam tur",
+        "Kalça 38100 cmTam tur",
+        "Kalça 40104 cmTam tur",
+        "Kalça 42108 cmTam tur",
+        "Kalça 44112 cmTam tur",
+        "Kalça 46116 cmTam tur",
+        "Ürün ve Manken Boyları",
+        "Manken Boyu = 176 cm Tesettür Elbise Boyu = 145 cm Abiye Elbise Boyu = 155 cm - 160 cm Diz Altı Midi Boy Elbise = 105 cm - 110 cm Ara Boy Elbiseler = 95 cm Diz Boyu Elbiseler=100 cm Spor Elbise Diz Boyu = 100 cm Tunik Boyları = 75 cm - 80 cm"
+      ],
+      "sizes": [
+        "38",
+        "40",
+        "42",
+        "44",
+        "46"
+      ],
+      "colors": [
+        {
+          "id": "mavi",
+          "name": "Mavi",
+          "hex": "#3b6ea5",
+          "images": [
+            "/entarim/products/11bbbb103-hamile-tunik/mavi/1.jpg",
+            "/entarim/products/11bbbb103-hamile-tunik/mavi/2.jpg",
+            "/entarim/products/11bbbb103-hamile-tunik/mavi/3.jpg"
+          ]
+        },
+        {
+          "id": "pembe",
+          "name": "Pembe",
+          "hex": "#e8a0b0",
+          "images": [
+            "/entarim/products/11bbbb103-hamile-tunik/pembe/1.jpg",
+            "/entarim/products/11bbbb103-hamile-tunik/pembe/2.jpg",
+            "/entarim/products/11bbbb103-hamile-tunik/pembe/3.jpg"
+          ]
+        },
+        {
+          "id": "mavi-beyaz",
+          "name": "Mavi-Beyaz",
+          "hex": "#3b6ea5",
+          "images": [
+            "/entarim/products/11bbbb103-hamile-tunik/mavi-beyaz/1.jpg",
+            "/entarim/products/11bbbb103-hamile-tunik/mavi-beyaz/2.jpg",
+            "/entarim/products/11bbbb103-hamile-tunik/mavi-beyaz/3.jpg"
+          ]
+        }
+      ],
+      "relatedSlugs": [
+        "b028-hamile-bluz-cizgili-koton-dokuma-emzirme-ozellikli",
+        "b120-hamile-owersize-tunik-pamuk-cizgili-emzirme-detayli-bluz",
+        "e175-hamile-viskon-kumas-elbise",
+        "e183-hamile-viskon-elbise",
+        "e181-hamile-pamuk-keten-elbise",
+        "b128-hamile-bluz-koton-cizgili-emzirme-ozellikli",
+        "e122-hamile-ekose-elbise",
+        "bbb055-owersize-hamile-cizgili-pamuk-gomlek",
+        "m077-hamile-maksi-elbise-viscon-kumas-elbise",
+        "e114-m04-hamile-elbise-ekose"
+      ],
+      "generatedPalette": [
+        "#1b2530",
+        "#aab3c8",
+        "#6d7687"
+      ]
+    },
+    {
+      "id": "24",
+      "slug": "bb055-owersize-hamile-pamuk-ekose-gomlek",
+      "name": "OWERSİZE-HAMİLE-PAMUK EKOSE GÖMLEK",
+      "category": "Emzirmeye uygun-Giyim",
+      "categorySlug": "emzirmeye-uygun-giyim",
+      "price": 1600,
+      "oldPrice": 1750,
+      "description": [
+        "Rahat ve şık bir görünüm için oversize kesim.",
+        "Hamilelik dönemi boyunca konforlu kullanım için özel tasarım.",
+        "Yüksek kaliteli pamuk kumaşı ile gün boyu rahatlık.",
+        "Klasik ekose deseniyle zamansız bir stil sunar.",
+        "Günlük kullanım için ideal, kolay kombinlenebilir."
+      ],
+      "sizes": [
+        "38",
+        "40",
+        "42",
+        "44",
+        "46"
+      ],
+      "colors": [
+        {
+          "id": "kirmizi-lacivert-krem",
+          "name": "Kırmızı-lacivert-krem",
+          "hex": "#b33a3a",
+          "images": [
+            "/entarim/products/bb055-owersize-hamile-pamuk-ekose-gomlek/kirmizi-lacivert-krem/1.jpg",
+            "/entarim/products/bb055-owersize-hamile-pamuk-ekose-gomlek/kirmizi-lacivert-krem/2.jpg"
+          ]
+        },
+        {
+          "id": "lacivert-krem",
+          "name": "Lacivert-krem",
+          "hex": "#1e3a5f",
+          "images": [
+            "/entarim/products/bb055-owersize-hamile-pamuk-ekose-gomlek/lacivert-krem/1.jpg",
+            "/entarim/products/bb055-owersize-hamile-pamuk-ekose-gomlek/lacivert-krem/2.jpg",
+            "/entarim/products/bb055-owersize-hamile-pamuk-ekose-gomlek/lacivert-krem/3.jpg"
+          ]
+        },
+        {
+          "id": "ekru",
+          "name": "Ekru",
+          "hex": "#f3ead8",
+          "images": [
+            "/entarim/products/bb055-owersize-hamile-pamuk-ekose-gomlek/ekru/1.jpg",
+            "/entarim/products/bb055-owersize-hamile-pamuk-ekose-gomlek/ekru/2.jpg",
+            "/entarim/products/bb055-owersize-hamile-pamuk-ekose-gomlek/ekru/3.jpg"
+          ]
+        }
+      ],
+      "relatedSlugs": [
+        "b028-hamile-bluz-cizgili-koton-dokuma-emzirme-ozellikli",
+        "b120-hamile-owersize-tunik-pamuk-cizgili-emzirme-detayli-bluz",
+        "e175-hamile-viskon-kumas-elbise",
+        "e183-hamile-viskon-elbise",
+        "e181-hamile-pamuk-keten-elbise",
+        "b128-hamile-bluz-koton-cizgili-emzirme-ozellikli",
+        "e122-hamile-ekose-elbise",
+        "bbb055-owersize-hamile-cizgili-pamuk-gomlek",
+        "m077-hamile-maksi-elbise-viscon-kumas-elbise",
+        "e114-m04-hamile-elbise-ekose"
+      ],
+      "generatedPalette": [
+        "#21243a",
+        "#762d3b",
+        "#471b29",
+        "#3a435e",
+        "#616b86"
+      ]
+    },
+    {
+      "id": "26",
+      "slug": "b032k3-hamile-koton-tunik",
+      "name": "HAMİLE KOTON TUNİK",
+      "category": "Emzirmeye uygun-Giyim",
+      "categorySlug": "emzirmeye-uygun-giyim",
+      "price": 1650,
+      "oldPrice": null,
+      "description": [
+        "Rahat ve şık tasarımı ile hamilelik döneminde konforunuzdan ödün vermeden stilinizi koruyun.",
+        "Esnek kumaşı sayesinde hamilelik boyunca vücut hatlarınıza uyum sağlar ve hareket özgürlüğü sunar.",
+        "Hamilelik dönemine özel olarak tasarlanmış, göbek bölgesini destekleyen ve rahat bir kullanım sağlayan kesimi ile öne çıkar.",
+        "Günlük kullanım için idealdir",
+        "evde, iş yerinde veya dışarıda rahatlıkla tercih edebilirsiniz.",
+        "Kolay kombinlenebilir yapısıyla farklı aksesuarlarla zenginleştirilebilir ve kişisel tarzınıza uygun hale getirilebilir.",
+        "Kaliteli malzemeden üretilmiş olup, uzun süreli kullanımlarda bile formunu korur."
+      ],
+      "sizes": [
+        "38",
+        "40",
+        "42",
+        "44",
+        "46"
+      ],
+      "colors": [
+        {
+          "id": "bej",
+          "name": "BEJ",
+          "hex": "#d8c7b0",
+          "images": [
+            "/entarim/products/b032k3-hamile-koton-tunik/bej/1.jpg",
+            "/entarim/products/b032k3-hamile-koton-tunik/bej/2.jpg",
+            "/entarim/products/b032k3-hamile-koton-tunik/bej/3.jpg"
+          ]
+        },
+        {
+          "id": "haki",
+          "name": "Haki",
+          "hex": "#a3a89f",
+          "images": [
+            "/entarim/products/b032k3-hamile-koton-tunik/haki/1.jpg",
+            "/entarim/products/b032k3-hamile-koton-tunik/haki/2.jpg"
+          ]
+        },
+        {
+          "id": "lacivert",
+          "name": "Lacivert",
+          "hex": "#1e3a5f",
+          "images": [
+            "/entarim/products/b032k3-hamile-koton-tunik/lacivert/1.jpg",
+            "/entarim/products/b032k3-hamile-koton-tunik/lacivert/2.jpg",
+            "/entarim/products/b032k3-hamile-koton-tunik/lacivert/3.jpg"
+          ]
+        },
+        {
+          "id": "pembe",
+          "name": "Pembe",
+          "hex": "#e8a0b0",
+          "images": [
+            "/entarim/products/b032k3-hamile-koton-tunik/pembe/1.jpg",
+            "/entarim/products/b032k3-hamile-koton-tunik/pembe/2.jpg",
+            "/entarim/products/b032k3-hamile-koton-tunik/pembe/3.jpg"
+          ]
+        }
+      ],
+      "relatedSlugs": [
+        "b028-hamile-bluz-cizgili-koton-dokuma-emzirme-ozellikli",
+        "b120-hamile-owersize-tunik-pamuk-cizgili-emzirme-detayli-bluz",
+        "e175-hamile-viskon-kumas-elbise",
+        "e183-hamile-viskon-elbise",
+        "e181-hamile-pamuk-keten-elbise",
+        "b128-hamile-bluz-koton-cizgili-emzirme-ozellikli",
+        "e122-hamile-ekose-elbise",
+        "bbb055-owersize-hamile-cizgili-pamuk-gomlek",
+        "m077-hamile-maksi-elbise-viscon-kumas-elbise",
+        "e114-m04-hamile-elbise-ekose"
+      ],
+      "generatedPalette": [
+        "#412523"
+      ]
+    }
+  ],
+  "homepageNewArrivals": [
+    "e0040-hamile-leopar-desenli-elbise",
+    "e114-m04-hamile-elbise-ekose",
+    "6019-m010-hamile-uzun-sifon-elbise",
+    "b108-asimetrik-kesim-gomlek-tunik"
+  ],
+  "categoryProductSlugs": {
+    "hamile-elbise": [
+      "e186-hamile-sifon-elbise-4",
+      "e185-hamile-duz-orme-cizgili-dokuma-pamuklu-elbise",
+      "e175-hamile-viskon-kumas-elbise",
+      "e183-hamile-viskon-elbise",
+      "e181-hamile-pamuk-keten-elbise",
+      "e122-hamile-ekose-elbise",
+      "m077-hamile-maksi-elbise-viscon-kumas-elbise",
+      "e166-hamile-elbise-pamuk",
+      "6019-m010-hamile-uzun-sifon-elbise",
+      "e114-m04-hamile-elbise-ekose",
+      "e188-hamile-sifon-elbise-3",
+      "e114a-hamile-ekose-elbise"
+    ],
+    "gunluk-hamile-elbiseleri": [
+      "e186-hamile-sifon-elbise-4",
+      "e185-hamile-duz-orme-cizgili-dokuma-pamuklu-elbise",
+      "e175-hamile-viskon-kumas-elbise",
+      "e183-hamile-viskon-elbise",
+      "e181-hamile-pamuk-keten-elbise",
+      "e122-hamile-ekose-elbise",
+      "e166-hamile-elbise-pamuk",
+      "e114-m04-hamile-elbise-ekose",
+      "e188-hamile-sifon-elbise-3",
+      "e114a-hamile-ekose-elbise",
+      "e0064-hamile-elbise-belmando",
+      "5130a4-hamile-owersize-elbise-orme-empirme-garnili"
+    ],
+    "ozel-gun-hamile-elbiseleri": [
+      "e186-hamile-sifon-elbise-4",
+      "e185-hamile-duz-orme-cizgili-dokuma-pamuklu-elbise",
+      "e175-hamile-viskon-kumas-elbise",
+      "m077-hamile-maksi-elbise-viscon-kumas-elbise",
+      "6019-m010-hamile-uzun-sifon-elbise",
+      "e188-hamile-sifon-elbise-3",
+      "5130a4-hamile-owersize-elbise-orme-empirme-garnili",
+      "e0040-hamile-leopar-desenli-elbise",
+      "e0019-04-hamile-elbise-sifon-dantel-yaka-detayli-maksi",
+      "e174-hamile-cizgili-koton-elbise",
+      "e189-hamile-krep-elbise",
+      "e189-hamile-sifon-elbise-2"
+    ],
+    "yazlik-hamile-elbiseleri": [
+      "e185-hamile-duz-orme-cizgili-dokuma-pamuklu-elbise",
+      "e175-hamile-viskon-kumas-elbise",
+      "6019-m010-hamile-uzun-sifon-elbise",
+      "e114-m04-hamile-elbise-ekose",
+      "e188-hamile-sifon-elbise-3",
+      "e0064-hamile-elbise-belmando",
+      "e174-hamile-cizgili-koton-elbise"
+    ],
+    "emzirmeye-uygun-giyim": [
+      "b028-hamile-bluz-cizgili-koton-dokuma-emzirme-ozellikli",
+      "b120-hamile-owersize-tunik-pamuk-cizgili-emzirme-detayli-bluz",
+      "e175-hamile-viskon-kumas-elbise",
+      "e183-hamile-viskon-elbise",
+      "e181-hamile-pamuk-keten-elbise",
+      "b128-hamile-bluz-koton-cizgili-emzirme-ozellikli",
+      "e122-hamile-ekose-elbise",
+      "bbb055-owersize-hamile-cizgili-pamuk-gomlek",
+      "m077-hamile-maksi-elbise-viscon-kumas-elbise",
+      "e114-m04-hamile-elbise-ekose",
+      "b119-koton-fermuarli-emzirme-ozellikli-kisa-kol-hamile-bluz",
+      "b055-pamuk-owersize-hamile-gomlek"
+    ],
+    "emzirme-bluzlari": [
+      "b028-hamile-bluz-cizgili-koton-dokuma-emzirme-ozellikli",
+      "b120-hamile-owersize-tunik-pamuk-cizgili-emzirme-detayli-bluz",
+      "b128-hamile-bluz-koton-cizgili-emzirme-ozellikli",
+      "bbb055-owersize-hamile-cizgili-pamuk-gomlek",
+      "b119-koton-fermuarli-emzirme-ozellikli-kisa-kol-hamile-bluz",
+      "b055-pamuk-owersize-hamile-gomlek",
+      "b121b3-hamile-pamuk-cizgili-bluz",
+      "b108-asimetrik-kesim-gomlek-tunik",
+      "b108-hamile-tunik-koton",
+      "b109-s004-hamile-tunik-koton",
+      "b032-hamile-koton-tunik"
+    ],
+    "emzirme-elbiseleri": [
+      "b028-hamile-bluz-cizgili-koton-dokuma-emzirme-ozellikli",
+      "b120-hamile-owersize-tunik-pamuk-cizgili-emzirme-detayli-bluz",
+      "e175-hamile-viskon-kumas-elbise",
+      "e183-hamile-viskon-elbise",
+      "e181-hamile-pamuk-keten-elbise",
+      "e122-hamile-ekose-elbise",
+      "m077-hamile-maksi-elbise-viscon-kumas-elbise",
+      "e114-m04-hamile-elbise-ekose",
+      "e114a-hamile-ekose-elbise",
+      "e0064-hamile-elbise-belmando",
+      "e0019-04-hamile-elbise-sifon-dantel-yaka-detayli-maksi",
+      "e148-08-hamile-elbise-belmando"
+    ],
+    "tunik-bluz": [
+      "b028-hamile-bluz-cizgili-koton-dokuma-emzirme-ozellikli",
+      "b120-hamile-owersize-tunik-pamuk-cizgili-emzirme-detayli-bluz",
+      "b128-hamile-bluz-koton-cizgili-emzirme-ozellikli",
+      "bbb055-owersize-hamile-cizgili-pamuk-gomlek",
+      "b053a-hamile-gomlek-yaka-orme-cizgili-tunik",
+      "b119-koton-fermuarli-emzirme-ozellikli-kisa-kol-hamile-bluz",
+      "b055-pamuk-owersize-hamile-gomlek",
+      "b080-hamile-cizgi-pamuk-bluz",
+      "b126-cizgili-dokuma-duz-orme-owersize-hamile-bluz-tunik",
+      "b122-pamuk-duz-orme-cizgili-dokuma-hamile-tunik",
+      "b121b3-hamile-pamuk-cizgili-bluz",
+      "bbb120-owersize-hamile-cizgili-pamuk-gomlek"
+    ],
+    "hamile-tunik": [
+      "b028-hamile-bluz-cizgili-koton-dokuma-emzirme-ozellikli",
+      "b120-hamile-owersize-tunik-pamuk-cizgili-emzirme-detayli-bluz",
+      "b128-hamile-bluz-koton-cizgili-emzirme-ozellikli",
+      "bbb055-owersize-hamile-cizgili-pamuk-gomlek",
+      "b053a-hamile-gomlek-yaka-orme-cizgili-tunik",
+      "b119-koton-fermuarli-emzirme-ozellikli-kisa-kol-hamile-bluz",
+      "b055-pamuk-owersize-hamile-gomlek",
+      "b080-hamile-cizgi-pamuk-bluz",
+      "b126-cizgili-dokuma-duz-orme-owersize-hamile-bluz-tunik",
+      "b122-pamuk-duz-orme-cizgili-dokuma-hamile-tunik",
+      "b121b3-hamile-pamuk-cizgili-bluz",
+      "bbb120-owersize-hamile-cizgili-pamuk-gomlek"
+    ],
+    "hamile-bluz": [
+      "b028-hamile-bluz-cizgili-koton-dokuma-emzirme-ozellikli",
+      "b120-hamile-owersize-tunik-pamuk-cizgili-emzirme-detayli-bluz",
+      "bbb055-owersize-hamile-cizgili-pamuk-gomlek",
+      "b053a-hamile-gomlek-yaka-orme-cizgili-tunik",
+      "b119-koton-fermuarli-emzirme-ozellikli-kisa-kol-hamile-bluz",
+      "b055-pamuk-owersize-hamile-gomlek",
+      "b080-hamile-cizgi-pamuk-bluz",
+      "b126-cizgili-dokuma-duz-orme-owersize-hamile-bluz-tunik",
+      "b122-pamuk-duz-orme-cizgili-dokuma-hamile-tunik",
+      "b121b3-hamile-pamuk-cizgili-bluz",
+      "bbb120-owersize-hamile-cizgili-pamuk-gomlek",
+      "b108-asimetrik-kesim-gomlek-tunik"
+    ],
+    "hamile-gomlek-ust-giyim": [
+      "b028-hamile-bluz-cizgili-koton-dokuma-emzirme-ozellikli",
+      "b120-hamile-owersize-tunik-pamuk-cizgili-emzirme-detayli-bluz",
+      "bbb055-owersize-hamile-cizgili-pamuk-gomlek",
+      "b053a-hamile-gomlek-yaka-orme-cizgili-tunik",
+      "b119-koton-fermuarli-emzirme-ozellikli-kisa-kol-hamile-bluz",
+      "b080-hamile-cizgi-pamuk-bluz",
+      "b122-pamuk-duz-orme-cizgili-dokuma-hamile-tunik",
+      "b121b3-hamile-pamuk-cizgili-bluz",
+      "bbb120-owersize-hamile-cizgili-pamuk-gomlek",
+      "b108-asimetrik-kesim-gomlek-tunik",
+      "b109-s004-hamile-tunik-koton",
+      "11bbbb103-hamile-tunik"
+    ],
+    "lohusa": [
+      "e186-hamile-sifon-elbise-4",
+      "b028-hamile-bluz-cizgili-koton-dokuma-emzirme-ozellikli",
+      "b120-hamile-owersize-tunik-pamuk-cizgili-emzirme-detayli-bluz",
+      "e185-hamile-duz-orme-cizgili-dokuma-pamuklu-elbise",
+      "e175-hamile-viskon-kumas-elbise",
+      "e183-hamile-viskon-elbise",
+      "e181-hamile-pamuk-keten-elbise",
+      "e122-hamile-ekose-elbise",
+      "bbb055-owersize-hamile-cizgili-pamuk-gomlek",
+      "b053a-hamile-gomlek-yaka-orme-cizgili-tunik",
+      "m077-hamile-maksi-elbise-viscon-kumas-elbise",
+      "e166-hamile-elbise-pamuk"
+    ],
+    "hastane-cikisi": [
+      "e186-hamile-sifon-elbise-4",
+      "b120-hamile-owersize-tunik-pamuk-cizgili-emzirme-detayli-bluz",
+      "e185-hamile-duz-orme-cizgili-dokuma-pamuklu-elbise",
+      "e175-hamile-viskon-kumas-elbise",
+      "e183-hamile-viskon-elbise",
+      "e181-hamile-pamuk-keten-elbise",
+      "e122-hamile-ekose-elbise",
+      "bbb055-owersize-hamile-cizgili-pamuk-gomlek",
+      "b053a-hamile-gomlek-yaka-orme-cizgili-tunik",
+      "m077-hamile-maksi-elbise-viscon-kumas-elbise",
+      "e166-hamile-elbise-pamuk",
+      "e114-m04-hamile-elbise-ekose"
+    ],
+    "yeni-sezon": [
+      "b028-hamile-bluz-cizgili-koton-dokuma-emzirme-ozellikli",
+      "b120-hamile-owersize-tunik-pamuk-cizgili-emzirme-detayli-bluz",
+      "e185-hamile-duz-orme-cizgili-dokuma-pamuklu-elbise",
+      "e175-hamile-viskon-kumas-elbise",
+      "e183-hamile-viskon-elbise",
+      "b080-hamile-cizgi-pamuk-bluz",
+      "b121b3-hamile-pamuk-cizgili-bluz",
+      "bbb120-owersize-hamile-cizgili-pamuk-gomlek",
+      "e174-hamile-cizgili-koton-elbise",
+      "bb055-owersize-hamile-pamuk-ekose-gomlek",
+      "b032k3-hamile-koton-tunik",
+      "e189-hamile-sifon-elbise-2"
+    ]
+  }
+}

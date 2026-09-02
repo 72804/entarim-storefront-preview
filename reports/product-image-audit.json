@@ -1,0 +1,2804 @@
+{
+  "generatedAt": "2026-08-24T19:45:33.002Z",
+  "summary": {
+    "imagesScanned": 298,
+    "kept": 277,
+    "excluded": 20,
+    "needsReview": 1,
+    "forcedKeep": 0
+  },
+  "items": [
+    {
+      "image": "/entarim/products/e122-hamile-ekose-elbise/kirmizi-lacivert-krem/2.jpg",
+      "status": "removed",
+      "score": 119,
+      "reasons": [
+        "image reused across 6 products",
+        "visually similar image reused across 16 products",
+        "87% near-white pixels",
+        "low photographic color variance",
+        "white graphic canvas"
+      ],
+      "products": [
+        "e122-hamile-ekose-elbise"
+      ]
+    },
+    {
+      "image": "/entarim/products/b028-hamile-bluz-cizgili-koton-dokuma-emzirme-ozellikli/mavi/2.jpg",
+      "status": "removed",
+      "score": 119,
+      "reasons": [
+        "image reused across 6 products",
+        "visually similar image reused across 16 products",
+        "87% near-white pixels",
+        "low photographic color variance",
+        "white graphic canvas"
+      ],
+      "products": [
+        "b028-hamile-bluz-cizgili-koton-dokuma-emzirme-ozellikli"
+      ]
+    },
+    {
+      "image": "/entarim/products/b128-hamile-bluz-koton-cizgili-emzirme-ozellikli/mavi-acik-mavi-cizgili/3.jpg",
+      "status": "removed",
+      "score": 119,
+      "reasons": [
+        "image reused across 6 products",
+        "visually similar image reused across 16 products",
+        "87% near-white pixels",
+        "low photographic color variance",
+        "white graphic canvas"
+      ],
+      "products": [
+        "b128-hamile-bluz-koton-cizgili-emzirme-ozellikli"
+      ]
+    },
+    {
+      "image": "/entarim/products/b032-hamile-koton-tunik/beyaz/3.jpg",
+      "status": "removed",
+      "score": 119,
+      "reasons": [
+        "image reused across 6 products",
+        "visually similar image reused across 16 products",
+        "87% near-white pixels",
+        "low photographic color variance",
+        "white graphic canvas"
+      ],
+      "products": [
+        "b032-hamile-koton-tunik"
+      ]
+    },
+    {
+      "image": "/entarim/products/e148-08-hamile-elbise-belmando/lacivert/2.jpg",
+      "status": "removed",
+      "score": 119,
+      "reasons": [
+        "image reused across 6 products",
+        "visually similar image reused across 16 products",
+        "87% near-white pixels",
+        "low photographic color variance",
+        "white graphic canvas"
+      ],
+      "products": [
+        "e148-08-hamile-elbise-belmando"
+      ]
+    },
+    {
+      "image": "/entarim/products/b032k3-hamile-koton-tunik/haki/3.jpg",
+      "status": "removed",
+      "score": 119,
+      "reasons": [
+        "image reused across 6 products",
+        "visually similar image reused across 16 products",
+        "87% near-white pixels",
+        "low photographic color variance",
+        "white graphic canvas"
+      ],
+      "products": [
+        "b032k3-hamile-koton-tunik"
+      ]
+    },
+    {
+      "image": "/entarim/products/b121b3-hamile-pamuk-cizgili-bluz/bej/3.jpg",
+      "status": "removed",
+      "score": 92,
+      "reasons": [
+        "image reused across 4 products",
+        "visually similar image reused across 14 products",
+        "86% near-white pixels",
+        "white graphic canvas"
+      ],
+      "products": [
+        "b121b3-hamile-pamuk-cizgili-bluz"
+      ]
+    },
+    {
+      "image": "/entarim/products/b122-pamuk-duz-orme-cizgili-dokuma-hamile-tunik/mavi-kemik-cizgili/2.jpg",
+      "status": "removed",
+      "score": 92,
+      "reasons": [
+        "image reused across 4 products",
+        "visually similar image reused across 14 products",
+        "86% near-white pixels",
+        "white graphic canvas"
+      ],
+      "products": [
+        "b122-pamuk-duz-orme-cizgili-dokuma-hamile-tunik"
+      ]
+    },
+    {
+      "image": "/entarim/products/bbb120-owersize-hamile-cizgili-pamuk-gomlek/lacivert/3.jpg",
+      "status": "removed",
+      "score": 92,
+      "reasons": [
+        "image reused across 4 products",
+        "visually similar image reused across 14 products",
+        "86% near-white pixels",
+        "white graphic canvas"
+      ],
+      "products": [
+        "bbb120-owersize-hamile-cizgili-pamuk-gomlek"
+      ]
+    },
+    {
+      "image": "/entarim/products/bb055-owersize-hamile-pamuk-ekose-gomlek/kirmizi-lacivert-krem/3.jpg",
+      "status": "removed",
+      "score": 92,
+      "reasons": [
+        "image reused across 4 products",
+        "visually similar image reused across 14 products",
+        "86% near-white pixels",
+        "white graphic canvas"
+      ],
+      "products": [
+        "bb055-owersize-hamile-pamuk-ekose-gomlek"
+      ]
+    },
+    {
+      "image": "/entarim/products/b120-hamile-owersize-tunik-pamuk-cizgili-emzirme-detayli-bluz/haki/3.jpg",
+      "status": "removed",
+      "score": 87,
+      "reasons": [
+        "visually similar image reused across 8 products",
+        "88% near-white pixels",
+        "low photographic color variance",
+        "white graphic canvas"
+      ],
+      "products": [
+        "b120-hamile-owersize-tunik-pamuk-cizgili-emzirme-detayli-bluz"
+      ]
+    },
+    {
+      "image": "/entarim/products/b120-hamile-owersize-tunik-pamuk-cizgili-emzirme-detayli-bluz/mavi/2.jpg",
+      "status": "removed",
+      "score": 87,
+      "reasons": [
+        "visually similar image reused across 8 products",
+        "88% near-white pixels",
+        "low photographic color variance",
+        "white graphic canvas"
+      ],
+      "products": [
+        "b120-hamile-owersize-tunik-pamuk-cizgili-emzirme-detayli-bluz"
+      ]
+    },
+    {
+      "image": "/entarim/products/b055-pamuk-owersize-hamile-gomlek/bej/2.jpg",
+      "status": "removed",
+      "score": 87,
+      "reasons": [
+        "visually similar image reused across 8 products",
+        "88% near-white pixels",
+        "low photographic color variance",
+        "white graphic canvas"
+      ],
+      "products": [
+        "b055-pamuk-owersize-hamile-gomlek"
+      ]
+    },
+    {
+      "image": "/entarim/products/b055-pamuk-owersize-hamile-gomlek/beyaz/2.jpg",
+      "status": "removed",
+      "score": 87,
+      "reasons": [
+        "visually similar image reused across 8 products",
+        "88% near-white pixels",
+        "low photographic color variance",
+        "white graphic canvas"
+      ],
+      "products": [
+        "b055-pamuk-owersize-hamile-gomlek"
+      ]
+    },
+    {
+      "image": "/entarim/products/b055-pamuk-owersize-hamile-gomlek/pembe/2.jpg",
+      "status": "removed",
+      "score": 87,
+      "reasons": [
+        "visually similar image reused across 8 products",
+        "88% near-white pixels",
+        "low photographic color variance",
+        "white graphic canvas"
+      ],
+      "products": [
+        "b055-pamuk-owersize-hamile-gomlek"
+      ]
+    },
+    {
+      "image": "/entarim/products/e183-hamile-viskon-elbise/haki/2.jpg",
+      "status": "removed",
+      "score": 86,
+      "reasons": [
+        "visually similar image reused across 14 products",
+        "87% near-white pixels",
+        "low photographic color variance",
+        "white graphic canvas"
+      ],
+      "products": [
+        "e183-hamile-viskon-elbise"
+      ]
+    },
+    {
+      "image": "/entarim/products/e181-hamile-pamuk-keten-elbise/lacivert/3.jpg",
+      "status": "removed",
+      "score": 86,
+      "reasons": [
+        "visually similar image reused across 14 products",
+        "86% near-white pixels",
+        "low photographic color variance",
+        "white graphic canvas"
+      ],
+      "products": [
+        "e181-hamile-pamuk-keten-elbise"
+      ]
+    },
+    {
+      "image": "/entarim/products/e188-hamile-sifon-elbise-3/petrol-krem/1.jpg",
+      "status": "removed",
+      "score": 86,
+      "reasons": [
+        "visually similar image reused across 14 products",
+        "87% near-white pixels",
+        "low photographic color variance",
+        "white graphic canvas"
+      ],
+      "products": [
+        "e188-hamile-sifon-elbise-3"
+      ]
+    },
+    {
+      "image": "/entarim/products/b080-hamile-cizgi-pamuk-bluz/lacivert/2.jpg",
+      "status": "removed",
+      "score": 84,
+      "reasons": [
+        "visually similar image reused across 14 products",
+        "83% near-white pixels",
+        "low photographic color variance",
+        "white graphic canvas"
+      ],
+      "products": [
+        "b080-hamile-cizgi-pamuk-bluz"
+      ]
+    },
+    {
+      "image": "/entarim/products/e185-hamile-duz-orme-cizgili-dokuma-pamuklu-elbise/lacivert/2.jpg",
+      "status": "removed",
+      "score": 67,
+      "reasons": [
+        "82% near-white pixels",
+        "low photographic color variance",
+        "white graphic canvas"
+      ],
+      "products": [
+        "e185-hamile-duz-orme-cizgili-dokuma-pamuklu-elbise"
+      ]
+    },
+    {
+      "image": "/entarim/products/e189-hamile-krep-elbise/siyah/2.jpg",
+      "status": "review",
+      "score": 48,
+      "reasons": [
+        "high table-line score"
+      ],
+      "products": [
+        "e189-hamile-krep-elbise"
+      ]
+    },
+    {
+      "image": "/demo-assets/product/lila/02.jpg",
+      "status": "kept",
+      "score": 29,
+      "reasons": [
+        "74% near-white pixels",
+        "low photographic color variance"
+      ],
+      "products": [
+        "e186-hamile-sifon-elbise-4"
+      ]
+    },
+    {
+      "image": "/entarim/products/e0040-hamile-leopar-desenli-elbise/leopar/1.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "e0040-hamile-leopar-desenli-elbise"
+      ]
+    },
+    {
+      "image": "/entarim/products/e0040-hamile-leopar-desenli-elbise/leopar/2.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "e0040-hamile-leopar-desenli-elbise"
+      ]
+    },
+    {
+      "image": "/entarim/products/e0040-hamile-leopar-desenli-elbise/leopar/3.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "e0040-hamile-leopar-desenli-elbise"
+      ]
+    },
+    {
+      "image": "/entarim/products/e114-m04-hamile-elbise-ekose/mavi-turkuaz/1.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "e114-m04-hamile-elbise-ekose"
+      ]
+    },
+    {
+      "image": "/entarim/products/e114-m04-hamile-elbise-ekose/mavi-turkuaz/2.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "e114-m04-hamile-elbise-ekose"
+      ]
+    },
+    {
+      "image": "/entarim/products/e114-m04-hamile-elbise-ekose/mavi-turkuaz/3.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "e114-m04-hamile-elbise-ekose"
+      ]
+    },
+    {
+      "image": "/entarim/products/e114-m04-hamile-elbise-ekose/mavi/1.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "e114-m04-hamile-elbise-ekose"
+      ]
+    },
+    {
+      "image": "/entarim/products/e114-m04-hamile-elbise-ekose/mavi/2.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "e114-m04-hamile-elbise-ekose"
+      ]
+    },
+    {
+      "image": "/entarim/products/e114-m04-hamile-elbise-ekose/mavi/3.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "e114-m04-hamile-elbise-ekose"
+      ]
+    },
+    {
+      "image": "/entarim/products/e114-m04-hamile-elbise-ekose/kirmizi-mavi/1.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "e114-m04-hamile-elbise-ekose"
+      ]
+    },
+    {
+      "image": "/entarim/products/e114-m04-hamile-elbise-ekose/kirmizi-mavi/2.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "e114-m04-hamile-elbise-ekose"
+      ]
+    },
+    {
+      "image": "/entarim/products/e114-m04-hamile-elbise-ekose/kirmizi-mavi/3.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "e114-m04-hamile-elbise-ekose"
+      ]
+    },
+    {
+      "image": "/entarim/products/6019-m010-hamile-uzun-sifon-elbise/mor-mavi/1.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "6019-m010-hamile-uzun-sifon-elbise"
+      ]
+    },
+    {
+      "image": "/entarim/products/6019-m010-hamile-uzun-sifon-elbise/mor-mavi/2.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "6019-m010-hamile-uzun-sifon-elbise"
+      ]
+    },
+    {
+      "image": "/entarim/products/6019-m010-hamile-uzun-sifon-elbise/mor-mavi/3.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "6019-m010-hamile-uzun-sifon-elbise"
+      ]
+    },
+    {
+      "image": "/entarim/products/6019-m010-hamile-uzun-sifon-elbise/lacivert/1.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "6019-m010-hamile-uzun-sifon-elbise"
+      ]
+    },
+    {
+      "image": "/entarim/products/6019-m010-hamile-uzun-sifon-elbise/lacivert/2.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "6019-m010-hamile-uzun-sifon-elbise"
+      ]
+    },
+    {
+      "image": "/entarim/products/6019-m010-hamile-uzun-sifon-elbise/lacivert/3.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "6019-m010-hamile-uzun-sifon-elbise"
+      ]
+    },
+    {
+      "image": "/entarim/products/6019-m010-hamile-uzun-sifon-elbise/pembe/1.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "6019-m010-hamile-uzun-sifon-elbise"
+      ]
+    },
+    {
+      "image": "/entarim/products/6019-m010-hamile-uzun-sifon-elbise/pembe/2.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "6019-m010-hamile-uzun-sifon-elbise"
+      ]
+    },
+    {
+      "image": "/entarim/products/6019-m010-hamile-uzun-sifon-elbise/pembe/3.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "6019-m010-hamile-uzun-sifon-elbise"
+      ]
+    },
+    {
+      "image": "/entarim/products/6019-m010-hamile-uzun-sifon-elbise/lila/1.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "6019-m010-hamile-uzun-sifon-elbise"
+      ]
+    },
+    {
+      "image": "/entarim/products/6019-m010-hamile-uzun-sifon-elbise/lila/2.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "6019-m010-hamile-uzun-sifon-elbise"
+      ]
+    },
+    {
+      "image": "/entarim/products/6019-m010-hamile-uzun-sifon-elbise/lila/3.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "6019-m010-hamile-uzun-sifon-elbise"
+      ]
+    },
+    {
+      "image": "/entarim/products/b108-asimetrik-kesim-gomlek-tunik/siyah/1.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "b108-asimetrik-kesim-gomlek-tunik"
+      ]
+    },
+    {
+      "image": "/entarim/products/b108-asimetrik-kesim-gomlek-tunik/siyah/2.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "b108-asimetrik-kesim-gomlek-tunik"
+      ]
+    },
+    {
+      "image": "/entarim/products/b108-asimetrik-kesim-gomlek-tunik/siyah/3.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "b108-asimetrik-kesim-gomlek-tunik"
+      ]
+    },
+    {
+      "image": "/entarim/products/b108-asimetrik-kesim-gomlek-tunik/saks/1.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "b108-asimetrik-kesim-gomlek-tunik"
+      ]
+    },
+    {
+      "image": "/entarim/products/b108-asimetrik-kesim-gomlek-tunik/saks/2.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "b108-asimetrik-kesim-gomlek-tunik"
+      ]
+    },
+    {
+      "image": "/entarim/products/b108-asimetrik-kesim-gomlek-tunik/saks/3.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "b108-asimetrik-kesim-gomlek-tunik"
+      ]
+    },
+    {
+      "image": "/entarim/products/b108-asimetrik-kesim-gomlek-tunik/pembe/1.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "b108-asimetrik-kesim-gomlek-tunik"
+      ]
+    },
+    {
+      "image": "/entarim/products/b108-asimetrik-kesim-gomlek-tunik/pembe/2.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "b108-asimetrik-kesim-gomlek-tunik"
+      ]
+    },
+    {
+      "image": "/entarim/products/b108-asimetrik-kesim-gomlek-tunik/pembe/3.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "b108-asimetrik-kesim-gomlek-tunik"
+      ]
+    },
+    {
+      "image": "/entarim/products/b108-asimetrik-kesim-gomlek-tunik/acik-bej/1.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "b108-asimetrik-kesim-gomlek-tunik"
+      ]
+    },
+    {
+      "image": "/entarim/products/b108-asimetrik-kesim-gomlek-tunik/acik-bej/2.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "b108-asimetrik-kesim-gomlek-tunik"
+      ]
+    },
+    {
+      "image": "/entarim/products/b108-asimetrik-kesim-gomlek-tunik/acik-bej/3.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "b108-asimetrik-kesim-gomlek-tunik"
+      ]
+    },
+    {
+      "image": "/demo-assets/product/haki/01.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "e186-hamile-sifon-elbise-4"
+      ]
+    },
+    {
+      "image": "/demo-assets/product/haki/02.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "e186-hamile-sifon-elbise-4"
+      ]
+    },
+    {
+      "image": "/demo-assets/product/haki/03.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "e186-hamile-sifon-elbise-4"
+      ]
+    },
+    {
+      "image": "/demo-assets/product/haki/04.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "e186-hamile-sifon-elbise-4"
+      ]
+    },
+    {
+      "image": "/demo-assets/product/haki/05.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "e186-hamile-sifon-elbise-4"
+      ]
+    },
+    {
+      "image": "/demo-assets/product/petrol/01.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "e186-hamile-sifon-elbise-4"
+      ]
+    },
+    {
+      "image": "/demo-assets/product/petrol/02.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "e186-hamile-sifon-elbise-4"
+      ]
+    },
+    {
+      "image": "/demo-assets/product/petrol/03.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "e186-hamile-sifon-elbise-4"
+      ]
+    },
+    {
+      "image": "/demo-assets/product/petrol/04.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "e186-hamile-sifon-elbise-4"
+      ]
+    },
+    {
+      "image": "/demo-assets/product/gulkurusu/01.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "e186-hamile-sifon-elbise-4"
+      ]
+    },
+    {
+      "image": "/demo-assets/product/gulkurusu/02.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "e186-hamile-sifon-elbise-4"
+      ]
+    },
+    {
+      "image": "/demo-assets/product/gulkurusu/03.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "e186-hamile-sifon-elbise-4"
+      ]
+    },
+    {
+      "image": "/demo-assets/product/gulkurusu/04.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "e186-hamile-sifon-elbise-4"
+      ]
+    },
+    {
+      "image": "/demo-assets/product/gulkurusu/05.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "e186-hamile-sifon-elbise-4"
+      ]
+    },
+    {
+      "image": "/demo-assets/product/lila/01.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "e186-hamile-sifon-elbise-4"
+      ]
+    },
+    {
+      "image": "/demo-assets/product/lila/03.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "e186-hamile-sifon-elbise-4"
+      ]
+    },
+    {
+      "image": "/demo-assets/product/lila/04.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "e186-hamile-sifon-elbise-4"
+      ]
+    },
+    {
+      "image": "/entarim/products/e185-hamile-duz-orme-cizgili-dokuma-pamuklu-elbise/lacivert/1.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "e185-hamile-duz-orme-cizgili-dokuma-pamuklu-elbise"
+      ]
+    },
+    {
+      "image": "/entarim/products/e185-hamile-duz-orme-cizgili-dokuma-pamuklu-elbise/lacivert/3.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "e185-hamile-duz-orme-cizgili-dokuma-pamuklu-elbise"
+      ]
+    },
+    {
+      "image": "/entarim/products/e175-hamile-viskon-kumas-elbise/pembe/1.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "e175-hamile-viskon-kumas-elbise"
+      ]
+    },
+    {
+      "image": "/entarim/products/e175-hamile-viskon-kumas-elbise/pembe/2.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "e175-hamile-viskon-kumas-elbise"
+      ]
+    },
+    {
+      "image": "/entarim/products/e175-hamile-viskon-kumas-elbise/pembe/3.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "e175-hamile-viskon-kumas-elbise"
+      ]
+    },
+    {
+      "image": "/entarim/products/e175-hamile-viskon-kumas-elbise/siyah/1.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "e175-hamile-viskon-kumas-elbise"
+      ]
+    },
+    {
+      "image": "/entarim/products/e175-hamile-viskon-kumas-elbise/siyah/2.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "e175-hamile-viskon-kumas-elbise"
+      ]
+    },
+    {
+      "image": "/entarim/products/e175-hamile-viskon-kumas-elbise/siyah/3.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "e175-hamile-viskon-kumas-elbise"
+      ]
+    },
+    {
+      "image": "/entarim/products/e183-hamile-viskon-elbise/siyah/1.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "e183-hamile-viskon-elbise"
+      ]
+    },
+    {
+      "image": "/entarim/products/e183-hamile-viskon-elbise/siyah/2.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "e183-hamile-viskon-elbise"
+      ]
+    },
+    {
+      "image": "/entarim/products/e183-hamile-viskon-elbise/siyah/3.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "e183-hamile-viskon-elbise"
+      ]
+    },
+    {
+      "image": "/entarim/products/e183-hamile-viskon-elbise/haki/1.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "e183-hamile-viskon-elbise"
+      ]
+    },
+    {
+      "image": "/entarim/products/e183-hamile-viskon-elbise/haki/3.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "e183-hamile-viskon-elbise"
+      ]
+    },
+    {
+      "image": "/entarim/products/e183-hamile-viskon-elbise/bordo/1.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "e183-hamile-viskon-elbise"
+      ]
+    },
+    {
+      "image": "/entarim/products/e183-hamile-viskon-elbise/bordo/2.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "e183-hamile-viskon-elbise"
+      ]
+    },
+    {
+      "image": "/entarim/products/e183-hamile-viskon-elbise/bordo/3.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "e183-hamile-viskon-elbise"
+      ]
+    },
+    {
+      "image": "/entarim/products/e181-hamile-pamuk-keten-elbise/lacivert/1.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "e181-hamile-pamuk-keten-elbise"
+      ]
+    },
+    {
+      "image": "/entarim/products/e181-hamile-pamuk-keten-elbise/lacivert/2.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "e181-hamile-pamuk-keten-elbise"
+      ]
+    },
+    {
+      "image": "/entarim/products/e122-hamile-ekose-elbise/kirmizi-lacivert-krem/1.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "e122-hamile-ekose-elbise"
+      ]
+    },
+    {
+      "image": "/entarim/products/e122-hamile-ekose-elbise/kirmizi-lacivert-krem/3.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "e122-hamile-ekose-elbise"
+      ]
+    },
+    {
+      "image": "/entarim/products/e122-hamile-ekose-elbise/mavi-krem/1.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "e122-hamile-ekose-elbise"
+      ]
+    },
+    {
+      "image": "/entarim/products/e122-hamile-ekose-elbise/mavi-krem/2.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "e122-hamile-ekose-elbise"
+      ]
+    },
+    {
+      "image": "/entarim/products/e122-hamile-ekose-elbise/mavi-krem/3.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "e122-hamile-ekose-elbise"
+      ]
+    },
+    {
+      "image": "/entarim/products/e122-hamile-ekose-elbise/haki-krem/1.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "e122-hamile-ekose-elbise"
+      ]
+    },
+    {
+      "image": "/entarim/products/e122-hamile-ekose-elbise/haki-krem/2.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "e122-hamile-ekose-elbise"
+      ]
+    },
+    {
+      "image": "/entarim/products/e122-hamile-ekose-elbise/haki-krem/3.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "e122-hamile-ekose-elbise"
+      ]
+    },
+    {
+      "image": "/entarim/products/e122-hamile-ekose-elbise/bordo/1.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "e122-hamile-ekose-elbise"
+      ]
+    },
+    {
+      "image": "/entarim/products/e122-hamile-ekose-elbise/bordo/2.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "e122-hamile-ekose-elbise"
+      ]
+    },
+    {
+      "image": "/entarim/products/e122-hamile-ekose-elbise/bordo/3.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "e122-hamile-ekose-elbise"
+      ]
+    },
+    {
+      "image": "/entarim/products/m077-hamile-maksi-elbise-viscon-kumas-elbise/siyah/1.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "m077-hamile-maksi-elbise-viscon-kumas-elbise"
+      ]
+    },
+    {
+      "image": "/entarim/products/m077-hamile-maksi-elbise-viscon-kumas-elbise/siyah/2.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "m077-hamile-maksi-elbise-viscon-kumas-elbise"
+      ]
+    },
+    {
+      "image": "/entarim/products/m077-hamile-maksi-elbise-viscon-kumas-elbise/siyah/3.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "m077-hamile-maksi-elbise-viscon-kumas-elbise"
+      ]
+    },
+    {
+      "image": "/entarim/products/m077-hamile-maksi-elbise-viscon-kumas-elbise/pembe/1.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "m077-hamile-maksi-elbise-viscon-kumas-elbise"
+      ]
+    },
+    {
+      "image": "/entarim/products/m077-hamile-maksi-elbise-viscon-kumas-elbise/pembe/2.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "m077-hamile-maksi-elbise-viscon-kumas-elbise"
+      ]
+    },
+    {
+      "image": "/entarim/products/m077-hamile-maksi-elbise-viscon-kumas-elbise/pembe/3.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "m077-hamile-maksi-elbise-viscon-kumas-elbise"
+      ]
+    },
+    {
+      "image": "/entarim/products/e166-hamile-elbise-pamuk/siyah-siyah-beyaz/1.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "e166-hamile-elbise-pamuk"
+      ]
+    },
+    {
+      "image": "/entarim/products/e166-hamile-elbise-pamuk/siyah-siyah-beyaz/2.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "e166-hamile-elbise-pamuk"
+      ]
+    },
+    {
+      "image": "/entarim/products/e166-hamile-elbise-pamuk/siyah-siyah-beyaz/3.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "e166-hamile-elbise-pamuk"
+      ]
+    },
+    {
+      "image": "/entarim/products/e166-hamile-elbise-pamuk/lacivert-mavi-krem/1.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "e166-hamile-elbise-pamuk"
+      ]
+    },
+    {
+      "image": "/entarim/products/e166-hamile-elbise-pamuk/lacivert-mavi-krem/2.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "e166-hamile-elbise-pamuk"
+      ]
+    },
+    {
+      "image": "/entarim/products/e166-hamile-elbise-pamuk/lacivert-mavi-krem/3.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "e166-hamile-elbise-pamuk"
+      ]
+    },
+    {
+      "image": "/entarim/products/e166-hamile-elbise-pamuk/mavi/1.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "e166-hamile-elbise-pamuk"
+      ]
+    },
+    {
+      "image": "/entarim/products/e166-hamile-elbise-pamuk/mavi/2.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "e166-hamile-elbise-pamuk"
+      ]
+    },
+    {
+      "image": "/entarim/products/e166-hamile-elbise-pamuk/mavi/3.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "e166-hamile-elbise-pamuk"
+      ]
+    },
+    {
+      "image": "/entarim/products/e188-hamile-sifon-elbise-3/gulkurusu-bej/1.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "e188-hamile-sifon-elbise-3"
+      ]
+    },
+    {
+      "image": "/entarim/products/e188-hamile-sifon-elbise-3/gulkurusu-bej/2.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "e188-hamile-sifon-elbise-3"
+      ]
+    },
+    {
+      "image": "/entarim/products/e188-hamile-sifon-elbise-3/gulkurusu-bej/3.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "e188-hamile-sifon-elbise-3"
+      ]
+    },
+    {
+      "image": "/entarim/products/e188-hamile-sifon-elbise-3/petrol-krem/2.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "e188-hamile-sifon-elbise-3"
+      ]
+    },
+    {
+      "image": "/entarim/products/e188-hamile-sifon-elbise-3/petrol-krem/3.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "e188-hamile-sifon-elbise-3"
+      ]
+    },
+    {
+      "image": "/entarim/products/e188-hamile-sifon-elbise-3/siyah-krem/1.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "e188-hamile-sifon-elbise-3"
+      ]
+    },
+    {
+      "image": "/entarim/products/e188-hamile-sifon-elbise-3/siyah-krem/2.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "e188-hamile-sifon-elbise-3"
+      ]
+    },
+    {
+      "image": "/entarim/products/e188-hamile-sifon-elbise-3/siyah-krem/3.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "e188-hamile-sifon-elbise-3"
+      ]
+    },
+    {
+      "image": "/entarim/products/e114a-hamile-ekose-elbise/kirmizi-lacivert-krem/1.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "e114a-hamile-ekose-elbise"
+      ]
+    },
+    {
+      "image": "/entarim/products/e114a-hamile-ekose-elbise/kirmizi-lacivert-krem/2.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "e114a-hamile-ekose-elbise"
+      ]
+    },
+    {
+      "image": "/entarim/products/e114a-hamile-ekose-elbise/kirmizi-lacivert-krem/3.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "e114a-hamile-ekose-elbise"
+      ]
+    },
+    {
+      "image": "/entarim/products/e114a-hamile-ekose-elbise/gri-mavi-lacivert-krem-kareli/1.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "e114a-hamile-ekose-elbise"
+      ]
+    },
+    {
+      "image": "/entarim/products/e114a-hamile-ekose-elbise/gri-mavi-lacivert-krem-kareli/2.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "e114a-hamile-ekose-elbise"
+      ]
+    },
+    {
+      "image": "/entarim/products/e114a-hamile-ekose-elbise/gri-mavi-lacivert-krem-kareli/3.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "e114a-hamile-ekose-elbise"
+      ]
+    },
+    {
+      "image": "/entarim/products/e0064-hamile-elbise-belmando/kirmizi/1.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "e0064-hamile-elbise-belmando"
+      ]
+    },
+    {
+      "image": "/entarim/products/e0064-hamile-elbise-belmando/kirmizi/2.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "e0064-hamile-elbise-belmando"
+      ]
+    },
+    {
+      "image": "/entarim/products/e0064-hamile-elbise-belmando/kirmizi/3.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "e0064-hamile-elbise-belmando"
+      ]
+    },
+    {
+      "image": "/entarim/products/e0064-hamile-elbise-belmando/lacivert/1.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "e0064-hamile-elbise-belmando"
+      ]
+    },
+    {
+      "image": "/entarim/products/5130a4-hamile-owersize-elbise-orme-empirme-garnili/siyah/1.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "5130a4-hamile-owersize-elbise-orme-empirme-garnili"
+      ]
+    },
+    {
+      "image": "/entarim/products/5130a4-hamile-owersize-elbise-orme-empirme-garnili/siyah/2.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "5130a4-hamile-owersize-elbise-orme-empirme-garnili"
+      ]
+    },
+    {
+      "image": "/entarim/products/5130a4-hamile-owersize-elbise-orme-empirme-garnili/siyah/3.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "5130a4-hamile-owersize-elbise-orme-empirme-garnili"
+      ]
+    },
+    {
+      "image": "/entarim/products/e0019-04-hamile-elbise-sifon-dantel-yaka-detayli-maksi/lacivert/1.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "e0019-04-hamile-elbise-sifon-dantel-yaka-detayli-maksi"
+      ]
+    },
+    {
+      "image": "/entarim/products/e0019-04-hamile-elbise-sifon-dantel-yaka-detayli-maksi/lacivert/2.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "e0019-04-hamile-elbise-sifon-dantel-yaka-detayli-maksi"
+      ]
+    },
+    {
+      "image": "/entarim/products/e0019-04-hamile-elbise-sifon-dantel-yaka-detayli-maksi/lacivert/3.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "e0019-04-hamile-elbise-sifon-dantel-yaka-detayli-maksi"
+      ]
+    },
+    {
+      "image": "/entarim/products/e0019-04-hamile-elbise-sifon-dantel-yaka-detayli-maksi/pembe/1.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "e0019-04-hamile-elbise-sifon-dantel-yaka-detayli-maksi"
+      ]
+    },
+    {
+      "image": "/entarim/products/e0019-04-hamile-elbise-sifon-dantel-yaka-detayli-maksi/pembe/2.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "e0019-04-hamile-elbise-sifon-dantel-yaka-detayli-maksi"
+      ]
+    },
+    {
+      "image": "/entarim/products/e0019-04-hamile-elbise-sifon-dantel-yaka-detayli-maksi/pembe/3.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "e0019-04-hamile-elbise-sifon-dantel-yaka-detayli-maksi"
+      ]
+    },
+    {
+      "image": "/entarim/products/e0019-04-hamile-elbise-sifon-dantel-yaka-detayli-maksi/siyah/1.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "e0019-04-hamile-elbise-sifon-dantel-yaka-detayli-maksi"
+      ]
+    },
+    {
+      "image": "/entarim/products/e0019-04-hamile-elbise-sifon-dantel-yaka-detayli-maksi/siyah/2.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "e0019-04-hamile-elbise-sifon-dantel-yaka-detayli-maksi"
+      ]
+    },
+    {
+      "image": "/entarim/products/e0019-04-hamile-elbise-sifon-dantel-yaka-detayli-maksi/siyah/3.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "e0019-04-hamile-elbise-sifon-dantel-yaka-detayli-maksi"
+      ]
+    },
+    {
+      "image": "/entarim/products/e0019-04-hamile-elbise-sifon-dantel-yaka-detayli-maksi/pudra/1.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "e0019-04-hamile-elbise-sifon-dantel-yaka-detayli-maksi"
+      ]
+    },
+    {
+      "image": "/entarim/products/e0019-04-hamile-elbise-sifon-dantel-yaka-detayli-maksi/pudra/2.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "e0019-04-hamile-elbise-sifon-dantel-yaka-detayli-maksi"
+      ]
+    },
+    {
+      "image": "/entarim/products/e0019-04-hamile-elbise-sifon-dantel-yaka-detayli-maksi/pudra/3.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "e0019-04-hamile-elbise-sifon-dantel-yaka-detayli-maksi"
+      ]
+    },
+    {
+      "image": "/entarim/products/e174-hamile-cizgili-koton-elbise/bej/1.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "e174-hamile-cizgili-koton-elbise"
+      ]
+    },
+    {
+      "image": "/entarim/products/e174-hamile-cizgili-koton-elbise/bej/2.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "e174-hamile-cizgili-koton-elbise"
+      ]
+    },
+    {
+      "image": "/entarim/products/e174-hamile-cizgili-koton-elbise/bej/3.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "e174-hamile-cizgili-koton-elbise"
+      ]
+    },
+    {
+      "image": "/entarim/products/e174-hamile-cizgili-koton-elbise/mavi/1.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "e174-hamile-cizgili-koton-elbise"
+      ]
+    },
+    {
+      "image": "/entarim/products/e174-hamile-cizgili-koton-elbise/mavi/2.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "e174-hamile-cizgili-koton-elbise"
+      ]
+    },
+    {
+      "image": "/entarim/products/e174-hamile-cizgili-koton-elbise/mavi/3.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "e174-hamile-cizgili-koton-elbise"
+      ]
+    },
+    {
+      "image": "/entarim/products/e189-hamile-krep-elbise/siyah/1.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "e189-hamile-krep-elbise"
+      ]
+    },
+    {
+      "image": "/entarim/products/e189-hamile-krep-elbise/siyah/3.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "e189-hamile-krep-elbise"
+      ]
+    },
+    {
+      "image": "/entarim/products/e189-hamile-sifon-elbise-2/siyah/1.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "e189-hamile-sifon-elbise-2"
+      ]
+    },
+    {
+      "image": "/entarim/products/e189-hamile-sifon-elbise-2/siyah/2.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "e189-hamile-sifon-elbise-2"
+      ]
+    },
+    {
+      "image": "/entarim/products/e189-hamile-sifon-elbise-2/siyah/3.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "e189-hamile-sifon-elbise-2"
+      ]
+    },
+    {
+      "image": "/entarim/products/b028-hamile-bluz-cizgili-koton-dokuma-emzirme-ozellikli/kirmizi/1.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "b028-hamile-bluz-cizgili-koton-dokuma-emzirme-ozellikli"
+      ]
+    },
+    {
+      "image": "/entarim/products/b028-hamile-bluz-cizgili-koton-dokuma-emzirme-ozellikli/kirmizi/2.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "b028-hamile-bluz-cizgili-koton-dokuma-emzirme-ozellikli"
+      ]
+    },
+    {
+      "image": "/entarim/products/b028-hamile-bluz-cizgili-koton-dokuma-emzirme-ozellikli/kirmizi/3.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "b028-hamile-bluz-cizgili-koton-dokuma-emzirme-ozellikli"
+      ]
+    },
+    {
+      "image": "/entarim/products/b028-hamile-bluz-cizgili-koton-dokuma-emzirme-ozellikli/mavi/1.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "b028-hamile-bluz-cizgili-koton-dokuma-emzirme-ozellikli"
+      ]
+    },
+    {
+      "image": "/entarim/products/b028-hamile-bluz-cizgili-koton-dokuma-emzirme-ozellikli/mavi/3.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "b028-hamile-bluz-cizgili-koton-dokuma-emzirme-ozellikli"
+      ]
+    },
+    {
+      "image": "/entarim/products/b120-hamile-owersize-tunik-pamuk-cizgili-emzirme-detayli-bluz/lacivert/1.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "b120-hamile-owersize-tunik-pamuk-cizgili-emzirme-detayli-bluz"
+      ]
+    },
+    {
+      "image": "/entarim/products/b120-hamile-owersize-tunik-pamuk-cizgili-emzirme-detayli-bluz/lacivert/2.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "b120-hamile-owersize-tunik-pamuk-cizgili-emzirme-detayli-bluz"
+      ]
+    },
+    {
+      "image": "/entarim/products/b120-hamile-owersize-tunik-pamuk-cizgili-emzirme-detayli-bluz/lacivert/3.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "b120-hamile-owersize-tunik-pamuk-cizgili-emzirme-detayli-bluz"
+      ]
+    },
+    {
+      "image": "/entarim/products/b120-hamile-owersize-tunik-pamuk-cizgili-emzirme-detayli-bluz/krem/1.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "b120-hamile-owersize-tunik-pamuk-cizgili-emzirme-detayli-bluz"
+      ]
+    },
+    {
+      "image": "/entarim/products/b120-hamile-owersize-tunik-pamuk-cizgili-emzirme-detayli-bluz/krem/2.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "b120-hamile-owersize-tunik-pamuk-cizgili-emzirme-detayli-bluz"
+      ]
+    },
+    {
+      "image": "/entarim/products/b120-hamile-owersize-tunik-pamuk-cizgili-emzirme-detayli-bluz/krem/3.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "b120-hamile-owersize-tunik-pamuk-cizgili-emzirme-detayli-bluz"
+      ]
+    },
+    {
+      "image": "/entarim/products/b120-hamile-owersize-tunik-pamuk-cizgili-emzirme-detayli-bluz/haki/1.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "b120-hamile-owersize-tunik-pamuk-cizgili-emzirme-detayli-bluz"
+      ]
+    },
+    {
+      "image": "/entarim/products/b120-hamile-owersize-tunik-pamuk-cizgili-emzirme-detayli-bluz/haki/2.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "b120-hamile-owersize-tunik-pamuk-cizgili-emzirme-detayli-bluz"
+      ]
+    },
+    {
+      "image": "/entarim/products/b120-hamile-owersize-tunik-pamuk-cizgili-emzirme-detayli-bluz/mavi/1.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "b120-hamile-owersize-tunik-pamuk-cizgili-emzirme-detayli-bluz"
+      ]
+    },
+    {
+      "image": "/entarim/products/b120-hamile-owersize-tunik-pamuk-cizgili-emzirme-detayli-bluz/mavi/3.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "b120-hamile-owersize-tunik-pamuk-cizgili-emzirme-detayli-bluz"
+      ]
+    },
+    {
+      "image": "/entarim/products/b128-hamile-bluz-koton-cizgili-emzirme-ozellikli/koyu-pembe-acik-pembe-cizgili/1.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "b128-hamile-bluz-koton-cizgili-emzirme-ozellikli"
+      ]
+    },
+    {
+      "image": "/entarim/products/b128-hamile-bluz-koton-cizgili-emzirme-ozellikli/koyu-pembe-acik-pembe-cizgili/2.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "b128-hamile-bluz-koton-cizgili-emzirme-ozellikli"
+      ]
+    },
+    {
+      "image": "/entarim/products/b128-hamile-bluz-koton-cizgili-emzirme-ozellikli/koyu-pembe-acik-pembe-cizgili/3.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "b128-hamile-bluz-koton-cizgili-emzirme-ozellikli"
+      ]
+    },
+    {
+      "image": "/entarim/products/b128-hamile-bluz-koton-cizgili-emzirme-ozellikli/mavi-acik-mavi-cizgili/1.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "b128-hamile-bluz-koton-cizgili-emzirme-ozellikli"
+      ]
+    },
+    {
+      "image": "/entarim/products/b128-hamile-bluz-koton-cizgili-emzirme-ozellikli/mavi-acik-mavi-cizgili/2.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "b128-hamile-bluz-koton-cizgili-emzirme-ozellikli"
+      ]
+    },
+    {
+      "image": "/entarim/products/bbb055-owersize-hamile-cizgili-pamuk-gomlek/haki/1.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "bbb055-owersize-hamile-cizgili-pamuk-gomlek"
+      ]
+    },
+    {
+      "image": "/entarim/products/bbb055-owersize-hamile-cizgili-pamuk-gomlek/haki/2.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "bbb055-owersize-hamile-cizgili-pamuk-gomlek"
+      ]
+    },
+    {
+      "image": "/entarim/products/bbb055-owersize-hamile-cizgili-pamuk-gomlek/haki/3.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "bbb055-owersize-hamile-cizgili-pamuk-gomlek"
+      ]
+    },
+    {
+      "image": "/entarim/products/b119-koton-fermuarli-emzirme-ozellikli-kisa-kol-hamile-bluz/saks/1.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "b119-koton-fermuarli-emzirme-ozellikli-kisa-kol-hamile-bluz"
+      ]
+    },
+    {
+      "image": "/entarim/products/b119-koton-fermuarli-emzirme-ozellikli-kisa-kol-hamile-bluz/saks/2.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "b119-koton-fermuarli-emzirme-ozellikli-kisa-kol-hamile-bluz"
+      ]
+    },
+    {
+      "image": "/entarim/products/b119-koton-fermuarli-emzirme-ozellikli-kisa-kol-hamile-bluz/saks/3.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "b119-koton-fermuarli-emzirme-ozellikli-kisa-kol-hamile-bluz"
+      ]
+    },
+    {
+      "image": "/entarim/products/b119-koton-fermuarli-emzirme-ozellikli-kisa-kol-hamile-bluz/bej/1.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "b119-koton-fermuarli-emzirme-ozellikli-kisa-kol-hamile-bluz"
+      ]
+    },
+    {
+      "image": "/entarim/products/b119-koton-fermuarli-emzirme-ozellikli-kisa-kol-hamile-bluz/bej/2.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "b119-koton-fermuarli-emzirme-ozellikli-kisa-kol-hamile-bluz"
+      ]
+    },
+    {
+      "image": "/entarim/products/b119-koton-fermuarli-emzirme-ozellikli-kisa-kol-hamile-bluz/bej/3.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "b119-koton-fermuarli-emzirme-ozellikli-kisa-kol-hamile-bluz"
+      ]
+    },
+    {
+      "image": "/entarim/products/b119-koton-fermuarli-emzirme-ozellikli-kisa-kol-hamile-bluz/pembe/1.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "b119-koton-fermuarli-emzirme-ozellikli-kisa-kol-hamile-bluz"
+      ]
+    },
+    {
+      "image": "/entarim/products/b119-koton-fermuarli-emzirme-ozellikli-kisa-kol-hamile-bluz/pembe/2.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "b119-koton-fermuarli-emzirme-ozellikli-kisa-kol-hamile-bluz"
+      ]
+    },
+    {
+      "image": "/entarim/products/b119-koton-fermuarli-emzirme-ozellikli-kisa-kol-hamile-bluz/pembe/3.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "b119-koton-fermuarli-emzirme-ozellikli-kisa-kol-hamile-bluz"
+      ]
+    },
+    {
+      "image": "/entarim/products/b119-koton-fermuarli-emzirme-ozellikli-kisa-kol-hamile-bluz/lacivert-beyaz-kareli/1.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "b119-koton-fermuarli-emzirme-ozellikli-kisa-kol-hamile-bluz"
+      ]
+    },
+    {
+      "image": "/entarim/products/b119-koton-fermuarli-emzirme-ozellikli-kisa-kol-hamile-bluz/lacivert-beyaz-kareli/2.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "b119-koton-fermuarli-emzirme-ozellikli-kisa-kol-hamile-bluz"
+      ]
+    },
+    {
+      "image": "/entarim/products/b119-koton-fermuarli-emzirme-ozellikli-kisa-kol-hamile-bluz/lacivert-beyaz-kareli/3.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "b119-koton-fermuarli-emzirme-ozellikli-kisa-kol-hamile-bluz"
+      ]
+    },
+    {
+      "image": "/entarim/products/b055-pamuk-owersize-hamile-gomlek/mavi/1.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "b055-pamuk-owersize-hamile-gomlek"
+      ]
+    },
+    {
+      "image": "/entarim/products/b055-pamuk-owersize-hamile-gomlek/mavi/2.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "b055-pamuk-owersize-hamile-gomlek"
+      ]
+    },
+    {
+      "image": "/entarim/products/b055-pamuk-owersize-hamile-gomlek/mavi/3.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "b055-pamuk-owersize-hamile-gomlek"
+      ]
+    },
+    {
+      "image": "/entarim/products/b055-pamuk-owersize-hamile-gomlek/bej/1.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "b055-pamuk-owersize-hamile-gomlek"
+      ]
+    },
+    {
+      "image": "/entarim/products/b055-pamuk-owersize-hamile-gomlek/bej/3.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "b055-pamuk-owersize-hamile-gomlek"
+      ]
+    },
+    {
+      "image": "/entarim/products/b055-pamuk-owersize-hamile-gomlek/beyaz/1.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "b055-pamuk-owersize-hamile-gomlek"
+      ]
+    },
+    {
+      "image": "/entarim/products/b055-pamuk-owersize-hamile-gomlek/beyaz/3.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "b055-pamuk-owersize-hamile-gomlek"
+      ]
+    },
+    {
+      "image": "/entarim/products/b055-pamuk-owersize-hamile-gomlek/pembe/1.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "b055-pamuk-owersize-hamile-gomlek"
+      ]
+    },
+    {
+      "image": "/entarim/products/b055-pamuk-owersize-hamile-gomlek/pembe/3.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "b055-pamuk-owersize-hamile-gomlek"
+      ]
+    },
+    {
+      "image": "/entarim/products/b121b3-hamile-pamuk-cizgili-bluz/mavi/1.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "b121b3-hamile-pamuk-cizgili-bluz"
+      ]
+    },
+    {
+      "image": "/entarim/products/b121b3-hamile-pamuk-cizgili-bluz/mavi/2.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "b121b3-hamile-pamuk-cizgili-bluz"
+      ]
+    },
+    {
+      "image": "/entarim/products/b121b3-hamile-pamuk-cizgili-bluz/mavi/3.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "b121b3-hamile-pamuk-cizgili-bluz"
+      ]
+    },
+    {
+      "image": "/entarim/products/b121b3-hamile-pamuk-cizgili-bluz/bej/1.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "b121b3-hamile-pamuk-cizgili-bluz"
+      ]
+    },
+    {
+      "image": "/entarim/products/b121b3-hamile-pamuk-cizgili-bluz/bej/2.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "b121b3-hamile-pamuk-cizgili-bluz"
+      ]
+    },
+    {
+      "image": "/entarim/products/b108-hamile-tunik-koton/saks/1.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "b108-hamile-tunik-koton"
+      ]
+    },
+    {
+      "image": "/entarim/products/b108-hamile-tunik-koton/saks/2.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "b108-hamile-tunik-koton"
+      ]
+    },
+    {
+      "image": "/entarim/products/b108-hamile-tunik-koton/saks/3.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "b108-hamile-tunik-koton"
+      ]
+    },
+    {
+      "image": "/entarim/products/b108-hamile-tunik-koton/mavi/1.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "b108-hamile-tunik-koton"
+      ]
+    },
+    {
+      "image": "/entarim/products/b108-hamile-tunik-koton/mavi/2.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "b108-hamile-tunik-koton"
+      ]
+    },
+    {
+      "image": "/entarim/products/b108-hamile-tunik-koton/mavi/3.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "b108-hamile-tunik-koton"
+      ]
+    },
+    {
+      "image": "/entarim/products/b108-hamile-tunik-koton/siyah/1.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "b108-hamile-tunik-koton"
+      ]
+    },
+    {
+      "image": "/entarim/products/b108-hamile-tunik-koton/siyah/2.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "b108-hamile-tunik-koton"
+      ]
+    },
+    {
+      "image": "/entarim/products/b108-hamile-tunik-koton/siyah/3.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "b108-hamile-tunik-koton"
+      ]
+    },
+    {
+      "image": "/entarim/products/b108-hamile-tunik-koton/beyaz/1.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "b108-hamile-tunik-koton"
+      ]
+    },
+    {
+      "image": "/entarim/products/b108-hamile-tunik-koton/beyaz/2.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "b108-hamile-tunik-koton"
+      ]
+    },
+    {
+      "image": "/entarim/products/b108-hamile-tunik-koton/beyaz/3.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "b108-hamile-tunik-koton"
+      ]
+    },
+    {
+      "image": "/entarim/products/b109-s004-hamile-tunik-koton/saks/1.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "b109-s004-hamile-tunik-koton"
+      ]
+    },
+    {
+      "image": "/entarim/products/b109-s004-hamile-tunik-koton/saks/2.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "b109-s004-hamile-tunik-koton"
+      ]
+    },
+    {
+      "image": "/entarim/products/b109-s004-hamile-tunik-koton/saks/3.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "b109-s004-hamile-tunik-koton"
+      ]
+    },
+    {
+      "image": "/entarim/products/b109-s004-hamile-tunik-koton/bej/1.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "b109-s004-hamile-tunik-koton"
+      ]
+    },
+    {
+      "image": "/entarim/products/b109-s004-hamile-tunik-koton/bej/2.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "b109-s004-hamile-tunik-koton"
+      ]
+    },
+    {
+      "image": "/entarim/products/b109-s004-hamile-tunik-koton/bej/3.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "b109-s004-hamile-tunik-koton"
+      ]
+    },
+    {
+      "image": "/entarim/products/b109-s004-hamile-tunik-koton/beyaz/1.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "b109-s004-hamile-tunik-koton"
+      ]
+    },
+    {
+      "image": "/entarim/products/b109-s004-hamile-tunik-koton/beyaz/2.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "b109-s004-hamile-tunik-koton"
+      ]
+    },
+    {
+      "image": "/entarim/products/b109-s004-hamile-tunik-koton/beyaz/3.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "b109-s004-hamile-tunik-koton"
+      ]
+    },
+    {
+      "image": "/entarim/products/b109-s004-hamile-tunik-koton/haki/1.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "b109-s004-hamile-tunik-koton"
+      ]
+    },
+    {
+      "image": "/entarim/products/b109-s004-hamile-tunik-koton/haki/2.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "b109-s004-hamile-tunik-koton"
+      ]
+    },
+    {
+      "image": "/entarim/products/b109-s004-hamile-tunik-koton/haki/3.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "b109-s004-hamile-tunik-koton"
+      ]
+    },
+    {
+      "image": "/entarim/products/b032-hamile-koton-tunik/mavi/1.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "b032-hamile-koton-tunik"
+      ]
+    },
+    {
+      "image": "/entarim/products/b032-hamile-koton-tunik/mavi/2.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "b032-hamile-koton-tunik"
+      ]
+    },
+    {
+      "image": "/entarim/products/b032-hamile-koton-tunik/mavi/3.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "b032-hamile-koton-tunik"
+      ]
+    },
+    {
+      "image": "/entarim/products/b032-hamile-koton-tunik/siyah/1.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "b032-hamile-koton-tunik"
+      ]
+    },
+    {
+      "image": "/entarim/products/b032-hamile-koton-tunik/siyah/2.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "b032-hamile-koton-tunik"
+      ]
+    },
+    {
+      "image": "/entarim/products/b032-hamile-koton-tunik/siyah/3.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "b032-hamile-koton-tunik"
+      ]
+    },
+    {
+      "image": "/entarim/products/b032-hamile-koton-tunik/beyaz/1.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "b032-hamile-koton-tunik"
+      ]
+    },
+    {
+      "image": "/entarim/products/b032-hamile-koton-tunik/beyaz/2.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "b032-hamile-koton-tunik"
+      ]
+    },
+    {
+      "image": "/entarim/products/b032-hamile-koton-tunik/bej/1.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "b032-hamile-koton-tunik"
+      ]
+    },
+    {
+      "image": "/entarim/products/b032-hamile-koton-tunik/bej/2.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "b032-hamile-koton-tunik"
+      ]
+    },
+    {
+      "image": "/entarim/products/b032-hamile-koton-tunik/bej/3.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "b032-hamile-koton-tunik"
+      ]
+    },
+    {
+      "image": "/entarim/products/e148-08-hamile-elbise-belmando/haki/1.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "e148-08-hamile-elbise-belmando"
+      ]
+    },
+    {
+      "image": "/entarim/products/e148-08-hamile-elbise-belmando/haki/2.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "e148-08-hamile-elbise-belmando"
+      ]
+    },
+    {
+      "image": "/entarim/products/e148-08-hamile-elbise-belmando/haki/3.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "e148-08-hamile-elbise-belmando"
+      ]
+    },
+    {
+      "image": "/entarim/products/e148-08-hamile-elbise-belmando/bordo/1.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "e148-08-hamile-elbise-belmando"
+      ]
+    },
+    {
+      "image": "/entarim/products/e148-08-hamile-elbise-belmando/bordo/2.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "e148-08-hamile-elbise-belmando"
+      ]
+    },
+    {
+      "image": "/entarim/products/e148-08-hamile-elbise-belmando/bordo/3.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "e148-08-hamile-elbise-belmando"
+      ]
+    },
+    {
+      "image": "/entarim/products/e148-08-hamile-elbise-belmando/lacivert/1.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "e148-08-hamile-elbise-belmando"
+      ]
+    },
+    {
+      "image": "/entarim/products/e148-08-hamile-elbise-belmando/lacivert/3.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "e148-08-hamile-elbise-belmando"
+      ]
+    },
+    {
+      "image": "/entarim/products/b053a-hamile-gomlek-yaka-orme-cizgili-tunik/lacivert-laciert-beyaz/1.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "b053a-hamile-gomlek-yaka-orme-cizgili-tunik"
+      ]
+    },
+    {
+      "image": "/entarim/products/b053a-hamile-gomlek-yaka-orme-cizgili-tunik/lacivert-laciert-beyaz/2.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "b053a-hamile-gomlek-yaka-orme-cizgili-tunik"
+      ]
+    },
+    {
+      "image": "/entarim/products/b053a-hamile-gomlek-yaka-orme-cizgili-tunik/lacivert-laciert-beyaz/3.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "b053a-hamile-gomlek-yaka-orme-cizgili-tunik"
+      ]
+    },
+    {
+      "image": "/entarim/products/b053a-hamile-gomlek-yaka-orme-cizgili-tunik/siyah/1.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "b053a-hamile-gomlek-yaka-orme-cizgili-tunik"
+      ]
+    },
+    {
+      "image": "/entarim/products/b053a-hamile-gomlek-yaka-orme-cizgili-tunik/siyah/2.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "b053a-hamile-gomlek-yaka-orme-cizgili-tunik"
+      ]
+    },
+    {
+      "image": "/entarim/products/b053a-hamile-gomlek-yaka-orme-cizgili-tunik/siyah/3.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "b053a-hamile-gomlek-yaka-orme-cizgili-tunik"
+      ]
+    },
+    {
+      "image": "/entarim/products/b080-hamile-cizgi-pamuk-bluz/lacivert/1.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "b080-hamile-cizgi-pamuk-bluz"
+      ]
+    },
+    {
+      "image": "/entarim/products/b080-hamile-cizgi-pamuk-bluz/lacivert/3.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "b080-hamile-cizgi-pamuk-bluz"
+      ]
+    },
+    {
+      "image": "/entarim/products/b126-cizgili-dokuma-duz-orme-owersize-hamile-bluz-tunik/duz-lacivert-lacivert-beyaz-cizgili/1.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "b126-cizgili-dokuma-duz-orme-owersize-hamile-bluz-tunik"
+      ]
+    },
+    {
+      "image": "/entarim/products/b126-cizgili-dokuma-duz-orme-owersize-hamile-bluz-tunik/duz-lacivert-lacivert-beyaz-cizgili/2.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "b126-cizgili-dokuma-duz-orme-owersize-hamile-bluz-tunik"
+      ]
+    },
+    {
+      "image": "/entarim/products/b126-cizgili-dokuma-duz-orme-owersize-hamile-bluz-tunik/duz-lacivert-lacivert-beyaz-cizgili/3.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "b126-cizgili-dokuma-duz-orme-owersize-hamile-bluz-tunik"
+      ]
+    },
+    {
+      "image": "/entarim/products/b122-pamuk-duz-orme-cizgili-dokuma-hamile-tunik/mavi-kemik-cizgili/1.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "b122-pamuk-duz-orme-cizgili-dokuma-hamile-tunik"
+      ]
+    },
+    {
+      "image": "/entarim/products/b122-pamuk-duz-orme-cizgili-dokuma-hamile-tunik/mavi-kemik-cizgili/3.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "b122-pamuk-duz-orme-cizgili-dokuma-hamile-tunik"
+      ]
+    },
+    {
+      "image": "/entarim/products/bbb120-owersize-hamile-cizgili-pamuk-gomlek/lacivert/1.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "bbb120-owersize-hamile-cizgili-pamuk-gomlek"
+      ]
+    },
+    {
+      "image": "/entarim/products/bbb120-owersize-hamile-cizgili-pamuk-gomlek/lacivert/2.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "bbb120-owersize-hamile-cizgili-pamuk-gomlek"
+      ]
+    },
+    {
+      "image": "/entarim/products/11bbbb103-hamile-tunik/mavi/1.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "11bbbb103-hamile-tunik"
+      ]
+    },
+    {
+      "image": "/entarim/products/11bbbb103-hamile-tunik/mavi/2.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "11bbbb103-hamile-tunik"
+      ]
+    },
+    {
+      "image": "/entarim/products/11bbbb103-hamile-tunik/mavi/3.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "11bbbb103-hamile-tunik"
+      ]
+    },
+    {
+      "image": "/entarim/products/11bbbb103-hamile-tunik/pembe/1.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "11bbbb103-hamile-tunik"
+      ]
+    },
+    {
+      "image": "/entarim/products/11bbbb103-hamile-tunik/pembe/2.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "11bbbb103-hamile-tunik"
+      ]
+    },
+    {
+      "image": "/entarim/products/11bbbb103-hamile-tunik/pembe/3.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "11bbbb103-hamile-tunik"
+      ]
+    },
+    {
+      "image": "/entarim/products/11bbbb103-hamile-tunik/mavi-beyaz/1.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "11bbbb103-hamile-tunik"
+      ]
+    },
+    {
+      "image": "/entarim/products/11bbbb103-hamile-tunik/mavi-beyaz/2.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "11bbbb103-hamile-tunik"
+      ]
+    },
+    {
+      "image": "/entarim/products/11bbbb103-hamile-tunik/mavi-beyaz/3.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "11bbbb103-hamile-tunik"
+      ]
+    },
+    {
+      "image": "/entarim/products/bb055-owersize-hamile-pamuk-ekose-gomlek/kirmizi-lacivert-krem/1.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "bb055-owersize-hamile-pamuk-ekose-gomlek"
+      ]
+    },
+    {
+      "image": "/entarim/products/bb055-owersize-hamile-pamuk-ekose-gomlek/kirmizi-lacivert-krem/2.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "bb055-owersize-hamile-pamuk-ekose-gomlek"
+      ]
+    },
+    {
+      "image": "/entarim/products/bb055-owersize-hamile-pamuk-ekose-gomlek/lacivert-krem/1.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "bb055-owersize-hamile-pamuk-ekose-gomlek"
+      ]
+    },
+    {
+      "image": "/entarim/products/bb055-owersize-hamile-pamuk-ekose-gomlek/lacivert-krem/2.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "bb055-owersize-hamile-pamuk-ekose-gomlek"
+      ]
+    },
+    {
+      "image": "/entarim/products/bb055-owersize-hamile-pamuk-ekose-gomlek/lacivert-krem/3.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "bb055-owersize-hamile-pamuk-ekose-gomlek"
+      ]
+    },
+    {
+      "image": "/entarim/products/bb055-owersize-hamile-pamuk-ekose-gomlek/ekru/1.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "bb055-owersize-hamile-pamuk-ekose-gomlek"
+      ]
+    },
+    {
+      "image": "/entarim/products/bb055-owersize-hamile-pamuk-ekose-gomlek/ekru/2.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "bb055-owersize-hamile-pamuk-ekose-gomlek"
+      ]
+    },
+    {
+      "image": "/entarim/products/bb055-owersize-hamile-pamuk-ekose-gomlek/ekru/3.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "bb055-owersize-hamile-pamuk-ekose-gomlek"
+      ]
+    },
+    {
+      "image": "/entarim/products/b032k3-hamile-koton-tunik/bej/1.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "b032k3-hamile-koton-tunik"
+      ]
+    },
+    {
+      "image": "/entarim/products/b032k3-hamile-koton-tunik/bej/2.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "b032k3-hamile-koton-tunik"
+      ]
+    },
+    {
+      "image": "/entarim/products/b032k3-hamile-koton-tunik/bej/3.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "b032k3-hamile-koton-tunik"
+      ]
+    },
+    {
+      "image": "/entarim/products/b032k3-hamile-koton-tunik/haki/1.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "b032k3-hamile-koton-tunik"
+      ]
+    },
+    {
+      "image": "/entarim/products/b032k3-hamile-koton-tunik/haki/2.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "b032k3-hamile-koton-tunik"
+      ]
+    },
+    {
+      "image": "/entarim/products/b032k3-hamile-koton-tunik/lacivert/1.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "b032k3-hamile-koton-tunik"
+      ]
+    },
+    {
+      "image": "/entarim/products/b032k3-hamile-koton-tunik/lacivert/2.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "b032k3-hamile-koton-tunik"
+      ]
+    },
+    {
+      "image": "/entarim/products/b032k3-hamile-koton-tunik/lacivert/3.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "b032k3-hamile-koton-tunik"
+      ]
+    },
+    {
+      "image": "/entarim/products/b032k3-hamile-koton-tunik/pembe/1.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "b032k3-hamile-koton-tunik"
+      ]
+    },
+    {
+      "image": "/entarim/products/b032k3-hamile-koton-tunik/pembe/2.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "b032k3-hamile-koton-tunik"
+      ]
+    },
+    {
+      "image": "/entarim/products/b032k3-hamile-koton-tunik/pembe/3.jpg",
+      "status": "kept",
+      "score": 0,
+      "reasons": [],
+      "products": [
+        "b032k3-hamile-koton-tunik"
+      ]
+    }
+  ]
+}
